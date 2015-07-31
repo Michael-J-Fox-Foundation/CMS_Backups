@@ -1,0 +1,57 @@
+<h2>Überblick über die Studie</h2>
+<p>Die Initiative zu Progressionsmarkern der Parkinsonkrankheit (Parkinson’s Progression Markers Initiative; PPMI) ist eine wegweisende klinische Studie zum besseren Verständnis des Fortschreitens der Parkinsonkrankheit. Das Ziel der PPMI ist die Identifikation und Beurteilung von Biomarkern, d. h. objektiven Merkmalen der Parkinsonkrankheit. </p>
+<p></p>
+<table id="biofindDesign" class="studyDesignTable">
+<tbody>
+<tr><th>Ort</th><th>Prüfzentrum</th><th>Ansprechpartner</th><th>Telefon</th></tr>
+<tr>
+<td>Innsbruck, Österreich</td>
+<td style="width: 131px;">Universität Innsbruck</td>
+<td>Fabienne Sprenger</td>
+<td>0043 512 504 23850</td>
+</tr>
+<tr>
+<td>Marburg, Deutschland</td>
+<td>Paraselsus-Elena Klinik</td>
+<td>Elisabeth Sittig-Wiegand</td>
+<td>0049 6421 5865215</td>
+</tr>
+<tr>
+<td>Kassel, Deutschland</td>
+<td>Paraselsus-Elena Klinik</td>
+<td>Diana Willeke</td>
+<td>561-6009-169</td>
+</tr>
+<tr>
+<td>Tübingen, Deutschland</td>
+<td>Universität Tübingen, DZNE und Hertie-Institut für klinische Hirnforschung</td>
+<td>Katharina Gauss</td>
+<td>07071 2983272</td>
+</tr>
+</tbody>
+</table>
+<script type="text/javascript">// <![CDATA[
+$(document).ready(function(){
+		var message = "\nKopfzeile: Geben Sie das Erhebungsformular zum Geruchssinn an Angehörige und Freunde weiter Betreffzeile: Tragen Sie zur Parkinsonforschung bei Nachricht: Möglichkeiten zur Mitwirkung an Forschungsprojekten, die zur Entwicklung von Früherkennung und sogar neuen Parkinson-Therapien führen können, liegen mir sehr am Herzen. Die Michael J. Fox Stiftung finanziert eine Studie mit dem Namen „Initiative zu Progressionsmarkern der Parkinsonkrankheit“ (Parkinson’s Progression Markers Initiative; PPMI), die Risikofaktoren und Indikatoren der Krankheit untersucht. Für diese Studie werden Personen im Alter von über 60 gesucht, die nicht an Parkinson erkrankt sind.Füllen Sie diese einfache Geruchssinn-Erhebung aus, um mitzuwirken: www.michaeljfox.org/GeruchssinnErhebung. \n\n";
+
+
+		
+		
+		$('#referFriendEmail').click(function(){
+		// alert('this is an alert');
+			$('textarea[name=message_to_friend]').val(message);
+		
+		
+
+		var value= $("input.newsletterSubmitButton").attr("onclick");
+		value = value.replace('EmailFriend','EmailFriendSmell');
+		$("input.newsletterSubmitButton").attr("onclick",value);
+					
+		})
+		
+		
+		
+		
+		
+	})
+// ]]></script>
