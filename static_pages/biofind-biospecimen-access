@@ -1,0 +1,66 @@
+<h1>Accessing BioFind Biospecimens</h1>
+<h2>Request Specimens</h2>
+<p>A critical component of BioFIND is the standardized, longitudinal collection of biospecimens, which include plasma, blood, cerebrospinal fluid (CSF), DNA and RNA. An inventory of the biospecimens is available through the BioFIND database and NINDS Repository and can be reviewed by investigators interested in incorporating BioFIND samples in their research. Please note that BioFIND samples can only be used for biomarker discovery and verification studies. Researchers interested in requesting specimens should review the BioFIND collection, processing and storage protocols for biospecimens, including the Biologics Manual.</p>
+<p class="h-divider"> </p>
+<h2>Biospecimen Review Process</h2>
+<p>The BioFIND study encourages interested investigators, whether associated with BioFIND or not, to apply for use of BioFIND biospecimens. Investigators should read all of the following information and refer to the <a href="/foundation/faq.html#biofind:_discov" class="orange">Data &amp; Specimens FAQ</a> prior to submitting a request for samples to understand the process to apply for use of biospecimens (plasma, DNA, RNA, blood and CSF). The full process is outlined below:</p>
+<div id="tabs" class="biospecimens">
+<ul>
+<li><a href="#tabs-1">Agree to <br /> Use Policy</a></li>
+<li><a href="#tabs-2">Agree to <br /> Publication Policy</a></li>
+<li><a href="#tabs-3">Complete <br /> Application/LOI</a></li>
+<li><a href="#tabs-4">Committee <br /> Review</a></li>
+<li><a href="#tabs-5">Submit <br /> Full Proposal</a></li>
+<li><a href="#tabs-6">Distribution</a></li>
+</ul>
+<div id="tabs-1">
+<p><font>The <a href="https://www.michaeljfox.org/files/NEW%20BioFIND%20Biospecimen%20Use%20Agreement.pdf" style="color: orange;">Biospecimen Use Agreement</a></font> ensures that investigators seeking use of BioFIND samples agree to the study’s intellectual property (IP) policy, sharing policy, and other general research terms. </p>
+</div>
+<div id="tabs-2">
+<p>The <a href="https://www.michaeljfox.org/files/BioFIND_%20Publication%20Policy_20121227-2.pdf" style="color: orange;">Publication Policy</a> ensures that investigators seeking use of BioFIND samples agree to acknowledge the appropriate sponsors and study members of the BioFIND team in scientific publications. </p>
+</div>
+<div id="tabs-3">
+<p>The first step of the specimen request process requires all investigators to agree to the <a href="https://www.michaeljfox.org/files/NEW%20BioFIND%20Biospecimen%20Use%20Agreement.pdf" style="color: orange;">Biospecimen Use Agreement</a>. Prospective applicants must then <a href="/page.html?access-parkinsons-clinical-data-and-biospecimens#requestaccess" class="orange">submit a LOI online</a>. This is a brief two-page summary outlining the rationale for the proposed biomarker, the current evidence for testing of this biomarker, the current experience with the proposed assay as well as the number and type of samples the investigator is requesting. <a href="/page.html?access-parkinsons-clinical-data-and-biospecimens#requestaccess" class="orange">Click here to access a template for the LOI.</a></p>
+<p>LOIs are not formal proposals per se but will act as the basis for selecting the most relevant and promising projects to be invited for a Full Proposal.</p>
+</div>
+<div id="tabs-4">
+<p>Following BRC review of the LOI, applicants will be informed whether they are invited to submit a Full Proposal via email. Instructions and all information necessary for submitting Full Proposals online will be included. Any feedback from the BRC will also be included. The BRC may choose to work closely with invited applicants in shaping the final experimental design of the Full Proposal.</p>
+</div>
+<div id="tabs-5">
+<p>A Full Proposal will receive one of the following decisions from the BRC:</p>
+<ul>
+<li>
+<p>Approval of application: After a positive review by the BRC, applicants will informed of their selection and be contacted to provide additional information to facilitate the logistics of accessing the specimens</p>
+</li>
+<li>
+<p>Disapproval of the application: Application was not deemed to be of significant merit and/or the proposed assays were not of sufficient quality to justify use of the limited samples.</p>
+</li>
+</ul>
+<p>Approved projects will obtain the biospecimens from the NINDS Repository at Coriell. Before any biospecimens or data will be released to the investigator(s) the following administrative items must be completed:</p>
+<ul>
+<li>
+<p>Acknowledgment and acceptance of <a href="https://www.michaeljfox.org/files/NEW%20BioFIND%20Biospecimen%20Use%20Agreement.pdf" style="color: orange;">Biospecimen Use Agreement </a>by the investigator(s), including compliance with the IP policy/guidelines outlined within the Agreement</p>
+</li>
+<li>
+<p>Receipt of regulatory approval (i.e. IRB) by the relevant institution(s) to handle/work with the biospecimens</p>
+</li>
+<li>
+<p>Signed Material Transfer Agreement between Coriell and the investigator’s institution.</p>
+</li>
+</ul>
+<p>To ensure that experiments occur on a timely basis, investigators will be required to complete the administrative necessities outlined above within three months of receipt of BRC approval. Failure to complete these items in a timely manner will result in forfeit of the approval to use samples.</p>
+</div>
+<div id="tabs-6">
+<p>Biospecimens will be shipped from Coriell to the receiving investigator in a blinded fashion. The samples are matched to a unique Coriell Identification number. When the analyses are completed the investigator will submit a report of the analyses by subject to the BRC. Upon approval, the BRC will provide a “code” that will match the unique Coriell ID with the BioFIND ID so the specimens can then be unblinded and investigators can match the data to the clinical data in the BioFIND database. Within three months of unblinding, all investigators who use samples must resubmit his/her data/analyses to the BRC. Upon submission, the BRC has the right but not the obligation to deposit these analyses in the BioFIND study database for use by the Research Community.</p>
+</div>
+</div>
+<p class="h-divider"> </p>
+<h2>Confidentiality Statement</h2>
+<p>MJFF and the BioFIND Biospecimen Review Committee (BRC) have entered into a partnership with the National Institute of Neurological Disorders and Stroke for accessing BioFIND biospecimens.  All applications and proposals, and associated materials made available to reviewers (collectively, the “Confidential Information”), shall not be disclosed or discussed with any individual who has not been officially designated to participate in the review process, according to the terms of the National Institute of Health’s Confidentiality and Non-Disclosure Rules.</p>
+<script type="text/javascript">// <![CDATA[
+$(function() {
+		$("#tabs").tabs({
+			event : "click"
+		});
+	});
+// ]]></script>
