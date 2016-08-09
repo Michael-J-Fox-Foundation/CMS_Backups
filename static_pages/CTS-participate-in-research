@@ -1,0 +1,41 @@
+<ul id="clinicalTrialsubMenu">
+<li class="active"><a href="/page.html?id='16">Participate in Research</a></li>
+<li><a href="/page.html?id=83">Trials 101</a></li>
+<li><a href="/page.html?id=84">Real Stories</a></li>
+<li><a href="/page.html?id=85">Find a Trial</a></li>
+</ul>
+<div style="clear: both;"></div>
+<div id="CTSVideoContainer"><iframe width="636" height="358" src="https://www.youtube.com/embed/0B89Sock-Rk" frameborder="0" allowfullscreen=""></iframe>
+<p>Watch our new video about the importance of clinical trial volunteers in the process of discovering new treatments and a cure for Parkinson’s disease.</p>
+</div>
+<hr style="border-top: 1px solid #F77F00; border-bottom: 0; margin: 1em 0;" />
+<h3 class="CTSTitle orange">Take Action</h3>
+<p class="CTSParagraph">Participating in a clinical trial is an invaluable way to get involved in the pursuit of a cure for Parkinson’s disease. <strong>No amount of funding or other resources can make up for a lack of volunteers.</strong></p>
+<div class="CTSLinkContainer">
+<div class="CTSLink CTS101">
+<h4>Clinical Trials 101</h4>
+<p class="CTSLinkParagraph">Learn about the different types of clinical research, what it means to participate, and common misconceptions.</p>
+<p class="CTSLinkC2A"><a href="/page.html?Clinical-Trials-101">Learn more...</a></p>
+<div class="triangleTopright"></div>
+</div>
+<div class="CTSLink CTSStories">
+<h4>Real Stories From People Like You</h4>
+<p class="CTSLinkParagraph">Real people in the PD community share their empowering stories of participating in clinical trials.</p>
+<p class="CTSLinkC2A"><a href="/page.html?Real-Stories">Read stories...</a></p>
+<div class="triangleTopright"></div>
+</div>
+<div class="CTSLink CTSTrials">
+<h4>Find a Trial in Your Area</h4>
+<p class="CTSLinkParagraph">Register for Fox Trial Finder today to find out about ongoing clinical trials near you.</p>
+<p class="CTSLinkC2A"><a href="/page.html?Find-a-Trial">Register now...</a></p>
+<div class="triangleTopright"></div>
+</div>
+</div>
+<script type="text/javascript">// <![CDATA[
+$(document).ready(function(){
+$(".CTSLink").click(function(){
+     window.location=$(this).find("a").attr("href"); 
+     return false;
+});
+});
+// ]]></script>
