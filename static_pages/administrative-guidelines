@@ -1,0 +1,216 @@
+<div class="content-full" style="padding: none; right: 28px;">
+<h1>ADMINISTRATIVE GUIDELINES</h1>
+<div class="info-bar orange" style="margin-top: 2em;">
+<h3 id="clinical_trial_" class="info-bar-l"><span class="faqCatChild">General Information</span> <a name="clinicaltrialparticipation" href="javascript:void(0);"></a></h3>
+<div class="clearit"></div>
+</div>
+<div id="info-hdr1-1" class="info-hdr" onclick="toggleInfo('1-1');">
+<p class="info-hdr-l"><img src="/images/icon-open-info.gif" alt="" width="18" height="18" /></p>
+<p style="width: 560px;" class="info-hdr-r bold">Choosing the Appropriate Funding Program</p>
+<div class="clearit"></div>
+</div>
+<div id="info-info1-1" class="info-info" style="display: none;">
+<p>MJFF invites investigators to carefully consider the stage of their particular project and choose the program that best fits the critical next step objectives of their particular research. <u>Applicants should NOT submit the same idea to multiple programs.</u> Projects submitted to a program that are deemed by MJFF staff to be more appropriate for a different program may at MJFF discretion be moved into another program for funding consideration.</p>
+</div>
+<div id="info-hdr1-2" class="info-hdr" onclick="toggleInfo('1-2');">
+<p class="info-hdr-l"><img src="/images/icon-open-info.gif" alt="" width="18" height="18" /></p>
+<p style="width: 560px;" class="info-hdr-r bold">Funding Information</p>
+<div class="clearit"></div>
+</div>
+<div id="info-info1-2" class="info-info" style="display: hidden;">
+<p>Total costs specified for an RFA are inclusive of both direct costs and indirect costs. MJFF policy is that no more than 25% (non-profit institutions) or 10% (for-profit organizations) of the direct costs may go to indirect costs. (Please see the submission instructions for each program regarding specific budget restrictions, including maximum allowable indirect cost percentages). Budgets must be appropriate and justifiable for the work described. Funds awarded under these programs cannot be used for general equipment and travel costs: specific requests will be considered only if essential to the execution of the proposed work. No equipment only grants will be considered. Each item and its cost must be clearly detailed in the budget and justified within the project description. In the event of a collaboration between multiple institutions, indirect costs are only paid once – either to the principal investigator’s (PI) institution as a percent of total direct costs, or in the case of multiple PIs, to each PI’s institution as a percent of each institution’s total direct costs.</p>
+<p>For projects (e.g., clinical trials) where the true cost may exceed the overall program budget limitations, MJFF is open to creative strategies for leveraging other funding sources applicants may have. For example, applicants may request MJFF funding to supplement an existing project in order to maximize data collected. Applicants should provide clear and detailed justification for how supplemental funding would enhance a project with respect to the ability to make critical decisions about study results.</p>
+</div>
+<div id="info-hdr1-3" class="info-hdr" onclick="toggleInfo('1-3');">
+<p class="info-hdr-l"><img src="/images/icon-open-info.gif" alt="" width="18" height="18" /></p>
+<p style="width: 560px;" class="info-hdr-r bold">Milestones</p>
+<div class="clearit"></div>
+</div>
+<div id="info-info1-3" class="info-info" style="display: hidden;">
+<p>Applicants are proposed time-dependent milestones to ensure completion of study objectives. Continuation of funding will be dependent upon successful completion of these milestones.</p>
+<p>Examples of key milestones include: IRB/IACUC approval, regulatory approvals, subject recruitment/assessment progress and completion points, patient assessment points, "go- no go" decision points, development of necessary research reagents and tools, and critical interim/final analysis timing. In cases where ethical/regulatory approval is required to perform work, such approvals may be required before initial payments are made, or in the cases of clinical trials within six months of award start date. Failure to meet these deadlines may result in termination of the award.</p>
+<p>MJFF grants are conditioned on your meeting certain milestones and deliverables including submission of expense and progress reports and participation in MJFF sponsored assessment meetings. Multi-year support is not automatic for any MJFF award and is contingent upon the grantee's submitted progress reports being favorably reviewed by an appointed MJFF Scientific Assessment Committee. This assessment is predicated on MJFF's review of progress to date, its determination of the quality of the scientific research performed, and its continued high relevance to PD and MJFF priorities ("MJFF Assessment Criteria").</p>
+</div>
+<div id="info-hdr1-4" class="info-hdr" onclick="toggleInfo('1-4');">
+<p class="info-hdr-l"><img src="/images/icon-open-info.gif" alt="" width="18" height="18" /></p>
+<p style="width: 560px;" class="info-hdr-r bold">Collaborations</p>
+<div class="clearit"></div>
+</div>
+<div id="info-info1-4" class="info-info" style="display: none;">
+<p>As one laboratory group may not possess the expertise in all steps of a particular project, collaborations are strongly encouraged for all proposals submitted to the MJFF. This is especially important for applicants seeking to use specific reagents or tools-including animal models of PD-for which the applicant has limited previous experience. Inability to develop or use tools proposed for a particular awarded project can lead to delay of funding and possible award termination.</p>
+</div>
+<div id="info-hdr1-5" class="info-hdr" onclick="toggleInfo('1-5');">
+<p class="info-hdr-l"><img src="/images/icon-open-info.gif" alt="" width="18" height="18" /></p>
+<p style="width: 560px;" class="info-hdr-r bold">Inclusion of Pharmacokinetic Information, Brain Penetration Data and Dosing Rationale</p>
+<div class="clearit"></div>
+</div>
+<div id="info-info1-5" class="info-info" style="display: hidden;">
+<p>Projects seeking to perform <em>in vivo</em> studies in animals or within human subjects of pharmacological agents should provide necessary data on the ability of pharmacological agents to engage the biological target of interest. This requires an understanding of the agent's bioavailability in the tissue region of interest (e.g. brain) with respect to dose and proposed route of administration. It also requires additional parameters related to the agent's <em>in vivo</em> half-life to help refine the timing and duration of treatment. If such information already exists, applicants should present these data in their proposal as rationale for the specific dose(s) planned for PD model or human testing. If such data is not yet available, applicants should seek these data before submitting or should propose collection of such information as part of their application. Proposals that do not include this information or that do not propose studies to obtain such information may not be considered for funding. Furthermore, if proposed within the application, obtaining these data will be a required initial milestone and continued funding will be contingent on successfully achieving the milestone.</p>
+</div>
+<div id="info-hdr1-6" class="info-hdr" onclick="toggleInfo('1-6');">
+<p class="info-hdr-l"><img src="/images/icon-open-info.gif" alt="" width="18" height="18" /></p>
+<p style="width: 560px;" class="info-hdr-r bold">Overlap of Proposed Projects with Existing MJFF Awards</p>
+<div class="clearit"></div>
+</div>
+<div id="info-info1-6" class="info-info" style="display: hidden;">
+<p>Applicants should carefully search our website for projects already supported by MJFF. Proposals with significant overlap to already funded work will likely not be considered. Further details of MJFF-funded projects can be found in our <a href="/foundation/funded-grants.php">Grant Database</a>.</p>
+</div>
+<div class="info-bar orange" style="margin-top: 2em;">
+<h3 id="clinical_trial_" class="info-bar-l"><span class="faqCatChild">REVIEW PROCESS AND CRITERIA</span> <a name="clinicaltrialparticipation" href="javascript:void(0);"></a></h3>
+<div class="clearit"></div>
+</div>
+<p>Applicants should review the specific submission instructions for each program provided on the MJFF website. Programs can either require a one or two stage submission process. When there are two stages to the MJFF review process: a ‘Pre-Proposal' stage and a ‘Full Proposal' stage. Note that the application, pre-proposal, and full proposal requirements for each program may differ and applicants should carefully review instructions for details, including use of required proposal templates.</p>
+<p>All submissions undergo an administrative and scientific review, which also considers overall funder priorities. Submitting companies will also undergo a general evaluation to assess financial and overall company health.</p>
+<div id="info-hdr2-1" class="info-hdr" onclick="toggleInfo('2-1');">
+<p class="info-hdr-l"><img src="/images/icon-open-info.gif" alt="" width="18" height="18" /></p>
+<p style="width: 560px;" class="info-hdr-r bold">Single Stage</p>
+<div class="clearit"></div>
+</div>
+<div id="info-info2-1" class="info-info" style="display: hidden;">
+<p>There is no pre-proposal submission requirement for this program and applicants will submit a full proposal for funding consideration. Applications that are complete and responsive to the RFA will be evaluated by MJFF Scientific Staff and a Grant Review Committee composed of scientists familiar with the methods of proposed projects as well as goals of the funding program Awards will be based on the outcome of this second scientific review and an administrative review which also considers overall funder priorities. Due to the rapid nature of these programs, we will be unable to provide written critiques for these submissions.</p>
+</div>
+<div id="info-hdr2-2" class="info-hdr" onclick="toggleInfo('2-2');">
+<p class="info-hdr-l"><img src="/images/icon-open-info.gif" alt="" width="18" height="18" /></p>
+<p style="width: 560px;" class="info-hdr-r bold">Two Stage</p>
+<div class="clearit"></div>
+</div>
+<div id="info-info2-2" class="info-info" style="display: hidden;">
+<p>The ‘Pre-proposal' stage is a required element of the application process. All submissions will undergo a review and selection process. <strong>Only those pre-proposals deemed to be of suitable scientific merit will be invited to submit a full application.</strong> Pre-proposals are reviewed by MJFF scientific staff in collaboration with the Chair and members of the Review Committee. In order to expedite the review process, we will be unable to provide written critiques for pre-proposals that are not invited for full application submission.</p>
+<p>If invited to submit a full proposal, applicants will receive additional instructions and information necessary for submitting online. Proposals will be evaluated by MJFF Scientific Staff and a Grant Review Committee composed of scientists familiar with the methods of proposed projects as well as goals of the funding program Awards will be based on the outcome of this second scientific review and an administrative review which also considers overall funder priorities. All applications will receive brief written comments. Due to administrative limitations, all review decisions are final and no appeals process is available at this time. Investigators are encouraged to use reviewer comments to improve applications for a subsequent round of funding through MJFF or another source.</p>
+</div>
+<div id="info-hdr2-3" class="info-hdr" onclick="toggleInfo('2-3');">
+<p class="info-hdr-l"><img src="/images/icon-open-info.gif" alt="" width="18" height="18" /></p>
+<p style="width: 560px;" class="info-hdr-r bold">General Review Criteria</p>
+<div class="clearit"></div>
+</div>
+<div id="info-info2-3" class="info-info" style="display: hidden;">
+<p>MJFF employs an expedited, abbreviated granting mechanism to accelerate translational movement of discoveries with the hope of impacting patient care quickly. Each submission will be reviewed by a minimum of two reviewers and are treated with confidentiality by MJFF and its reviewers. Although the goals and scope differ for each of the RFAs, a number of common criteria are used when evaluating any proposed project at each stage of review:</p>
+<p>Selection of projects at the pre-proposal stage and during the full proposal review is based on a variety of criteria, including the following:</p>
+<ul>
+<ul>
+<li>Responsiveness: Projects should fit the goals of the particular funding program</li>
+<li>Scientific rationale for the proposed study and its impact for patients: Proposed projects should address an area of critical unmet need for people with PD. Applicants should provide all essential preclinical and/or clinical rationale and indicate clearly how a particular project fits within the critical pathway for moving an idea or therapy closer toward new treatment options for patients.</li>
+<li>Innovation: Applicants should justify how proposed efforts will lead ultimately to novel therapeutic strategies or significant improvements on existing therapies. Use of novel methods that can increase chances for successful completion of a project or provide more direct and definitive data are particularly encouraged.</li>
+<li>Overall experimental design and objectives: Applicants should carefully describe each proposed study keeping the following issues in mind:</li>
+<ul style="margin-left: 50px;">
+<li>Each study hypothesis and/or objective should be clearly articulated and proposed methods should be appropriate and sufficient to achieve these goals.</li>
+<li>Details of key measures, statistical analysis plans (including use of appropriate power analyses) and ‘success criteria' for making decisions regarding next experimental steps should be described.</li>
+<li>Use of particular research tools (e.g., animal models) should be clearly justified.</li>
+<li>For studies involving living human subjects, evidence for adequate protection and safety monitoring should be included.</li>
+<li>Studies proposed as ancillary efforts to a larger project should be clearly justified and results clearly relevant for making decisions about the parent project. (Sufficient details of the parent project should be included to allow an evaluation of the ancillary study's rationale.</li>
+<li>Potential problem areas and alternative strategies should be outlined.</li>
+</ul>
+</ul>
+</ul>
+<br />
+<ul>
+<li>Investigator/Environment: The investigative team should be appropriately trained and well suited to carrying out the proposed work. The environment within which work will be performed should have sufficient access to resources to ensure successful completion of the project. Provisions for adequate data management, monitoring and analysis (e.g., biostatistical support) should be clearly indicated.</li>
+<li>Sharing Plan: Applicants should provide details on how data and/or research tools (e.g., clinical datasets, research reagents and models) will be made available to the public for future research purposes.</li>
+<li>Budget: The proposed budget should be reasonable and justified for the research proposed. Details of personnel (including non-paid collaborators), study reagents and supplies and all other costs should be clearly indicated and justified. Costs should be allocated to coincide with key project milestones and NOT simply averaged over the entire project period. <strong>The maximum base salary for an individual applying to an MJFF funding program is $185,100.</strong></li>
+<li>Project Timeline: Timelines for completing each study should be clearly defined and include relevant milestones. Project goals must be achievable within the award period.</li>
+<li>MJFF Portfolio: Overlap with other MJFF investments are considered before making any final funding decisions.</li>
+<li>Grantsmanship: Ideal proposals are written clearly and logically, with sufficient details to ensure that reviewers understand all critical aspects of the proposed project methods and plan.</li>
+</ul>
+</div>
+<div id="info-hdr2-4" class="info-hdr" onclick="toggleInfo('2-4');">
+<p class="info-hdr-l"><img src="/images/icon-open-info.gif" alt="" width="18" height="18" /></p>
+<p style="width: 560px;" class="info-hdr-r bold">Clinical Research Projects Criteria</p>
+<div class="clearit"></div>
+</div>
+<div id="info-info2-4" class="info-info" style="display: hidden;">
+<p>Clinical Study Design:</p>
+<ul>
+<li>Is the study hypothesis clearly articulated? Is the study design appropriate to the stated aims? Is the relevance to PD well-described?</li>
+<li>Does the proposed study design have adequate statistical power to address the hypothesis proposed? Pilot projects with appropriate power justification are acceptable.</li>
+<li>Are the patient populations studied well defined and appropriate to address the study aims? Are the primary and secondary outcome measures appropriate for the proposed study?</li>
+<li>Are provisions adequate for data management, monitoring and analysis? Is the analysis plan, including pre-specified outcome measures, well described?</li>
+<li>Are the procedures appropriate for research participant ascertainment, recruitment, case-definition or inclusion/exclusion criteria, and enrollment? Are there adequate controls in the study? If appropriate, does the proposed study contain a plan for recruitment of research participants? Are the milestones for recruitment reasonable and attainable?</li>
+<li>Are adequate protections for human subjects described in the proposal? What procedures and precautions are proposed to monitor safety and tolerability?</li>
+<li>If the applicant is proposing an ‘add-on' study to a trial, is there clear and justified rationale for the additional study component? Does it significantly improve the overall trial design and or the robustness of trial data? Will it help lead to improved ‘go/no-go' decision making regarding future development of the proposed therapeutic approach? (Sufficient details of the overall trial design should be included to allow an evaluation of impact of the add-on study.)</li>
+<li>Are doses appropriately selected? Sufficient Rationale for the dose selected?</li>
+</ul>
+</div>
+<div class="info-bar orange" style="margin-top: 2em;">
+<h3 id="clinical_trial_" class="info-bar-l"><span class="faqCatChild">CONFIDENTIALITY</span> <a name="clinicaltrialparticipation" href="javascript:void(0);"></a></h3>
+<div class="clearit"></div>
+</div>
+<p>MJFF treats all Pre-Proposals, Applications, research projects and associated research information (collectively, the "Confidential Information") in confidence using no less than reasonable care in protecting such Confidential Information from disclosure to third parties who do not participate in the grant review process and MJFF assessments. All Confidential Information will be used by MJFF and its grant reviewers only internally for the purposes of reviews and assessments, and will be shared only in accordance with its sharing policy stated herein. Notwithstanding MJFF's and its reviewers' obligations regarding such Confidential Information, such obligations cover any information retained in their unaided memories and may not be used without the permission of the disclosing party. Notwithstanding the foregoing, the obligations governing the disclosure and use of Confidential Information do not apply with respect to Confidential Information that it can be demonstrated:</p>
+<ol>
+<li>was generally known to the public prior to the effective date of this RFA; or</li>
+<li>becomes generally known to the public through no unlawful or unauthorized act of omission by any recipient of Confidential Information, or in violation of this RFA; or</li>
+<li>was independently developed by any recipient prior to the effective date of this RFA; or</li>
+<li>was disclosed to a recipient by a third party who has the right to make such disclosure.</li>
+</ol>
+<p>If any recipient of Confidential Information is requested to produce any of the Confidential Information pursuant to a legal or governmental proceeding, such recipient shall give the applicant or other owner of such Confidential Information (the "Discloser") as much prior notice of such requirement as is reasonably practicable under the circumstances and shall use its reasonable efforts to assist the Discloser of such Confidential Information in objecting to such request. If a recipient is compelled to disclose any of the Confidential Information pursuant to such legal or governmental proceeding, such recipient shall use its reasonable efforts to assist Discloser in obtaining confidential treatment for such Confidential Information, will disclose only that portion of the Confidential Information which is responsive to the order, and will provide the Discloser with any copies of Confidential Information so disclosed; provided that such Confidential Information shall remain confidential until it falls into one of the categories specified in this Section entitled "CONFIDENTIALITY."</p>
+<div class="info-bar orange" style="margin-top: 2em;">
+<h3 id="clinical_trial_" class="info-bar-l"><span class="faqCatChild">CONFLICTS OF INTEREST</span> <a name="clinicaltrialparticipation" href="javascript:void(0);"></a></h3>
+<div class="clearit"></div>
+</div>
+<p>Principal investigators and their paid collaborators submitting applications to the RFA will be excluded from serving on the GRC that reviews their grant. However, non-applicants who are invited to serve on the GRC may still have a conflict of interest that arises during the grant review process. A GRC member is judged to have a conflict of interest if (1) he or she is a collaborator, sub-contractor, and/or consultant with an investigator that has a grant application before the GRC, (2) the application is from the reviewer's own institution regardless of whether or not reviewer has had any involvement in preparing the application, (3) the member, his/her immediate family, or close professional associate(s) has a financial or vested interest in the outcome of the proposed research (even if no significant involvement is apparent in the proposal being considered), or (4) the GRC member has been involved in discussions regarding the application, is a provider of services, cell lines, reagents, or other materials, or writer of a letter of reference for the applicant.</p>
+<p>When a conflict of interest is deemed to be present, the GRC member will be ineligible to review the proposal and will be asked to leave the room when the proposal is discussed during the review process, including when it is scored. Nor will the results of the review be made known to the conflicted reviewer until after the entire review process is complete. GRC members are also urged to avoid any actions that might give the appearance that a conflict of interest exists, even though he or she believes there may not be an actual conflict of interest.</p>
+<div class="info-bar orange" style="margin-top: 2em;">
+<h3 id="clinical_trial_" class="info-bar-l"><span class="faqCatChild">SPECIAL REQUIREMENTS</span> <a name="clinicaltrialparticipation" href="javascript:void(0);"></a></h3>
+<div class="clearit"></div>
+</div>
+<div id="info-hdr3-1" class="info-hdr" onclick="toggleInfo('3-1');">
+<p class="info-hdr-l"><img src="/images/icon-open-info.gif" alt="" width="18" height="18" /></p>
+<p style="width: 560px;" class="info-hdr-r bold">Liability</p>
+<div class="clearit"></div>
+</div>
+<div id="info-info3-1" class="info-info" style="display: none;">
+<p>MJFF's role in grants awarded through MJFF funding opportunities is that of a funder; MJFF cannot be considered the sponsor of funded projects. As such, MJFF will not assume any liability associated with funded projects. Applicants who are ultimately awarded in these programs will be required to sign an award agreement that releases MJFF from liability.</p>
+<p><i>Sharing Policy</i></p>
+<p>As MJFF is a public charity, research conducted with funds from MJFF (the "Research") must be conducted in the public interest. MJFF acknowledges that any discoveries and related regulatory approvals made by researchers through the Research are the property of those conducting and responsible for the Research and that unless otherwise agreed to by the parties, such researchers have the first opportunity to exploit the Research commercially or otherwise. Notwithstanding, each Applicant acknowledges that MJFF has the right, after reasonable consultation which will not be unreasonably denied, conditioned or delayed, to release a summary of findings of the Research within 3 months from the date of the grant program expiration.</p>
+<p>Notwithstanding the foregoing, MJFF requires that all tools or reagents (i) funded by and (ii) that result from awarded projects (collectively, the "Results") be made readily available to the community including MJFF for research purposes. You will be required to agree that you will cooperate and collaborate with MJFF and other researchers and share access to Results on fair and reasonable terms and conditions within 3 months of grant expiration. By submitting your application, you and your institution are confirming that you are not aware of any requirements that would prohibit, delay, or restrict your ability to share your Results from this initiative, including requirements of third-party collaborators or companies with which you are affiliated.</p>
+</div>
+<div id="info-hdr3-2" class="info-hdr" onclick="toggleInfo('3-2');">
+<p class="info-hdr-l"><img src="/images/icon-open-info.gif" alt="" width="18" height="18" /></p>
+<p style="width: 560px;" class="info-hdr-r bold">Intellectual Property Agreements among Collaborators</p>
+<div class="clearit"></div>
+</div>
+<div id="info-info3-2" class="info-info" style="display: none;">
+<p>Although MJFF does not specify when intellectual property (IP) negotiations must take place among researchers funded under this program, MJFF does require that collaborators agree on any material IP issues prior to submission of final applications. <u>Applications that do not include a letter indicating that IP matters have been discussed will not be reviewed.</u></p>
+</div>
+<div id="info-hdr3-3" class="info-hdr" onclick="toggleInfo('3-3');">
+<p class="info-hdr-l"><img src="/images/icon-open-info.gif" alt="" width="18" height="18" /></p>
+<p style="width: 560px;" class="info-hdr-r bold">Clinical Trial Registration</p>
+<div class="clearit"></div>
+</div>
+<div id="info-info3-3" class="info-info" style="display: none;">
+<p>MJFF requires that any clinical trial awarded under any of its funding programs be registered with FoxTrialFinder.org, Clinicaltrials.gov, PDTrials.org, or other appropriate public registry.</p>
+</div>
+<div id="info-hdr3-4" class="info-hdr" onclick="toggleInfo('3-4');">
+<p class="info-hdr-l"><img src="/images/icon-open-info.gif" alt="" width="18" height="18" /></p>
+<p style="width: 560px;" class="info-hdr-r bold">Publication</p>
+<div class="clearit"></div>
+</div>
+<div id="info-info3-4" class="info-info" style="display: none;">
+<p>Results of the Research will be published as rapidly as possible in the open scientific literature, consistent with high standards of scientific excellence and rigor, and include acknowledgement of the funding provided by The Michael J. Fox Foundation for Parkinson's Research.</p>
+</div>
+<div id="info-hdr3-5" class="info-hdr" onclick="toggleInfo('3-5');">
+<p class="info-hdr-l"><img src="/images/icon-open-info.gif" alt="" width="18" height="18" /></p>
+<p style="width: 560px;" class="info-hdr-r bold">Requirements for Grantees</p>
+<div class="clearit"></div>
+</div>
+<div id="info-info3-5" class="info-info" style="display: none;">
+<ul>
+<li><i>Progress Reports.</i> Progress reports are due every six months or at other times as deemed necessary by MJFF for project evaluation. Progress report forms will be provided by MJFF approximately two months before they are due.</li>
+<li><i>Assessment Meeting.</i> Principal investigators on funded grants are required to attend assessment meetings in-person at the midpoint and completion of their project at which they will report on the progress of their projects, exchange information with other investigators, explore possible collaborative efforts among grantees, and identify resources that would enhance the productivity of the grantees or the field-at-large.</li>
+<li><i>Financial Accountability.</i> Grantees are expected to account for the moneys expended under any MJFF grant; any moneys spent either not in accordance with the approved research project or prior to pre-approval of any material change in your project are both (i) recoverable by, and subject to restitution by you, to MJFF and (ii) may be cause for immediate termination of funding by MJFF.</li>
+</ul>
+<p>Grantees are expected to meet scheduled milestones and deliver deliverables on time, and failure to meet milestones, furnish scheduled deliverables, including any reports, or to comply with the terms of the grant may serve as one or more bases for termination of funding by MJFF. Additionally, progress reports must be favorably reviewed by an MJFF-appointed Assessment Committee against MJFF Assessment Criteria if funding is to continue. The assessment meeting will occur at the completion of the award. Travel expenses will be provided by MJFF and should not be included in the application budget.</p>
+</div>
+<div id="info-hdr3-6" class="info-hdr" onclick="toggleInfo('3-6');">
+<p class="info-hdr-l"><img src="/images/icon-open-info.gif" alt="" width="18" height="18" /></p>
+<p style="width: 560px;" class="info-hdr-r bold">Supplemental Funding</p>
+<div class="clearit"></div>
+</div>
+<div id="info-info3-6" class="info-info" style="display: none;">
+<p>While we encourage awardees to seek additional funds to further their work once the term of the initial award has expired, MJFF has no guaranteed policy for continuation of grants. MJFF may, at its discretion, seek to further support clearly successful projects. Awardees are also eligible to apply for funding under another MJFF RFA.</p>
+</div>
+<div class="info-bar orange" style="margin-top: 2em;">
+<h3 id="clinical_trial_" class="info-bar-l"><span class="faqCatChild">INQUIRIES</span> <a name="clinicaltrialparticipation" href="javascript:void(0);"></a></h3>
+<div class="clearit"></div>
+</div>
+<p>MJFF welcomes the opportunity to clarify any issues or questions from potential applicants regarding any MJFF funding program. To avoid submission complications, MJFF encourages questions well in advance of the submission deadlines. Please direct inquiries regarding programmatic, fiscal and administrative issues to <a href="mailto:grants@michaeljfox.org">grants@michaeljfox.org.</a></p>
+</div>
