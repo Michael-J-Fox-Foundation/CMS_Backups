@@ -1,0 +1,181 @@
+<h1>Clinical Trial Quiz</h1>
+<div id="quizContainer" class="flexContainer">
+<div id="quiz-slider" class="flexslider">
+<ul class="slides">
+<li>
+<div id="intro"><!---
+<h2>WHAT&rsquo;S YOUR PARKINSON&rsquo;S CLINICAL RESEARCH IQ?</h2>
+<p>Are you an expert on Parkinson&rsquo;s clinical research? Test yourself with our true or false quiz!</p>
+---> <img src="/admin/images/quiz_intro.jpg" alt="Are you an expert on Parkinsons research?" width="618" height="300" /></div>
+</li>
+<li>
+<div id="question1">
+<p class="tf"> </p>
+<p class="span number">1</p>
+<p> </p>
+<p class="question">Clinical trials for Parkinson’s have no trouble recruiting volunteers.</p>
+</div>
+</li>
+<li>
+<div id="answer1">
+<p class="tf"> </p>
+<p class="span txt">False</p>
+<p> </p>
+<p class="answer">Clinical trial recruitment is a major challenge across all diseases — especially Parkinson’s. Thirty percent of all clinical trials fail to recruit a single subject and 85 percent of trials finish late due to recruitment troubles. Despite a willingness to participate, fewer than 10 percent of PD patients take part in trials. The more volunteers we have for Parkinson’s clinical trials, the sooner we will have new treatments and, ultimately, a cure.</p>
+</div>
+</li>
+<li>
+<div id="question2">
+<p class="tf"> </p>
+<p class="span number">2</p>
+<p> </p>
+<p class="question">Participants in clinical trials are basically guinea pigs.</p>
+</div>
+</li>
+<li>
+<div id="answer2">
+<p class="tf"> </p>
+<p class="span txt">False</p>
+<p> </p>
+<p class="answer">Participants in clinical trials are willing volunteers who go through an extensive consent process in order to fully understand their role and any potential risks. They are protected by the patient’s bill of rights and by stringent privacy laws. As a volunteer, you are free to end your participation in the trial at any point. You can even ask that your data be destroyed. A majority of clinical trial participants report their experience was positive. Participants say they especially appreciate the individualized medical attention they receive during a study, and the knowledge that they are helping the Parkinson’s community.</p>
+</div>
+</li>
+<li>
+<div id="question3">
+<p class="tf"> </p>
+<p class="span number">3</p>
+<p> </p>
+<p class="question">A majority of participants get a placebo.</p>
+</div>
+</li>
+<li>
+<div id="answer3">
+<p class="tf"> </p>
+<p class="span txt">False</p>
+<p> </p>
+<p class="answer">The greatest chance you will get a placebo is 50 percent. But depending on the trial, it can be less likely (for example, if different doses of a treatment are being tested, there may be three treatment groups at different doses and only one placebo group). Overall, fewer than half of all clinical research participants receive a placebo.</p>
+</div>
+</li>
+<li>
+<div id="question4">
+<p class="tf"> </p>
+<p class="span number">4</p>
+<p> </p>
+<p class="question">Not all clinical trials are designed to test new drugs.</p>
+</div>
+</li>
+<li>
+<div id="answer4">
+<p class="tf"> </p>
+<p class="span txt">True</p>
+<p> </p>
+<p class="answer">While interventional trials focus on testing new drugs, many others do not. Current or recent Parkinson’s trials have involved filling out surveys, completing a spit test to compile genetic information, undergoing acupuncture treatment, singing, playing Nintendo Wii, or exercising under controlled conditions.</p>
+</div>
+</li>
+<li>
+<div id="question5">
+<p class="tf"> </p>
+<p class="span number">5</p>
+<p> </p>
+<p class="question">Participants don’t have to agree to every experiment in a trial.</p>
+</div>
+</li>
+<li>
+<div id="answer5">
+<p class="tf"> </p>
+<p class="span txt">False</p>
+<p> </p>
+<p class="answer">Participants are never exposed to experiments to which they didn’t agree. All volunteers go through an extensive consent process before the study begins. Most trial participants report feeling well-informed about any risks involved in the study, as well as the study’s potential outcomes.</p>
+</div>
+</li>
+<li>
+<div id="question6">
+<p class="tf"> </p>
+<p class="span number">6</p>
+<p> </p>
+<p class="question">Clinical trials are in particular need of patients newly diagnosed with Parkinson’s.</p>
+</div>
+</li>
+<li>
+<div id="answer6">
+<p class="tf"> </p>
+<p class="span txt">True</p>
+<p> </p>
+<p class="answer">Clinical trials need Parkinson’s patients at all stages of the disease — from newly diagnosed to advanced stages of PD. However, the trials toward a disease-modifying treatment often most need people who have been very recently diagnosed with PD and haven’t started taking medication (sometimes referred to as de novo patients). But no matter how long you have had Parkinson’s, you are likely eligible to participate in several different studies.</p>
+</div>
+</li>
+<li>
+<div id="question7">
+<p class="tf"> </p>
+<p class="span number">7</p>
+<p> </p>
+<p class="question">Participating in a clinical trial would interfere with my usual care.</p>
+</div>
+</li>
+<li>
+<div id="answer7">
+<p class="tf"> </p>
+<p class="span txt">False</p>
+<p> </p>
+<p class="answer">Participating in a trial should not interfere with your usual care. You can — and should — continue to see your current medical specialists. Additionally, many people with PD report that they benefit from the individualized medical attention they receive as part of a trial.</p>
+</div>
+</li>
+<li>
+<div id="question8">
+<p class="tf"> </p>
+<p class="span number">8</p>
+<p> </p>
+<p class="question">After a trial is completed, participants may get access to the drug that was tested.</p>
+</div>
+</li>
+<li>
+<div id="answer8">
+<p class="tf"> </p>
+<p class="span txt">True</p>
+<p> </p>
+<p class="answer">The length of time it takes for participants to get access to the drug that was tested depends on the phase of the trial and its future outcomes. If the trial advances to the next phase, sometimes it is possible for the participants to continue on to this next phase. To speed new treatments into the hands of patients, more trial volunteers are needed. More volunteers means faster progress.</p>
+</div>
+</li>
+<li>
+<div id="question9">
+<p class="tf"> </p>
+<p class="span number">9</p>
+<p> </p>
+<p class="question">If my doctor doesn’t talk to me about trials, it means I’m not a good candidate.</p>
+</div>
+</li>
+<li>
+<div id="answer9">
+<p class="tf"> </p>
+<p class="span txt">False</p>
+<p> </p>
+<p class="answer">It’s fairly common for doctors not to mention clinical trials to their patients, and the reasons vary. Sometimes the appointment just isn’t long enough. Other times your doctor may mistakenly assume you aren’t interested in volunteering. Many patients report that it’s important to them to talk with their doctor about getting involved in research. Fox Trial Finder can help: Print out your most recent list of matches and bring it to your next appointment for discussion.</p>
+</div>
+</li>
+<li>
+<div id="question10">
+<p class="tf"> </p>
+<p class="span number">10</p>
+<p> </p>
+<p class="question">People who don’t have Parkinson’s can’t participate in clinical trials.</p>
+</div>
+</li>
+<li>
+<div id="answer10">
+<p class="tf"> </p>
+<p class="span txt">False</p>
+<p> </p>
+<p class="answer">Parkinson’s clinical trials also need people who don’t have the disease. In fact, these so-called “control volunteers” are often the hardest to find. Whether you have PD or not, you can play a role in speeding progress. Register for Fox Trial Finder today!</p>
+</div>
+</li>
+</ul>
+</div>
+</div>
+<div class="therow3">
+<div class="rowimg" style="margin: 0 11px 0 100px;"><a href="http://foxtrialfinder.michaeljfox.org/" target="_blank"><img src="/admin/images/researchtools_justfox.png" alt="Podcast" /></a></div>
+<div class="rowtxt" style="margin-top: 10px; width: 280px;">
+<p style="margin-top: 0px;" class="subsubheads">Register on <a href="http://foxtrialfinder.michaeljfox.org/" target="_blank">Fox Trial Finder</a> today to learn how you can make an invaluable contribution in the search for a cure.</p>
+<!--
+<p style="margin-top:3px;" mce_style="margin-top:3px;">Text to be Added</p>
+--></div>
+</div>
