@@ -1,0 +1,101 @@
+<h1>Say Thank You to a PPMI Trial Participant</h1>
+<div id="formIntro">
+<p>The <a href="https://www.michaeljfox.org/get-involved/parkinsons-progression-marker-initiative.html">Parkinson’s Progression Markers Initiative (PPMI)</a> is MJFF’s landmark observational research study to identify biomarkers of Parkinson’s disease progression. Four hundred newly diagnosed PD patients and 200 control participants will visit trial sites for 14 separate day-long visits filled with tests and assessments over a five year period.</p>
+<p>To recognize the enormous contribution these individuals are making, MJFF is launching a letter writing campaign. The goal: to say thank you to the courageous individuals who are making this quest for biomarkers possible. No matter how much money is raised, how many clinicians work together, or the amount of planning that is done, no progress would be possible without the time, energy, and commitment (urine, blood, and spinal fluid!) of these individuals.</p>
+<p class="h-divider"> </p>
+<h2>How to Share Your Thanks</h2>
+<p>MJFF is appealing to patients, caregivers, friends, researchers, coordinators, staff members – anyone who wishes to thank a PPMI participant. To send your letter, simply fill out the form below. MJFF will distribute these letters to the site to share with study participants at each visit. Here are some ideas to consider including in your letter:</p>
+<ul>
+<li>Why you are grateful to these people for stepping up</li>
+<li>Why you think what is being achieved in PPMI is valuable</li>
+<li>A personal story about the impact PD has had on your life</li>
+<li>How your work or life is enhanced by what is happening in PPMI</li>
+</ul>
+<p>Need inspiration? <a href="#inline" style="font-weight: bold; color: orange;" class="hiddenLetter">See an Example Letter</a></p>
+<p class="h-divider"> </p>
+<h2>Write your letter here</h2>
+<div id="formCanvas"><form id="ppmi_thankyou">
+<table style="margin-bottom: 10px;">
+<tbody>
+<tr>
+<td style="width: 300px; margin-bottom: 5px;"><label for="name" style="font-size: 16px; color: #333;">Your First Name and Last Initial (optional)</label></td>
+<td><input id="name" name="name" type="text" style="-webkit-border-radius: 3px; -moz-border-radius: 3px; -ms-border-radius: 3px; -o-border-radius: 3px; border-radius: 3px; height: 22px; line-height: 22px; font-size: 16px; border-color: #D6E3E8;" /></td>
+</tr>
+<tr>
+<td style="width: 300px; margin-bottom: 5px;"><label for="connection" style="font-size: 16px; color: #333;">Role or connection to PD or PPMI</label></td>
+<td><input id="connection" name="connection" type="text" style="-webkit-border-radius: 3px; -moz-border-radius: 3px; -ms-border-radius: 3px; -o-border-radius: 3px; border-radius: 3px; height: 22px; line-height: 22px; font-size: 16px; border-color: #D6E3E8;" /></td>
+</tr>
+</tbody>
+</table>
+<textarea name="letter" cols="100" rows="15" style="font-size: 14px;"></textarea> <input type="submit" value="Submit" style="margin-top: 10px; background-color: #f67f00; width: 240px; height: 44px; margin-bottom: 10px; color: white; text-align: center; font-weight: bold; vertical-align: middle; font-size: 16px; padding: 5px 10px 5px 10px;" /></form></div>
+</div>
+<div id="inline" style="text-align: left; padding: 20px; height: auto; font-size: 1.2em;">
+<p>Dear PPMI participant,</p>
+<p>Imagine being 47 years old, a physician and surgeon with three teenaged kids being told that you have Parkinson’s disease. I am that person and since that scary day over 4 years ago, I have hoped for a cure.</p>
+<p>And although you do not know me, your courageous and extremely generous enrollment in the PPMI study has me more than hopeful that a cure will be found.</p>
+<p>While I was not able to be in the study myself, my husband, brother-in-law, a patient and several friends stepped up to the plate just like you. As a physician, I know that this study has an important task because finding a true biomarker will change the face of PD research and drug development. And yes, maybe even a cure.</p>
+<p>So no matter how much money is raised or how many clinicians work together, no progress would be possible without the time, energy, and enormous contributions (urine, blood, and spinal fluid!) made by you and the other brave individuals who make up this study subject population.</p>
+<p>I am very proud to tell you that I am a member of The MJFF Patient Advisory Council and as such I get a first hand accounting and assessment of where the PPMI stands. When I think about the thousands of samples and tons of data pouring into the PPMI database already, I am excited about the possibilities for all of us with PD.</p>
+<p>I am one of many who are too young to have this disease. I know I speak for all of us when I say “You are our hero”. Thanks so much.</p>
+<p>Sincerely,<br />Karen Jaffe</p>
+</div>
+<div id="confirmationMessage"></div>
+<script type="text/javascript">// <![CDATA[
+$(document).ready(function(){
+	$('#inline').hide();
+$('.hiddenLetter').click(function(){
+$('#inline').show();
+});
+	$(".hiddenLetter").fancybox({
+		maxWidth	: 800,
+		maxHeight	: 600,
+		fitToView	: false,
+		width		: '70%',
+		height		: '70%',
+		autoSize	: false,
+		closeClick	: false,
+		openEffect	: 'none',
+		closeEffect	: 'none'
+	});
+	
+	
+	$("#ppmi_thankyou").submit(function(event){
+    // setup some local variables
+	   var $form = $(this),
+        // let's select and cache all the fields
+        $inputs = $form.find("input, select, button, textarea"),
+        // serialize the data in the form
+        serializedData = $form.serialize();
+
+    // let's disable the inputs for the duration of the ajax request
+    $inputs.attr("disabled", "disabled");
+
+    // fire off the request to /form.php
+    $.ajax({
+        url: "http://mbwenger.com/mjff/ppmi_thankyou.php",
+        type: "post",
+       data: serializedData,
+        // callback handler that will be called on success
+        success: function(response, textStatus, jqXHR){
+            // log a message to the console
+			$('#formCanvas').hide();
+            $('#confirmationMessage').html(response);
+        },
+        // callback handler that will be called on error
+        error: function(jqXHR, textStatus, errorThrown){
+			$('#formCanvas').hide();
+			 $('#confirmationMessage').html("<p>Thank you for submitting a letter to support the Parkinson’s Progression Marker’s Initiative. Your words play a critical role in helping us continue to inspire the individuals who are participating to remain involved.");
+        },
+        // callback handler that will be called on completion
+        // which means, either on success or error
+        complete: function(){
+            // enable the inputs
+            $inputs.removeAttr("disabled");
+        }
+    });
+
+    // prevent default posting of form
+    event.preventDefault();
+});
+});
+// ]]></script>
