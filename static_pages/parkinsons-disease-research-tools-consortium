@@ -1,0 +1,74 @@
+<h1 style="margin-bottom: 0;">Parkinson’s Disease Research Tools Consortium</h1>
+<p><img src="/files/TA_LOGO_HORIZ_RGB.png" width="500" height="132" /></p>
+<p>Researchers rely on critical tools, such as laboratory reagents and pre-clinical models, to understand the causes and mechanisms underlying disease and to develop effective treatments. When such tools are unavailable, investigators often must make their own, dedicating time and resources that would be better spent studying disease. Many existing tools lack sufficient quality control data, are difficult to obtain by the wider research community, or may come with restrictive license terms and fees that hinder drug-makers’ ability to use them. Promoting the generation and availability of critical research tools is a key way to accelerate therapeutic development for Parkinson’s patients.</p>
+<p>To drive tool development toward the greatest needs of the field, the Foundation is spearheading the Parkinson’s Disease Research Tools Consortium. Via this precompetitive consortium, MJFF and industry partners work to better understand existing tools and their use in laboratory experiments, as well as to develop new tools to address unmet challenges.</p>
+<p></p>
+<table style="width: 100%;" border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td><img src="/files/Abbvie%20logo%20png.PNG" style="text-align: center; margin-right: auto; display: block; margin-left: auto;" width="150" /></td>
+<td width="50"></td>
+<td><img src="/files/Amicus2.jpg" style="text-align: center; margin-right: auto; display: block; margin-left: auto;" width="150" height="75" /></td>
+<td width="50"></td>
+<td><img src="/files/merck_2016.png" style="text-align: center; display: block; margin-left: auto; margin-right: auto;" width="150" height="75" /></td>
+</tr>
+<tr>
+<td><img src="/files/AstraZeneca.jpg" style="text-align: center; margin-right: auto; display: block; margin-left: auto;" width="150" height="75" /></td>
+<td width="50"></td>
+<td><img src="/files/Biogen_Logo_Standard-rgb-01.jpg" style="text-align: center; margin-right: auto; display: block; margin-left: auto;" width="150" height="40" /></td>
+<td width="50"></td>
+<td><img src="/files/Bristol_Myers_Squibb_logo.jpg" style="text-align: center; margin-right: auto; display: block; margin-left: auto;" width="150" height="26" /></td>
+<td width="50"></td>
+</tr>
+<tr>
+<td><img src="/files/Lilly2.jpg" style="display: block; margin-left: auto; margin-right: auto;" width="150" height="75" /></td>
+<td width="50"></td>
+<td style="text-align: center; margin-right: 10px;"><img src="/files/Nueroscience2.jpg" width="150" height="75" /></td>
+<td width="50"></td>
+<td style="text-align: center; margin-right: 10px;"><img src="/files/UpsherSmith2.jpg" width="150" height="75" /></td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p></p>
+<p>Industry groups interested in joining the consortium are invited to contact us for more information at <a href="mailto:researchpartnerships@michaeljfox.org" style="color: orange;">researchpartnerships@michaeljfox.org</a> .</p>
+<div id="signupPop" style="display: none;">
+<h2>Sign up for Email Updates</h2>
+<p class="sm">Parkinson's research breaking news and<br />funding opportunities straight to your inbox.</p>
+</div>
+<p><a href="#signupPop" style="display: none;" id="popMe" class="fancybox">Pop me</a></p>
+<script type="text/javascript">// <![CDATA[
+function popFunction() {
+        var iframe = document.createElement('iframe');
+        $("#signupPop").append(iframe);
+        iframe.setAttribute("class", "email-iframe");
+        iframe.setAttribute("height", "64px");
+        $("#popMe").trigger('click');
+        iframe.setAttribute("src", "/callouts/researcher-email-sign-up-popup.php");
+        $.cookie("signupCookie", 'viewed', { expires : 365 });
+      }
+
+    $(document).ready(function() {
+      visitTest = $.cookie('signupCookie');
+      if( /Android|webOS|iPhone|iPad|iPod|BlackBerry/i.test(navigator.userAgent) ){
+        visitTest = 'viewed';
+      }
+      
+      if ( (visitTest != 'viewed') && (typeof _satellite.readCookie('emailSignup') == 'undefined' ) ) {
+        setTimeout('popFunction()', 4000);
+      }
+    });
+// ]]></script>
+<script type="text/javascript">// <![CDATA[
+function delayPopupClose() {
+      setTimeout(function() { $('.fancybox-close').trigger('click'); }, 2000);
+    }
+
+    function resizeIframe() {
+      $(".fancybox-wrap.fancybox-desktop.fancybox-type-inline.fancybox-opened").css({"width":"633px", "left":"327px"});
+      $(".fancybox-inner").css("width", "615px");
+      $(".email-iframe").attr("height", "375px");
+      $(".fancybox-wrap").css("top", "20px");
+      $("#signupPop .sm").remove();
+    }
+// ]]></script>
