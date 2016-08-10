@@ -1,0 +1,8 @@
+<h1>Thank you for Signing up for Research Announcements</h1>
+<p class="p1">You will now receive reports on the latest news from the field of Parkinson’s disease research, and learn of all the Foundation’s funding opportunities. If you do not receive an email from us in the next few weeks, check your spam folder. You may need to add our domain to <a href="http://sci.scientific-direct.net/wl.html" target="_blank">your whitelist</a>.</p>
+<script type="text/javascript">// <![CDATA[
+$(document).ready(function(){
+ga('send', 'event', 'Form', 'ResearcherNewsletter', 'ConvioPage']);
+})
+}
+// ]]></script>
