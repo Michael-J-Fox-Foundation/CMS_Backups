@@ -1,0 +1,7 @@
+<h1>Take Our Smell Survey!</h1>
+<p>Thank you for your interest in our research. Please complete and return this form to find out more information about a study evaluating the sense of smell and its relationship to neurological disorders such as Parkinson disease.</p>
+<p>By completing this form, you agree to allow the PPMI Study Team at IND to collect your information, and contact you regarding this study or other related studies.</p>
+<form action="post">
+<p>Are you 60 years or older?<span style="color: red;">*</span> <input id="ageYes" name="age" type="radio" /><label for="ageYes">Yes</label> <input id="ageNo" name="age" type="radio" /><label for="ageNo">No</label></p>
+<p>Do you have Parkinson's disease, ALzheimer's disease or MS?<span style="color: red;">*</span> <input id="pdYes" name="age" type="radio" /><label for="pdYes">Yes</label> <input id="pdNo" name="age" type="radio" /><label for="pdNo">No</label></p>
+<input type="submit" class="mjffButton" /></form>
