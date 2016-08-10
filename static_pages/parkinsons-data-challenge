@@ -1,0 +1,15 @@
+<h1>$10,000 Parkinson’s Data Challenge</h1>
+<p class="intro">An initiative to measure the symptoms of Parkinson’s disease with a smartphone</p>
+<p class="h-divider"> </p>
+<h2>Challenge Overview</h2>
+<p>There are many symptoms and features of Parkinson’s disease which can be objectively measured and monitored using simple technology devices we carry every day.  Mobile phones are some of the most pervasive forms of monitoring devices, with many smartphones carrying basic sensors that can be used to give a window into a patient’s life.  We have taken the initial steps with such a device, developing a basic collection application, and collecting data from a group of Parkinson’s patients and control subjects.</p>
+<p>This data was open sourced and made available in a contest leveraging “the wisdom of the crowd.” The contest received an enthusiastic response from the scientific community — the winning entry was chosen following more than 630 downloads of the dataset from teams in 21 countries.</p>
+<p class="h-divider"> </p>
+<h2>Winning Submission</h2>
+<p>Researchers from LIONsolver, Inc. have won first prize in the Parkinson’s Data Challenge. The LIONsolver team’s winning entry provided proof of concept for a “machine learning approach” that could unveil clues to PD onset and progression embedded in data collected on smartphones. LIONsolver’s project proved the feasibility and value of gathering mobile data for monitoring PD, while laying the groundwork for further analysis of larger, and potentially more powerful, datasets using LIONsolver’s machine learning platform.</p>
+<p>Two other teams’ submissions were deemed worthy of special mention:</p>
+<ul class="indent">
+<li>“Remote Monitoring of Levodopa Response in Parkinson’s Disease”— James T.H. Teo and Parashkev Nachev, Charing Cross Hospital, London, UK</li>
+<li>“Identifying Parkinson’s Disease from Passively Collected Acceleration Data”—Michelle Wang, MIT, Boston, MA</li>
+</ul>
+<p>You can <a href="https://www.kaggle.com/c/predicting-parkinson-s-disease-progression-with-smartphone-data/visualization" class="orange bold" target="_blank">view all challenge submissions here.</a></p>
