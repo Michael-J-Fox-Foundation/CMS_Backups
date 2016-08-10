@@ -1,0 +1,17 @@
+<h1>Take Our Smell Survey!</h1>
+<p>Thank you for your interest in our research. Please complete and return this form to find out more information about a study evaluating the sense of smell and its relationship to neurological disorders such as Parkinson disease.</p>
+<p>By completing this form, you agree to allow the PPMI Study Team at IND to collect your information, and contact you regarding this study or other related studies.</p>
+<p class="h-divider-thick"> </p>
+<form>
+<h2 style="font-family: gibson; font-size: 1.4em;">Are you 60 years or older?</h2>
+<div style="font-size: 1em;">
+<p><input id="lemon" name="smell" type="radio" /> <label for="lemon">Yes</label> <input id="coffee" name="smell" type="radio" style="margin-left: 10px;" /> <label for="coffee">No</label></p>
+</div>
+<p class="h-divider"> </p>
+<h2 style="font-family: gibson; font-size: 1.4em;">Do you have Parkinson's disease?</h2>
+<div style="font-size: 1em;">
+<p><input id="lemon" name="smell2" type="radio" /> <label for="lemon">Yes</label><input id="coffee" name="smell2" type="radio" style="margin-left: 10px;" /> <label for="coffee">No</label></p>
+</div>
+<p class="h-divider"> </p>
+<p style="clear: both; padding-top: 15px;"><a href="/get-involved/smellsurvey.php" class="mjffButton">Next</a></p>
+</form>
