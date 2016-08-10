@@ -1,0 +1,61 @@
+<h1>Sign up for Email Updates</h1>
+<form id="newsletterSignup" action="http://www2.michaeljfox.org/site/Survey" method="POST">
+<div class="newsletterSignupContainer">
+<div class="newsletterFormLine"><input id="cons_info_component" name="cons_info_component" type="hidden" value="t" /></div>
+<div class="newsletterFormLine"><input id="cons_first_name" name="cons_first_name" type="text" value="" class="newsletterSignupField" placeholder="First Name" /></div>
+<div class="newsletterFormLine"><input id="cons_last_name" name="cons_last_name" type="text" value="" class="newsletterSignupField" maxlength="50" size="22" placeholder="Last Name" /></div>
+<div class="newsletterFormLine"><input id="cons_email" name="cons_email" type="email" value="" class="newsletterSignupField required email" maxlength="255" size="45" placeholder="Email (required)" /></div>
+<div class="newsletterFormLine"><input id="cons_zip_code" name="cons_zip_code" type="text" value="" class="newsletterSignupField" maxlength="5" size="10" placeholder="Zip Code" /></div>
+<div class="newsletterFormLine"><select id="3953_2161_2_2380" name="3953_2161_2_2380" style="height: 40px; font-size: 14px; line-height: 40px;">
+<option value="NOREPLY">Please select response</option>
+<option value="I have Parkinson's disease">I have Parkinson's disease</option>
+<option value="My family member has/had PD">My family member has/had PD</option>
+<option value="My friend has/had PD">My friend has/had PD</option>
+<option value="I work with the PD community">I work with the PD community</option>
+<option value="Other">Other</option>
+</select></div>
+<div style="display: none;"><label for="denySubmit">Spam Control Text:</label>  <input id="denySubmit" name="denySubmit" type="text" value="" alt="This field is used to prevent form submission by scripts." />  Please leave this field empty</div>
+<input id="SURVEY_ID" name="SURVEY_ID" type="hidden" value="2161" /> <input id="ACTION_SUBMIT_SURVEY_RESPONSE" name="ACTION_SUBMIT_SURVEY_RESPONSE" type="submit" value="Sign Up" class="newsletterSubmitButton" />   </div>
+</form>
+<div id="convioResponse"></div>
+<script type="text/javascript">// <![CDATA[
+$(document).ready(function() {
+		//var sourceLocation = window.location;
+		//$('#source').val(sourceLocation);
+
+		$("input[placeholder]").each(function() {
+			if ($(this).val() == "") {
+				// $(this).addClass('hasplaceholder');
+				$(this).val($(this).attr("placeholder"));
+				$(this).focus(function() {
+					if ($(this).val() == $(this).attr("placeholder"))
+						$(this).val("");
+					// $(this).removeClass('hasplaceholder');
+				});
+				$(this).blur(function() {
+					if ($(this).val() == "") {
+						// $(this).addClass('hasplaceholder');
+						$(this).val($(this).attr("placeholder"));
+					}
+				});
+			}
+		});
+
+		$('form').submit(function(evt) {
+			$('input[placeholder]').each(function() {
+				if ($(this).attr("placeholder") == $(this).val()) {
+					$(this).val('');
+				}
+			});
+		});
+
+	$("#newsletterSignup").validate({
+		rules: {
+			
+			cons_email: {required: true , email: true},
+		
+		},
+
+	});
+	});
+// ]]></script>
