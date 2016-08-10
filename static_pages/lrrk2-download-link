@@ -1,0 +1,57 @@
+<h1>Access LRRK2 Cohort Consortium Data</h1>
+<div id="introText">
+<p>In order to access the current LRRK2 Cohort Consortium dataset, provide your email address and the password that was included with your acceptance email. For any questions, please email <a href="mailto:resources@michaeljfox.org" class="orange bold">resources@michaeljfox.org.</a></p>
+<form id="lrrk2-signup-form" action=""><label for="emailaddress" style="width: 70px; display: inline-block;">Email:</label> <input id="emailaddress" type="email" style="outline: none; padding: 3px 0px 3px 3px; margin: 5px 5px 3px 0px; border: 1px solid #DDDDDD; -webkit-border-radius: 3px; -moz-border-radius: 3px; -ms-border-radius: 3px; -o-border-radius: 3px; border-radius: 3px; height: 22px; line-height: 22px; font-size: 16px; border-color: #D6E3E8;" /> <br /> <label for="password" style="width: 70px; display: inline-block;">Password:</label> <input id="password" type="password" style="outline: none; padding: 3px 0px 3px 3px; margin: 5px 5px 3px 0px; border: 1px solid #DDDDDD; -webkit-border-radius: 3px; -moz-border-radius: 3px; -ms-border-radius: 3px; -o-border-radius: 3px; border-radius: 3px; height: 22px; line-height: 22px; font-size: 16px; border-color: #D6E3E8;" /> <br /> <input id="lrrk2-submit" type="submit" value="Submit" style="font-size: 20px; margin-top: 10px; display: inline-block;" class="mjffButtonSm" /></form></div>
+<div class="hiddenFail" style="display: none; margin-top: 15px;">
+<p class="h-divider"></p>
+<p>You entered the incorrect password. Try again or contact <a href="mailto:resources@michaeljfox.org" class="orange bold">resources@michaeljfox.org</a> to have the password resent.</p>
+</div>
+<div class="hiddenLink" style="display: none;">
+<h3>Your Password Is Correct</h3>
+<p>As part of accessing this LRRK2 data, you have agreed to follow all rules and regulations outlined in the <a href="/files/MJFF%20LRRK2%20Cohort%20Consortium%20Data%20Use%20Agreement%20Final%20(May%2030,%202013).pdf" class="orange bold" target="_blank">data use agreement</a> .</p>
+<p>The LRRK2 Cohort Consortium De-identified Database data files and documentation have been compressed and encrypted using WinZip. Before downloading, the WinZip software must be installed on your computer in order to open up the file.</p>
+<p>The name of the file to download is LRRK2C.zip. The file contains the LRRK2 Cohort Consortium data in two formats, a SAS transport file (LRRK2Cyyyymmdd.xpt) and a Comma Separated Value file (LRRK2Cyyyymmdd.csv), where yyyymmdd refers to the version date. The zip file also contains supporting documentation (e.g. data dictionary, data caveats, instructions for accessing the SAS xpt file). If you do not have SAS installed on your computer, you will not be able to access the SAS transport file.</p>
+<p>To access the file:</p>
+<ul>
+<li>Click on the link below</li>
+<li>Double-click on the zip file. The WinZip program will automatically start if it is properly installed on your machine. In some cases you may be prompted to identify where this program resides on your computer.</li>
+<li>WinZip will prompt you to identify a location (e.g., My Documents, Desktop) for the individual files from the LRRK2 Cohort Consortium De-identified Database zip file to be deposited.</li>
+</ul>
+<p><a download="http://staging.michaeljfox.org/files/researchfiles/LRRK2C.zip" href="http://staging.michaeljfox.org/files/researchfiles/LRRK2C.zip" style="margin-top: 10px; display: inline-block;" class="mjffButtonSm">Download Data</a> <br /> <span style="font-style: italic; font-size: 0.8em; margin-top: 0.5em;">(Data last updated May 6, 2013)</span></p>
+</div>
+<script type="text/javascript">// <![CDATA[
+$('#lrrk2-submit').click(function(){
+    var passwordValue = $('input[id=password]').val();
+    if (passwordValue == "MJFFlrrk2data") {
+      $('.hiddenLink').show();
+      $('.hiddenFail').hide();
+      $('#introText').hide();
+      var lrrk2EmailAddress = $('input[id=emailaddress]').val();
+      ga('send', 'event', 'Form', 'LRRK2data', lrrk2EmailAddress);
+    } else {
+      $('.hiddenFail').show();
+      $('.hiddenLink').hide();
+    }
+    return false;
+  });
+
+// $("#password").keyup(function(event){
+//     if(event.keyCode == 13){
+//    console.log('form submitted');
+//     var passwordValue = $('input[id=password]').val();
+//     console.log('passwordValue');
+//     if (passwordValue == "MJFFlrrk2data") {
+//       $('.hiddenLink').show();
+//      $('.hiddenFail').hide();
+// $('#introText').hide();
+//      console.log('if ran');
+//     return false;
+//     } else {
+//      $('.hiddenFail').show();
+//       $('.hiddenLink').hide();
+//       console.log('else ran');
+//     return false;
+//     }
+//     }
+// });
+// ]]></script>
