@@ -1,0 +1,52 @@
+<h1>Understanding the Link between Smell and PD</h1>
+<h2>An opportunity to play a role in PD research</h2>
+<p>Early detection is a crucial step to understanding the causes of and developing better treatments for Parkinson’s disease (PD). Even before the typical tremor and slowness of movements occur in PD, it may be possible to detect early changes in the brain and symptoms that are associated with PD. For example, loss of sense of smell is a common but little noticed symptom that may occur years before the onset of motor symptoms or a PD diagnosis. </p>
+<p>The Parkinson’s Progression Markers Initiative (PPMI) is a landmark clinical study to identify and assess biomarkers in people who are at risk to develop PD as well as those with typical PD symptoms. Ultimately, this strategy may enable researchers to develop better treatments for patients at an early stage of the disease that could, in turn, potentially delay or even prevent the onset of motor symptoms. Smell is a key risk factor being evaluated in PPMI.</p>
+<p><a href="#inline" class="hiddenLetter bold">View a letter from Michael J. Fox</a> about the importance of this study.</p>
+<p class="h-divider"> </p>
+<h2>Who is Needed?</h2>
+<p>People over 60 who do not have Parkinson’s are needed for this study. <b> </b>Get started by taking our smell survey at <a href="http://www.michaeljfox.org/takethesmellsurvey" class="bold">www.michaeljfox.org/takethesmellsurvey</a>.</p>
+<p>Learn more about PPMI and the connection between smell loss and Parkinson’s disease by calling (877) 525-PPMI or <a href="/files/MJFFSmellBrochure.pdf" class="bold" target="_blank">downloading the smell brochure</a>.</p>
+<p class="m20"><a href="/get-involved/smellsurvey-screen.php" class="mjffButtonSm">Take the Survey</a></p>
+<p class="h-divider"> </p>
+<h2>Help Spread the Word</h2>
+<p>If you have Parkinson’s disease, you can play an important role. Invite your family and friends to participate by taking our survey.</p>
+<p class="m20"><a href="javascript:void(0)" id="referFriendEmail" class="emailpage mjffButtonSm" onclick="showEmail();">Refer a Friend</a></p>
+<p class="h-divider"> </p>
+<h2>Purpose of the Research</h2>
+<p>While most people with reduced sense of smell will not develop Parkinson’s disease, the majority of PD patients experience some smell loss.  A reduced sense of smell in Parkinson’s disease patients most often begins several years prior to the onset of motor symptoms such as tremor, stiffness or slowness in movement and usually goes unnoticed until it is tested. Studying the sense of smell may therefore lead researchers to identify people at risk for Parkinson’s before the onset of motor symptoms. </p>
+<div id="inline" style="text-align: left; padding: 20px; height: auto; font-size: 1.2em; display: none;"><img src="/files/michaelphoto.jpg" style="float: right; margin-left: 10px; margin-bottom: 10px;" width="180" />
+<p>Dear Friend,</p>
+<p>In the years since my diagnosis with Parkinson’s disease, I’ve come to value being part of the worldwide community of people living with or affected by a neurodegenerative disease — and I’ve developed a profound appreciation for the countless families and friends who support patients every day. One of our Foundation’s chief goals is to create platforms that give everyone who cares about PD — patients and their loved ones — the chance to get involved in research that could help speed a cure.</p>
+<p>A study called PPMI is going on now to search for Parkinson’s biomarkers — indicators that could help researchers diagnose Parkinson’s disease earlier, chart its progression and target drugs that could delay its symptoms. Studying the sense of smell in family members and friends of Parkinson’s patients could help us get closer to this goal.</p>
+<p>Now there’s an easy way to get involved in our smell study. If you do not have Parkinson’s, complete the smell survey at <a href="http://www.michaeljfox.org/takethesmellsurvey" class="bold">www.michaeljfox.org/takethesmellsurvey</a> or fill out the enclosed survey and return it by mail. If you do have Parkinson’s, share this message with your friends and family members who may be eligible to participate. With this simple decision to take the survey or share it, you commit to help us speed scientific progress toward cures for diseases that touch countless lives.</p>
+<p>We’re all in this together. I hope you’ll consider joining our movement.</p>
+<p>All my best,</p>
+<img src="/files/mjf_signature.jpg" width="210" /></div>
+<script type="text/javascript">// <![CDATA[
+$(document).ready(function(){
+	$('#inline').hide();
+$('.hiddenLetter').click(function(){
+$('#inline').show();
+});
+	$(".hiddenLetter").fancybox({
+		maxWidth	: 800,
+		maxHeight	: 600,
+		fitToView	: false,
+		width		: '70%',
+		height		: '70%',
+		autoSize	: false,
+		closeClick	: false,
+		openEffect	: 'none',
+		closeEffect	: 'none'
+	});
+
+	$("#ppmi_thankyou").validate({
+		rules: {
+			name: {required: true},
+			connection: {required: true},
+		},
+
+	});
+});
+// ]]></script>
