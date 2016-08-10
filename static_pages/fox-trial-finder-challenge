@@ -1,0 +1,137 @@
+<h1>Welcome to the FOX TRIAL FINDER CHALLENGE</h1>
+<p class="intro">The Michael J. Fox Foundation (MJFF) is challenging clinical research sites around the country to refer volunteers to sign up for Fox Trial Finder. Register by December 31, 2013 to help a site near you win a complimentary event open to the PD community featuring PD research updates and a presentation by a member of the MJFF staff.</p>
+<h2 style="margin-top: 1em;" class="orange">Help your site win by registering on Fox Trial Finder today!</h2>
+<form id="ftfChallengeSubmit"><!--     <label for="email_address2">Name:</label><input name="email_address" type="email" id="email_address2"/>
+ --> <label for="email_address2" style="width: 90px; display: inline-block; line-height: 2em;">Email:</label><input id="email_address2" name="email_address" type="email" style="-webkit-border-radius: 3px; -moz-border-radius: 3px; -ms-border-radius: 3px; -o-border-radius: 3px; border-radius: 3px; height: 22px; line-height: 22px; font-size: 16px; border-color: #D6E3E8;" class="required" /><br /> <label for="site_location2" style="width: 90px; display: inline-block; line-height: 2em;">Site Location:</label><select id="site_location" name="site_location" class="required">
+<option value="">Select One</option>
+<option value="Arizona School of Health Sciences A.T. Still University">Arizona School of Health Sciences A.T. Still University</option>
+<option value="Atlantic Neuroscience Institute">Atlantic Neuroscience Institute</option>
+<option value="Banner Research">Banner Research</option>
+<option value="Baylor College of Medicine">Baylor College of Medicine</option>
+<option value="Beth Israel Medical Center">Beth Israel Medical Center</option>
+<option value="Boston University Medical Center">Boston University Medical Center</option>
+<option value="Butler Hospital/Brown University">Butler Hospital/Brown University</option>
+<option value="Galiz Research">Galiz Research</option>
+<option value="Gardner-McMaster Parkinson Center at the University of Toledo Medical Center">Gardner-McMaster Parkinson Center at the University of Toledo</option>
+Toledo Medical Center
+<option value="Imperial College London- Imperial College NHS Healthcare Trust / Hammersmith Hospital / Charing Cross Hospital">Imperial College</option>
+London- Imperial College NHS Healthcare Trust / Hammersmith Hospital / Charing Cross Hospital
+<option value="Institute for Neurodegenerative Disorders">Institute for Neurodegenerative Disorders</option>
+<option value="Johns Hopkins Parkinson's Disease and Movement Disorder Center">Johns Hopkins Parkinson's Disease and Movement Disorder Center</option>
+<option value="Kingston Neurological Associates">Kingston Neurological Associates</option>
+<option value="LSVT Global, Inc.">LSVT Global, Inc.</option>
+<option value="Massachusetts General Hospital Movement Disorders Unit">Massachusetts General Hospital Movement Disorders Unit</option>
+<option value="Mayo Clinic Arizona">Mayo Clinic Arizona</option>
+<option value="Northern Michigan Neurology">Northern Michigan Neurology</option>
+<option value="NYIT College of Osteopathic Medicine, Adele Smithers Parkinsons Disease Treatment Center">NYIT College of Osteopathic Medicine, Adele</option>
+Smithers Parkinsons Disease Treatment Center
+<option value="Palm Beach Neurological Center">Palm Beach Neurological Center</option>
+<option value="Parkinson's Disease and Movement Disorders Clinic, Ottawa Hospital">Parkinson's Disease and Movement Disorders Clinic, Ottawa Hospital</option>
+<option value="Pearl I. Barlow Center for Memory Evaluation and Treatment at NYU Langone">Pearl I. Barlow Center for Memory Evaluation and Treatment</option>
+at NYU Langone
+<option value="Rocky Mountain Movement Disorders Center PC">Rocky Mountain Movement Disorders Center PC</option>
+<option value="Rutgers- Robert Wood Johnson Medical School">Rutgers- Robert Wood Johnson Medical School</option>
+<option value="Steven Zuckerman, M.D.">Steven Zuckerman, M.D.</option>
+<option value="Struthers Parkinson's Center">Struthers Parkinson's Center</option>
+<option value="The Parkinson's Center at DHMC, Lebanon, NH">The Parkinson's Center at DHMC, Lebanon, NH</option>
+<option value="The University of Vermont">The University of Vermont</option>
+<option value="UCDAVIS MOVEMENT DISORDER PROGRAM">UCDAVIS MOVEMENT DISORDER PROGRAM</option>
+<option value="University of Alabama at Birmingham">University of Alabama at Birmingham</option>
+<option value="University of Chicago Parkinson's Disease and Movement Disorders Center">University of Chicago Parkinson's Disease and Movement</option>
+Disorders Center
+<option value="University of Colorado Movement Disorders Center">University of Colorado Movement Disorders Center</option>
+<option value="University of Miami">University of Miami</option>
+<option value="University of Pennsylvania">University of Pennsylvania</option>
+<option value="University of Rochester Movement Disorders Division">University of Rochester Movement Disorders Division</option>
+<option value="University of Southern California (USC) Department of Neurology">University of Southern California (USC) Department of Neurology</option>
+<option value="USF Health Parkinson's Disease and Movement Disorders Center">USF Health Parkinson's Disease and Movement Disorders Center</option>
+<option value="Virginia Commonwealth University Parkinson's &amp; Movement Disorders Center">Virginia Commonwealth University Parkinson's &amp; Movement</option>
+Disorders Center
+<option value="Weill Cornell Medical College">Weill Cornell Medical College</option>
+</select><br /> <input type="submit" value="Register Now" style="font-size: 1.1em;" class="mjffButtonSm" /></form>
+<div id="feedback"></div>
+<p style="margin-top: 20px;" class="h-divider-thick"> </p>
+<h2 class="orange">See which site is in the lead!</h2>
+<div id="scoreboard">
+<ul>
+<li>University of Colorado Movement Disorders Center - (563 registrations)</li>
+<li>Gardner-McMaster Parkinson Center at the University of Toledo Medical Center - (505 registrations)</li>
+<li>Imperial College London- Imperial College NHS Healthcare Trust / Hammersmith Hospital / Charing Cros - (98 registrations)</li>
+<li>The Parkinson's Center at DHMC, Lebanon, NH - (97 registrations)</li>
+<li>Virginia Commonwealth University Parkinson's &amp; Movement Disorders Center - (41 registrations)</li>
+<li>NYIT College of Osteopathic Medicine, Adele Smithers Parkinsons Disease Treatment Center - (37 registrations)</li>
+<li>Banner Research - (18 registrations)</li>
+<li>Johns Hopkins Parkinson's Disease and Movement Disorder Center - (13 registrations)</li>
+<li>Rutgers- Robert Wood Johnson Medical School - (11 registrations)</li>
+<li>University of Alabama at Birmingham - (6 registrations)</li>
+<li>Rocky Mountain Movement Disorders Center PC - (5 registrations)</li>
+<li>Massachusetts General Hospital Movement Disorders Unit - (4 registrations)</li>
+<li>Butler Hospital/Brown University - (3 registrations)</li>
+<li>Atlantic Neuroscience Institute - (3 registrations)</li>
+<li>Kingston Neurological Associates - (2 registrations)</li>
+<li>Galiz Research - (2 registrations)</li>
+<li>University of Chicago Parkinson's Disease and Movement Disorders Center - (2 registrations)</li>
+<li>Boston University Medical Center - (2 registrations)</li>
+<li>Parkinson's Disease and Movement Disorders Clinic, Ottawa Hospital - (1 registrations)</li>
+<li>USF Health Parkinson's Disease and Movement Disorders Center - (1 registrations)</li>
+<li>LSVT Global, Inc. - (1 registrations)</li>
+<li>Arizona School of Health Sciences A.T. Still University - (1 registrations)</li>
+<li>University of Pennsylvania - (1 registrations)</li>
+<li>Struthers Parkinson's Center - (1 registrations)</li>
+<li>Weill Cornell Medical College - (1 registrations)</li>
+</ul>
+</div>
+<script type="text/javascript">// <![CDATA[
+$(document).ready(function(){
+    $('#ftfChallengeSubmit').validate();
+    $("#ftfChallengeSubmit").submit(function(event){
+        $(this).validate();
+        if ($(this).valid()) {
+            ga('send', 'event', 'form','FTFChallenge', 'submit');
+    // setup some local variables
+       var $form = $(this),
+        // let's select and cache all the fields
+        $inputs = $form.find("input, select, button, textarea"),
+        // serialize the data in the form
+        serializedData = $form.serialize();
+
+    // let's disable the inputs for the duration of the ajax request
+    $inputs.attr("disabled", "disabled");
+
+    // fire off the request to /form.php
+    $.ajax({
+        url: "/ajaxcall/push.php",
+        type: "post",
+       data: serializedData,
+        // callback handler that will be called on success
+        success: function(response, textStatus, jqXHR){
+            // log a message to the console
+            $('#feedback').html('Thanks you for your interest. <a class="orange bold" href="https://foxtrialfinder.michaeljfox.org/">Click here</a> to go to Fox Trial Finder to begin your registration');
+            $('#ftfChallengeSubmit').hide();
+            $("#scoreboard").load('/ajaxcall/get.php');
+        },
+        // callback handler that will be called on error
+        error: function(jqXHR, textStatus, errorThrown){
+            // log the error to the console
+
+        },
+        // callback handler that will be called on completion
+        // which means, either on success or error
+        complete: function(){
+            // enable the inputs
+            $inputs.removeAttr("disabled");
+        }
+    });
+
+    // prevent default posting of form
+    event.preventDefault();
+}
+});
+
+
+
+
+
+
+});
+// ]]></script>
