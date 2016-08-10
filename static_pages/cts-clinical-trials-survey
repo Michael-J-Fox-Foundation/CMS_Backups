@@ -1,0 +1,161 @@
+<!-- <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.6.4/jquery.min.js"></script>
+ -->
+<h1>Clinical Trial Quiz</h1>
+<p class="intro">Test your knowledge of Parkinson's clinical trials</p>
+<div class="floatingDiv" style="display: none; width: 15%; border: 2px solid #CCC; position: fixed; right: 13%; top: 280px; font-size: 1.4em; padding: 10px;">Your Score is <br />
+<div class="answerMessage" style="height: 20px;"><span class="correct bold hidden" style="color: green;">Correct!!</span> <span class="error bold hidden">Incorrect</span></div>
+</div>
+<div class="CTSTrialSurvey" style="width: 696px;"><ol>
+<li style="margin-bottom: 1em; line-height: 22px;">
+<p>Clinical trials for Parkinson's have more volunteers than they need.</p>
+<div class="inputContainer"><input id="quest1t" name="quest1" type="radio" value="wrong" /> <label for="quest1t">True</label> <input id="quest1f" name="quest1" type="radio" value="correct" /> <label for="quest1f">False</label></div>
+<p style="margin-top: 1em; color: #666;" class="hiddenAnswer">FALSE. In fact, Parkinson's clinical trials face a chronic shortage of volunteers, and that slows progress toward a cure. Clinical trial recruitment is a major challenge across all diseases — especially Parkinson's. Thirty percent of all clinical trials fail to recruit a single subject and 85 percent of trials finish late due to recruitment troubles. Despite wanting to participate, fewer than 10 percent of Parkinson's patients take part in trials. The more volunteers we have for Parkinson's clinical trials, the better our chances of finding a cure in our lifetime.</p>
+</li>
+<li style="margin-bottom: 1em; line-height: 22px;">
+<p>Participants in clinical trials are basically guinea pigs.</p>
+<div class="inputContainer"><input id="quest2t" name="quest2" type="radio" value="wrong" /> <label for="quest2t">True</label> <input id="quest2f" name="quest2" type="radio" value="correct" /> <label for="quest2f">False</label></div>
+<p style="margin-top: 1em; color: #666;" class="hiddenAnswer">FALSE. Participants in clinical trials are willing volunteers who go through an extensive information and consent process in order to fully understand their role and any potential risks. They are protected by the patient's bill of rights and by stringent privacy laws. As a volunteer, you are free to end your participation in a trial at any point. You can even ask that your data be destroyed. Most clinical trial participants report their experience was positive. Participants say they especially appreciate the individualized medical attention they receive during a study, and the knowledge that they are helping the Parkinson's community.</p>
+</li>
+<li style="margin-bottom: 1em; line-height: 22px;">
+<p>Most clinical trial participants get a placebo (inactive) treatment.</p>
+<div class="inputContainer"><input id="quest3t" name="quest3" type="radio" value="wrong" /> <label for="quest3t">True</label> <input id="quest3f" name="quest3" type="radio" value="correct" /> <label for="quest3f">False</label></div>
+<p style="margin-top: 1em; color: #666;" class="hiddenAnswer">FALSE. The greatest chance you will get a placebo is 50 percent. But depending on the trial, it can be less likely (for example, if different doses of a treatment are being tested, there may be three treatment groups at different doses and only one placebo group). Overall, fewer than half of all clinical research participants receive a placebo.</p>
+</li>
+<li style="margin-bottom: 1em; line-height: 22px;">
+<p>Only some clinical trials are designed to test new drugs.</p>
+<div class="inputContainer"><input id="quest4t" name="quest4" type="radio" value="correct" /> <label for="quest4t">True</label> <input id="quest4f" name="quest4" type="radio" value="wrong" /> <label for="quest4f">False</label></div>
+<p style="margin-top: 1em; color: #666;" class="hiddenAnswer">TRUE. While so-called "interventional" trials focus on testing new drugs, many others do not. There are Parkinson's trials that involve filling out surveys, completing a spit test to compile genetic information, undergoing acupuncture treatment, singing, playing Nintendo Wii, or exercising under controlled conditions. And observational trials are designed to gather information about what it is like to live with Parkinson's disease and to collect biosamples and data without ever testing a drug.</p>
+</li>
+<li style="margin-bottom: 1em; line-height: 22px;">
+<p>Participants don't have to agree to every experiment in a trial.</p>
+<div class="inputContainer"><input id="quest5t" name="quest5" type="radio" value="wrong" /> <label for="quest5t">True</label> <input id="quest5f" name="quest5" type="radio" value="correct" /> <label for="quest5f">False</label></div>
+<p style="margin-top: 1em; color: #666;" class="hiddenAnswer">FALSE. As long as you are enrolled in a trial, you have to complete every experiment. This is because researchers need to compare results from every participant in every experiment in order to fulfill the requirements of the scientific method. However, participants are never exposed to experiments to which they didn't agree. All volunteers go through an extensive information and consent process before the study begins. Most trial participants report feeling well-informed about any risks involved in the study, as well as the study's potential outcomes. And if you really don't want to undergo a particular experiment, you always have the right to end your participation in the trial.</p>
+</li>
+<li style="margin-bottom: 1em; line-height: 22px;">
+<p>Participating in a clinical trial would interfere with my usual care.</p>
+<div class="inputContainer"><input id="quest6t" name="quest6" type="radio" value="wrong" /> <label for="quest6t">True</label> <input id="quest6f" name="quest6" type="radio" value="correct" /> <label for="quest6f">False</label></div>
+<p style="margin-top: 1em; color: #666;" class="hiddenAnswer">FALSE. Participating in a trial should not interfere with your usual care. You can — and should — continue to see your current medical specialists. Additionally, many people with PD report that they benefit from the individualized medical attention they receive as part of a trial.</p>
+</li>
+<li style="margin-bottom: 1em; line-height: 22px;">
+<p>After a trial is completed, participants may get access to the drug that was tested.</p>
+<div class="inputContainer"><input id="quest7t" name="quest7" type="radio" value="correct" /> <label for="quest7t">True</label> <input id="quest7f" name="quest7" type="radio" value="wrong" /> <label for="quest7f">False</label></div>
+<p style="margin-top: 1em; color: #666;" class="hiddenAnswer">TRUE. How long it takes for participants to get access to the drug that was tested depends on the phase of the trial and its future outcomes. If the trial advances to the next phase, sometimes it is possible for the participants to continue on to this next phase. To speed new treatments into the hands of patients, more trial volunteers are needed. More volunteers means faster progress.</p>
+</li>
+<li style="margin-bottom: 1em; line-height: 22px;">
+<p>Clinical trials are in particular need of patients newly diagnosed with Parkinson's.</p>
+<div class="inputContainer"><input id="quest8t" name="quest8" type="radio" value="correct" /> <label for="quest8t">True</label> <input id="quest8f" name="quest8" type="radio" value="wrong" /> <label for="quest8f">False</label></div>
+<p style="margin-top: 1em; color: #666;" class="hiddenAnswer">TRUE. Clinical trials need Parkinson's patients at all stages of the disease — from newly diagnosed to advanced stages of PD. However, trials toward a disease-modifying treatment often most need people who have been very recently diagnosed with PD and haven't started taking medication (sometimes referred to as de novo patients). No matter how long you have had Parkinson's, you are likely eligible to participate in several different studies.</p>
+</li>
+<li style="margin-bottom: 1em; line-height: 22px;">
+<p>If my doctor doesn't talk to me about trials, it means I'm not a good candidate.</p>
+<div class="inputContainer"><input id="quest9t" name="quest9" type="radio" value="wrong" /> <label for="quest9t">True</label> <input id="quest9f" name="quest9" type="radio" value="correct" /> <label for="quest9f">False</label></div>
+<p style="margin-top: 1em; color: #666;" class="hiddenAnswer">FALSE. It's fairly common for doctors not to mention clinical trials to their patients, and the reasons vary. Sometimes the appointment just isn't long enough. Other times your doctor may mistakenly assume you aren't interested in volunteering. Many patients report that it's important to them to talk with their doctor about getting involved in research. Fox Trial Finder can help: Print out your most recent list of matches and bring it to your next appointment for discussion.</p>
+</li>
+<li style="margin-bottom: 1em; line-height: 22px;">
+<p>People who don't have Parkinson's can't participate in clinical trials.</p>
+<div class="inputContainer"><input id="quest10t" name="quest10" type="radio" value="wrong" /> <label for="quest10t">True</label> <input id="quest10f" name="quest10" type="radio" value="correct" /> <label for="quest10f">False</label></div>
+<p style="margin-top: 1em; color: #666;" class="hiddenAnswer">FALSE. Parkinson's clinical trials also need people who don't have the disease. In fact, these so-called "control volunteers" are often the hardest to find. Whether you have PD or not, you can play a role in speeding progress. Register for Fox Trial Finder today!</p>
+</li>
+</ol></div>
+<p class="h-divider-thick"> </p>
+<div style="width: 70%; float: left;">
+<h3>YOUR SCORE: <span id="score">0</span> out of <span id="possibleScore">0</span></h3>
+<p><span class="bold">1-3: Exploring.</span> You may be new to Parkinson’s disease or just beginning to explore clinical research. Congratulations on taking the first step by educating yourself about research participation. Visit our <a href="/page.html?Clinical-Trials-101" class="orange">Clinical Trials 101 page</a> to learn more about clinical studies and the role you can play.</p>
+<p><span class="bold">4-6: Educated.</span> You’re pretty savvy — you’ve probably been thinking about clinical research for some time now, and you may know someone who’s participated in a trial. If you’re looking for more information, visit our <a href="/page.html?Clinical-Trials-101" class="orange">Clinical Trials 101 page</a>. If you’re feeling ready to jump in, fill out a profile on <a href="https://foxtrialfinder.michaeljfox.org/" class="orange">Fox Trial Finder</a> to start reviewing trial matches today!</p>
+<p><span class="bold">7-10: Expert.</span> Your knowledge about clinical trials is extensive – perhaps you’ve already participated in a trial. <a href="https://foxtrialfinder.michaeljfox.org/" class="orange">Complete or update your Fox Trial Finder profile</a> to stay up to date on the best trial matches for you. You may also be interested in becoming a <a href="#" class="orange">Fox Trial Finder ambassador</a> to help spread the word about the importance of research participation to others in your network.</p>
+</div>
+<div style="width: 20%; float: right;">
+<h3>Share your score and invite your friends to take the quiz.</h3>
+<a href="#" style="font-size: 1.1em; margin-top: 0.1em;" class="zocial icon facebook" onclick="share_prompt()">Share on Facebook</a>      <a href="https://twitter.com/intent/tweet?original_referer=https%3A%2F%2Fwww.michaeljfox.org%2Ftakethesmellsurvey&amp;text=I%20just%20took%20%40MichaelJFoxOrg%27s%20%23ClinicalTrial%20quiz.%20Test%20your%20clinical%20trial%20knowledge%3A%20http%3A%2F%2Fbit.ly%2F1pyZcNL%20%23Parkinsons" style="font-size: 1.1em; margin-top: 0.1em;" class="zocial icon twitter popup">Tweet this page</a></div>
+<script type="text/javascript">// <![CDATA[
+window.fbAsyncInit = function() {
+    // init the FB JS SDK
+    FB.init({
+      appId      : '160939607355547', // App ID from the App Dashboard
+      channelUrl : 'https://www.michaeljfox.org/channel.html', // Channel File for x-domain communication
+      status     : true, // check the login status upon init?
+      xfbml      : true  // parse XFBML tags on this page?
+    });
+
+    // Additional initialization code such as adding Event Listeners goes here
+
+  };
+
+  // Load the SDK's source Asynchronously
+  // Note that the debug version is being actively developed and might
+  // contain some type checks that are overly strict.
+  // Please report such bugs using the bugs tool.
+  (function(d, debug){
+     var js, id = 'facebook-jssdk', ref = d.getElementsByTagName('script')[0];
+     if (d.getElementById(id)) {return;}
+     js = d.createElement('script'); js.id = id; js.async = true;
+     js.src = "//connect.facebook.net/en_US/all" + (debug ? "/debug" : "") + ".js";
+     ref.parentNode.insertBefore(js, ref);
+   }(document, /*debug*/ false));
+// ]]></script>
+<script type="text/javascript">// <![CDATA[
+function share_prompt() {
+
+    FB.ui(
+      {
+       method: 'feed',
+       name: 'Test Your Clinical Trial Knowledge',
+       caption: 'www.michaeljfox.org',
+       description: 'I just took The Michael J Fox Foundation\'s clinical trial quiz. can you beat my score?',
+       link: 'https://www.michaeljfox.org/page.html?id=70&utm_source=social&utm_medium=facebook&utm_content=clinicaltrialquiz&utm_campaign=clinicaltrialquizfb&s_src=clinicaltrialquizfb&s_subsrc=facebook',
+       picture: 'https://www.michaeljfox.org/files/quiz_final.png'
+      }
+    );
+    ga('send', 'event', 'Share', 'Facebook', 'ClinicalTrialQuiz'); 
+  }
+// ]]></script>
+<script type="text/javascript">// <![CDATA[
+function updateScore(score,possibleScore){
+  if (possibleScore == 10){
+  }
+  $("#score").html(score);
+  $("#possibleScore").html(possibleScore);
+ 
+}
+ 
+function showScoreMessage(answer){
+  if(answer == "true"){
+    $(".answerMessage .error").hide();
+    $(".answerMessage .correct").show();
+  } else if (answer == "false"){
+    $(".answerMessage .error").show();
+    $(".answerMessage .correct").hide();
+ 
+  }
+}
+ 
+ 
+$(document).ready(function(){
+  $(".hiddenAnswer").hide();
+  $(".hidden").hide();
+  var score = 0;
+  var possibleScore = 0;
+ 
+  $("input[type=radio]").change(function(){
+    var answer = $(this).val();
+   $("input[name="+$(this).attr("name")+"]").attr('disabled', 'disabled');
+ 
+    $(this).parent().next(".hiddenAnswer").slideDown();
+    if(answer == "wrong"){
+      possibleScore++;
+      updateScore(score,possibleScore);
+      showScoreMessage("false");
+ 
+    } else if (answer== "correct"){
+      score++;
+      possibleScore++;
+      updateScore(score,possibleScore);
+      showScoreMessage("true");
+ 
+
+    }
+ 
+  })
+ 
+})
+// ]]></script>
