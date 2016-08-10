@@ -1,0 +1,72 @@
+<style><!--
+#clinicalTrialsubMenu li {
+    background: #4B5A63;
+    position: relative;
+    height: 50px;
+    width: 250px;
+    float: left;
+    color:white;
+    text-transform:uppercase;
+    text-align:center;
+    line-height:50px;
+}
+#clinicalTrialsubMenu a {
+  display:block;
+  width:100%;
+  height:100%;
+  color:white;
+  text-decoration:none;
+}
+
+#clinicalTrialsubMenu li:not(:last-child):after {
+    content: '';
+    line-height: 0;
+    font-size: 0;
+    width: 0;
+    height: 0;
+    border-top: 50px solid transparent;
+    border-bottom: 50px solid #fff;
+    border-left: 10px solid transparent;
+    border-right: 0px solid #fff;
+    position: absolute;
+    top: -50px;
+    right: 0;
+}
+
+
+#clinicalTrialsubMenu li:not(:first-child):before {
+    content: '';
+    line-height: 0;
+    font-size: 0;
+    width: 0;
+    height: 0;
+    border-top: 50px solid #fff;
+    border-bottom: 50px solid transparent;
+    border-left: 0px solid transparent;
+    border-right: 10px solid transparent;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+.active {
+  background-color:orange !important;
+}
+
+.triangle-topright {
+  width: 0;
+  height: 0;
+  border-top: 30px solid white;
+  border-left: 30px solid transparent;
+  position:absolute;
+  top:0;
+  right:0;
+
+}
+--></style>
+<ul id="clinicalTrialsubMenu">
+<li class="active"><a href="#1">Participate in Research</a></li>
+<li><a href="#2">Trials 101</a></li>
+<li><a href="#3">Real Stories</a></li>
+<li><a href="#3">Find a Trial</a></li>
+</ul>
+<div style="clear: both;"></div>
