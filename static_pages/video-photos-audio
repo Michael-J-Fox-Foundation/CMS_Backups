@@ -1,0 +1,365 @@
+<div id="mainBody">
+<h1>Videos, Photos and Podcasts</h1>
+<p class="intro">From here you can browse different types of content created by the Michael J. Fox Foundation.</p>
+<div id="tabs">
+<ul class="noAnchorHover">
+<li><a href="#tabs-1">Videos</a></li>
+<li><a href="#tabs-2">Photos</a></li>
+<li><a href="#tabs-3">Podcasts</a></li>
+</ul>
+<div id="tabs-1">
+<h2>Featured Video</h2>
+<div class="featuredContent"><a href="http://www.youtube.com/watch?v=SmfnlAD3Rek" class="fancybox-media"><img src="/files/animationvideo.jpg" style="float: left; margin-right: 20px; margin-bottom: 15px;" width="636" height="358" /></a>
+<p>The Michael J. Fox Foundation's single-minded goal is to speed progress in Parkinson's therapeutic development. Here are some of the key strategies that define our problem-solving approach.</p>
+<a href="/foundation/role.html" style="color: white;" class="mjffButtonSm">Our Role &amp; Impact</a></div>
+<p class="h-divider"> </p>
+<div class="allPlaylistsContainer">
+<div class="section-nav">
+<p class="lg no-pad ko"><a href="#aboutfoundation" class="ko">About MJFF</a> | <a href="#teamfox" class="ko">Team Fox</a> | <a href="#parkinsonsminute" class="ko">Parkinson's Minute</a> | <a href="#askmd" class="ko">Ask The MD</a> | <a href="#livingwith" class="ko">Living with PD</a> | <a href="#webinars" class="ko">Webinars</a></p>
+</div>
+<div id="aboutfoundation">
+<h2>About The Michael J. Fox Foundation</h2>
+<p>The Michael J. Fox Foundation is dedicated to finding better treatments and, ultimately, a cure for Parkinson's disease.</p>
+<ul class="videoList twoColumnList">
+<li><a href="http://www.youtube.com/watch?v=IH-1-00cQok" class="fancybox-media">Michael J. Fox: Google Hangout Interview</a></li>
+<li><a href="http://www.youtube.com/watch?v=n7RaRPQ5WU8" class="fancybox-media">Michael J. Fox: Purity Of Motive </a></li>
+<li><a href="http://news.yahoo.com/blogs/newsmakers/michael-j--fox-looks-past-stem-cells-to-internet-for-parkinson-s-cure.html" target="_blank">Michael J. Fox and Debi Brooks with Diane Sawyer</a></li>
+<li><a href="http://www.youtube.com/watch?v=CTOjOgzpwS4" class="fancybox-media">CBS Cares PSA</a></li>
+<li><a href="http://video.cnbc.com/gallery/?video=3000024507&amp;play=1" target="_blank">Michael J. Fox with Maria Bartiromo</a></li>
+</ul>
+</div>
+<p style="margin: 25px 0;" class="h-divider-thick"> </p>
+<div id="teamfox">
+<h2>Team Fox</h2>
+<p>Team Fox is the grassroots community fundraising program at The Michael J. Fox Foundation. Each year more than 1,600 Team Fox members worldwide turn their passions and interests into unique fundraising events and athletic feats.</p>
+<ul class="videoList twoColumnList">
+<li><a href="http://www.youtube.com/watch?v=mhlusidkquM" class="fancybox-media">Welcome to Team Fox</a></li>
+<li><a href="http://www.youtube.com/watch?v=SmU9Nw1rXt4" class="fancybox-media">2011 Team Fox MVP Awards</a></li>
+<!--
+<li><a href="http://www.youtube.com/watch?v=ozBeLqfKYEg" class="fancybox-media">UVA's Pancakes for Parkinson's</a></li>
+<li><a href="http://www.youtube.com/watch?v=NTomL-ozYeA" class="fancybox-media">Young Professional's Sunday Funday Brunch</a></li>
+<li><a href="http://www.youtube.com/watch?v=DCb9G1DBqhU" class="fancybox-media">James Mangini Invites You to His 1000 Mile Marathon</a></li>
+<li><a href="http://www.youtube.com/watch?v=Am5TFG8667E" class="fancybox-media">TD 5 Boro Bike Tour</a></li>
+<li><a href="http://www.youtube.com/watch?v=mkLkVvJbcQ4" class="fancybox-media">Full-time with Stephanie &amp; The 2011 NYC Marathon</a></li>-->
+<li><a href="http://www.youtube.com/watch?v=EwjU7vwOKlI" class="fancybox-media">A Tour of Your Participant Center</a></li>
+<li><a href="http://www.youtube.com/watch?v=51KblJ8pNuA" class="fancybox-media">Kelly Family Runs the New York City Marathon</a></li>
+</ul>
+</div>
+<p style="margin: 25px 0;" class="h-divider-thick"> </p>
+<div id="parkinsonsminute">
+<h2>The Parkinson's Minute</h2>
+<p>MJFF Contributing Editor Dave Iverson explores breaking news and trends in Parkinson's disease research.</p>
+<ul class="videoList twoColumnList">
+<li><a href="http://www.youtube.com/watch?v=-R1gvJa1Bhs" class="fancybox-media">A Promising Target to Treat Dyskinesia</a></li>
+<li><a href="http://www.youtube.com/watch?v=grQBMjN2F0Y" class="fancybox-media">Unified Dyskinesia Rating Scale</a></li>
+<li><a href="http://www.youtube.com/watch?v=GkKuJrmXU6Y" class="fancybox-media">Gel Formulation of Levodopa-Carbidopa</a></li>
+<li><a href="http://www.youtube.com/watch?v=qQ8zPXN32tc" class="fancybox-media">The Search for a Parkinson's Disease Biomarker</a></li>
+<li><a href="http://www.youtube.com/watch?v=dwNksbFOlps" class="fancybox-media">A Day in the Life with a Parkinson's Disease Researcher </a></li>
+<li><a href="http://www.youtube.com/watch?v=OLfauuezZWU" class="fancybox-media">Parkinson's and Genetics — A Family Story</a></li>
+</ul>
+</div>
+<p style="margin: 25px 0;" class="h-divider-thick"> </p>
+<div id="askmd">
+<h2>Ask the MD</h2>
+<p>The Michael J. Fox Foundation's staff Neurologist and Movement Disorder Specialist, Maurizio Facheris, MD, addresses your questions about living with Parkinson's. Have a question for Dr. Maurizio? Leave it in the comments and it may be featured in an upcoming video.</p>
+<ul class="videoList twoColumnList">
+<li><a href="http://www.youtube.com/watch?v=J_3qBoWwH6Q" class="fancybox-media">Is there a diet recommended for Parkinson's disease?</a></li>
+<li><a href="http://www.youtube.com/watch?v=EFNrjUl8EPs" class="fancybox-media">Is parkinsonism the same as Parkinson's disease?</a></li>
+<li><a href="http://www.youtube.com/watch?v=hiVUd3PMm7w" class="fancybox-media">Any tips on exercise to ease the side effects?</a></li>
+<li><a href="http://www.youtube.com/watch?v=xqFjhzrC67A" class="fancybox-media">Is Deep Brain Stimulation (DBS) recommended?</a></li>
+<li><a href="http://www.youtube.com/watch?v=IrVd7iiDQ60" class="fancybox-media">I may have PD, what type of doctor should I see?</a></li>
+<li><a href="http://www.youtube.com/watch?v=ufKAnRk0ySk" class="fancybox-media">How will Parkinson's disease impact my sleep habits?</a></li>
+<li><a href="http://www.youtube.com/watch?v=EO0d7DaJZfI" class="fancybox-media">Do Young-Onset Parkinson's disease patients experience the same symptoms?</a></li>
+</ul>
+</div>
+<!--
+<p style="margin: 10px 0;" class="h-divider"> </p>
+<div id="">
+<h2>Debi Brooks: Clinical Trial Volunteer</h2>
+<p>Michael J. Fox Foundation for Parkinson's Research co-founder Debi Brooks talks about her experience as a volunteer for PPMI (Parkinson's Progression Markers Initiative), the landmark study aiming to identify biomarkers of Parkinson's disease progression. This is the first time Debi has volunteered for clinical research, and she is blogging about what she learns along the way.</p>
+<ul class="videoList twoColumnList">
+<li><a href="http://www.youtube.com/watch?v=mRD2M9ACXqw" class="fancybox-media">Debi Talks About PPMI</a></li>
+<li><a href="http://www.youtube.com/watch?v=PZOVwQkB-KM" class="fancybox-media">Volunteering in a Parkinson's Clinical Trial</a></li>
+<li><a href="http://www.youtube.com/watch?v=nOVQR-qyqpM" class="fancybox-media">A Day in the Life of a Clinical Trial Volunteer</a></li>
+</ul>
+</div> -->
+<p style="margin: 25px 0;" class="h-divider-thick"> </p>
+<div id="livingwith">
+<h2>Parkinson's Progression Marker's Initiative</h2>
+<p>The Parkinson’s Progression Markers Initiative (PPMI) is a landmark clinical study to better understand the progression of Parkinson’s disease (PD).</p>
+<ul class="videoList twoColumnList">
+<li><a href="http://www.youtube.com/watch?v=nnExjYitZPc" class="fancybox-media">Intro to PPMI and the LP Procedure</a></li>
+<li><a href="http://www.youtube.com/watch?v=YLaYGRciiYE" class="fancybox-media">Jaffes on Fox and Friends</a></li>
+<li><a href="http://www.youtube.com/watch?v=mRD2M9ACXqw" class="fancybox-media">Debi's PPMI Blog</a></li>
+</ul>
+</div>
+<p style="margin: 25px 0;" class="h-divider-thick"> </p>
+<div id="webinars">
+<h2>Hot Topic Webinars</h2>
+<p>Our interactive Hot Topics Webinar series, moderated by Dave Iverson, MJFF contributing editor and Patient Council member, offers in-depth discussion and analysis of the science closest or most critical to practical relevance in patients' lives. <a href="/page.html?hot-topics-webinar-series">View upcoming calls.</a></p>
+<ul class="videoList twoColumnList">
+<li><a href="https://event.on24.com/eventRegistration/EventLobbyServlet?target=registration.jsp&amp;eventid=569054&amp;sessionid=1&amp;key=DDD808A442D20B768C7B207845D386F3&amp;sourcepage=register" target="_blank">Overview of PD Research Priorities (Feb 2013)</a></li>
+<li><a href="http://event.on24.com/eventRegistration/EventLobbyServlet?target=lobby.jsp&amp;eventid=544352&amp;sessionid=1&amp;key=CC2340965C27996AB50C35CC263AF68B&amp;eventuserid=73714105" target="_blank">What We Learned in 2012. Looking Ahead to 2013 (Dec 2012)</a></li>
+<li><a href="http://www.youtube.com/watch?v=QshOlHkF09M" class="fancybox-media">Cognitive Impairment and Parkinson's Disease (Oct 2012)</a></li>
+<li><a href="http://www.youtube.com/watch?v=VTrUlqMuClI" class="fancybox-media">The Genetics of Parkinson's Disease (Sep 2012)</a></li>
+</ul>
+</div>
+</div>
+</div>
+<div id="tabs-2">
+<h2>Fox Foto Friday</h2>
+<div class="featuredContent"><object><img src="/files/blog/babyFox2.jpg" alt="Back For the Future" width="636" height="358" /></object>
+<p>Meet Eitan, the youngest Team Fox Young Professional of NYC! Eitan is the son of Loren and Shira Berger who have been active Team Fox members since 2007. Loren is Chairman of the YPs in NYC and both he and Shira have run marathons on behalf of Team Fox. Now the real question is: Which Eitan look is your favorite?</p>
+<a href="/foundation/news.html?tagid=419" style="color: white;" class="mjffButtonSm">View Past Foto Fridays</a></div>
+<p class="h-divider"> </p>
+<div class="allPlaylistsContainer"><!-- <h2>Foundation Photo Albums</h2>
+<div class="flickrAlbum"><object width="400" height="400"><param name="movie" value="http://www.slideflickr.com/slide/bDzopMhz" /><param name="wmode" value="transparent" /><embed type="application/x-shockwave-flash" width="400" height="400" src="http://www.slideflickr.com/slide/bDzopMhz" wmode="transparent" /> </object></div>
+<div class="flickrAlbum"><object width="400" height="400"><param name="movie" value="http://www.slideflickr.com/slide/5TegTUXB" /><param name="wmode" value="transparent" /><embed type="application/x-shockwave-flash" width="400" height="400" src="http://www.slideflickr.com/slide/5TegTUXB" wmode="transparent" /> </object></div>
+<div class="flickrAlbum"><object width="400" height="400"><param name="movie" value="http://www.slideflickr.com/slide/RPug4KMz" /><param name="wmode" value="transparent" /><embed type="application/x-shockwave-flash" width="400" height="400" src="http://www.slideflickr.com/slide/RPug4KMz" wmode="transparent" /> </object></div>
+<div class="flickrAlbum"><object width="400" height="400"><param name="movie" value="http://www.slideflickr.com/slide/FW4QNwuP" /><param name="wmode" value="transparent" /><embed type="application/x-shockwave-flash" width="400" height="400" src="http://www.slideflickr.com/slide/FW4QNwuP" wmode="transparent" /> </object></div> --> <!--
+<h3>Parkinson's Gala 2012</h3>
+<p>The Michael J. Fox Foundation is dedicated to finding better treatments and, ultimately, a cure for Parkinson's disease.</p>
+</div>
+<p class="h-divider"> </p>
+<div class="playlistContainer"><object width="400" height="300"><param name="flashvars" value="offsite=true&amp;lang=en-us&amp;page_show_url=%2Fuser_id=34165724@N04&set_id=72157632013183098%2Fshow%2F&amp;page_show_back_url=%2Fphotos%2F8186882332%2Fsets%2F72157632013183098%2F&amp;set_id=72157632013183098&amp;jump_to=" /><param name="movie" value="http://www.flickr.com/apps/slideshow/show.swf?v=122138" /><param name="allowFullScreen" value="true" /><embed allowfullscreen="true" type="application/x-shockwave-flash" width="400" height="300" src="http://www.flickr.com/apps/slideshow/show.swf?v=122138" /> </object>
+<h3>New York City Marathon</h3>
+<p>The Michael J. Fox Foundation is dedicated to finding better treatments and, ultimately, a cure for Parkinson's disease.</p>
+
+</div>
+-->
+<p class="h-divider"> </p>
+</div>
+</div>
+<div id="tabs-3">
+<div class="allPlaylistsContainer">
+<div class="section-nav">
+<p class="lg no-pad ko"><a href="#foundation" class="ko">About the Foundation</a> | <a href="#therapeutics" class="ko">Therapeutic Approaches</a> | <a href="#depression" class="ko">Depression</a> | <a href="#exercise" class="ko">Exercise</a></p>
+</div>
+<div id="foundation" class="playlistContainer">
+<h2>About the Foundation</h2>
+<h3>Prioritizing Parkinson's Research for Patient Impact</h3>
+<div class="audioContainer"><audio src="http://podcast.michaeljfox.org/wp-content/uploads/2010/06/Sherer-mixdown-2.mp3" controls="controls"></audio></div>
+<p>In a field with countless high-merit scientific ideas, how does The Michael J. Fox Foundation decide which projects to push forward? CEO <a href="/foundation/leaders.html">Todd Sherer</a>, PhD, discusses the factors the Foundation's research staff consider in prioritizing projects with the greatest promise to impact patients' lives in the near-term.</p>
+</div>
+<p class="h-divider"> </p>
+<div class="playlistContainer">
+<h3>The Michael J. Fox Foundation's “Patient-centric” Approach to Parkinson's Drug Development</h3>
+<div class="audioContainer"><audio src="http://podcast.michaeljfox.org/wp-content/uploads/2012/03/Debbie-Brooks-Remix-2.mp3" controls="controls"></audio></div>
+<p>Co-Founder and Executive Vice Chairman <a href="/foundation/leaders.html#deborahbrooks">Debi Brooks</a> explains how The Michael J. Fox Foundation keeps patient-relevant results at the center of its activities as it works to speed progress toward medical breakthroughs.</p>
+</div>
+<p class="h-divider"> </p>
+<div class="playlistContainer">
+<h3>Sam Fox: Taking On an Extraordinary Challenge to Support Parkinson's Research</h3>
+<div class="audioContainer"><audio src="http://podcast.michaeljfox.org/wp-content/uploads/2011/08/Sam-Fox-PCT-Challenge-Rev.mp3" controls="controls"></audio></div>
+<p><a href="/foundation/leaders.html?development#samfox">Sam Fox</a> (no relation to Michael J. Fox), Outreach and Engagement Officer, talks about his efforts to raise significant funds for Parkinson's research through feats of extreme endurance — starting with running 2,650 miles in two months (a marathon and a half every day) in honor of his mother, Lucy, who lives with Parkinson's disease.</p>
+</div>
+<p style="margin: 25px 0;" class="h-divider-thick"> </p>
+<div id="therapeutics" class="playlistContainer">
+<h2>Specific Therapeutic Approaches</h2>
+<h3>A Personalized Approach to Treating PD: Genetics' Critical Role in Parkinson's Drug Development</h3>
+<div class="audioContainer"><audio src="http://podcast.michaeljfox.org/wp-content/uploads/2012/03/Dr-Maurizio-Mixed-smaller-Personalized-Medicine.mp3" controls="controls"></audio></div>
+<p><a href="/foundation/leaders.html?research-programs#mauriziofacheris">Maurizio Facheris</a>, MD, MsC, associate director of research programs, discusses genetic changes that can increase risk of Parkinson's disease, and the research being done to develop new treatments based on the genetics of PD.</p>
+</div>
+<p class="h-divider"> </p>
+<div class="playlistContainer">
+<h3>Improving Delivery of Levodopa: Solving the On-Off Cycle for More Consistent Symptom Relief</h3>
+<div class="audioContainer"><audio src="http://podcast.michaeljfox.org/wp-content/uploads/2012/03/Dr-Todd-Sherer-Mixed-Smaller-On-Off.mp3" controls="controls"></audio></div>
+<p><a href="/foundation/leaders.html">CEO Todd Sherer</a>, PhD, discusses research efforts to improve delivery of levodopa in hopes of reducing the side effects of the drug and providing more consistent symptom relief.</p>
+</div>
+<p class="h-divider"> </p>
+<div class="playlistContainer">
+<h3>Dyskinesia: Working to Solve “One of the Most Challenging Problems” Faced by Parkinson's Patients</h3>
+<div class="audioContainer"><audio src="http://podcast.michaeljfox.org/wp-content/uploads/2012/01/mjff_todd_sherer_mixed.mp3" controls="controls"></audio></div>
+<p><a href="/foundation/leaders.html">CEO Todd Sherer, PhD,</a> discusses dyskinesia — the uncontrollable movements that are a side effect of the gold-standard treatment for Parkinson's disease — and research efforts under way to solve this challenging problem for Parkinson's patients.</p>
+</div>
+<p class="h-divider"> </p>
+<div class="playlistContainer">
+<h3>Azilect: Disease-modifying or Not?</h3>
+<div class="audioContainer"><audio src="http://podcast.michaeljfox.org/wp-content/uploads/2011/11/MJF-Azilect-Mixed-FINAL-FINAL.mp3" controls="controls"></audio></div>
+<p><a href="/foundation/leaders.html?research-programs#brianfiske">Brian Fiske</a>, PhD, vice president of research programs, explains the challenges of developing a so-called “disease-modifying” Parkinson's treatment — one that goes beyond symptom relief to actually slow or stop progression of the disease — and discusses why mixed results from clinical testing of Azilect (rasagiline) make it hard to know whether that drug is in fact disease-modifying.</p>
+</div>
+<p class="h-divider"> </p>
+<div class="playlistContainer">
+<h3>A Parkinson's Vaccine?</h3>
+<div class="audioContainer"><audio src="http://podcast.michaeljfox.org/wp-content/uploads/2011/11/MJF-Scheebergner-Mixed1.mp3" controls="controls"></audio></div>
+<p>MJFF research partner Achim Schneeberger, PhD, discusses his <a href="/foundation/grant-detail.php?grant_id=896">MJFF-funded work with Austrian biotech Affiris</a> to develop a therapeutic vaccine against Parkinson's that would work by stimulating the immune system to break up clumps of alpha-synuclein protein, which are found in the brain of everyone with Parkinson's disease.</p>
+</div>
+<p class="h-divider"> </p>
+<div class="playlistContainer">
+<h3>Deep Brain Stimulation: Right for More Parkinson's Patients than Once Was Thought?</h3>
+<div class="audioContainer"><audio src="http://podcast.michaeljfox.org/wp-content/uploads/2011/10/MJF-DBS-Final.mp3" controls="controls"></audio></div>
+<p>Parkinson's patients Anthony Farinella, 62, and Ian Pearson, 60, discuss their experience with Parkinson's and their decision to undergo Deep Brain Stimulation (DBS) surgery. DBS pioneer <a href="/foundation/leaders.html?scientific-advisors#andreslozano">Andres Lozano</a>, MD, PhD, reports on preliminary study results indicating that the benefits of DBS endure over the long term — results that, if validated, could lead to more patients being treated with DBS earlier in the course of their disease.</p>
+</div>
+<p class="h-divider"> </p>
+<div class="playlistContainer">
+<h3>Deep Brain Stimulation for Parkinson's Disease, Part 1: How It Works</h3>
+<div class="audioContainer"><audio src="http://podcast.michaeljfox.org/wp-content/uploads/2010/10/DBS-Part-1-FINAL1.mp3" controls="controls"></audio></div>
+<p>In the first of a two-part series on the use of deep brain stimulation (DBS), Dr. Bill Marks of the University of California, San Francisco, discusses the effectiveness of the surgical treatment and what it has to offer for PD patients today.</p>
+</div>
+<p class="h-divider"> </p>
+<div class="playlistContainer">
+<h3>Deep Brain Stimulation for Parkinson's Disease, Part 2: What to Expect and New Surgical Directions</h3>
+<div class="audioContainer"><audio src="http://podcast.michaeljfox.org/wp-content/uploads/2011/01/DBS-Part-2-FINAL1.mp3" controls="controls"></audio></div>
+<p>In the second of a two-part series on the use of deep brain stimulation (DBS), Dr. Bill Marks of the University of California, San Francisco, further discusses what PD patients can expect after undergoing DBS, and compares the effectiveness of different types of DBS procedures.</p>
+</div>
+<p class="h-divider"> </p>
+<div class="playlistContainer">
+<h3>CoQ10: Does It Protect the Neurons that Die in Parkinson's Disease? Unfortunately, Research Says No</h3>
+<div class="audioContainer"><audio src="http://podcast.michaeljfox.org/wp-content/uploads/2011/06/MJ-CoQ10-Study.mp3" controls="controls"></audio></div>
+<p>Controlled clinical research has not demonstrated any ability of natural supplement coenzyme Q10 (CoQ10) to slow progression of Parkinson's disease, but many patients believe in its power and continue to take the supplement. Doctors say there is likely no harm in taking CoQ10, but unfortunately no benefit either.</p>
+</div>
+<p class="h-divider"> </p>
+<div class="playlistContainer">
+<h3>Neurotrophic Factors and Parkinson's Disease: Optimizing Outcomes through an Engineering Approach</h3>
+<div class="audioContainer"><audio src="http://podcast.michaeljfox.org/wp-content/uploads/2010/06/andy-grove-mixdown.mp3" controls="controls"></audio></div>
+<p>Andy Grove, co-founder of microprocessor giant Intel, Parkinson's patient and senior advisor to MJFF, discusses the need for an engineering approach to Parkinson's drug development, and the need for a problem-solving approach in developing therapies based on neurotrophic factors, specialized proteins that protect dopamine neurons in the brain.</p>
+</div>
+<p style="margin: 25px 0;" class="h-divider-thick"> </p>
+<div id="depression" class="playlistContainer">
+<h2>Depression and Parkinson's Disease</h2>
+<h3>How Depression Impacts Parkinson's Patients</h3>
+<div class="audioContainer"><audio src="http://podcast.michaeljfox.org/wp-content/uploads/2010/05/Irene-Mixdown.mp3" controls="controls"></audio></div>
+<p>Depression affects as many as half of Parkinson's patients. <a href="/foundation/leaders.html?scientific-advisors#irenerichard">Irene Hegeman Richard</a>, MD, of the University of Rochester School of Medicine and Dentistry discusses the impact of depression on people with PD, why Parkinson's-related depression too often goes untreated, and warning signs that depression may be present.</p>
+</div>
+<p class="h-divider"> </p>
+<div class="playlistContainer">
+<h3>New Research on Treating Depression in Parkinson's Patients</h3>
+<div class="audioContainer"><audio src="http://podcast.michaeljfox.org/wp-content/uploads/2011/08/DepressionPodcast.mp3" controls="controls"></audio></div>
+<p><a href="/foundation/leaders.html?scientific-advisors#irenerichard">Irene Hegeman Richard</a>, MD, discusses new research into the effectiveness of standard antidepressant medication on Parkinson's-related depression, as well as the latest thinking on drug interactions.</p>
+</div>
+<p style="margin: 25px 0;" class="h-divider-thick"> </p>
+<div class="playlistContainer">
+<h2 id="exercise">Exercise and Parkinson's Disease</h2>
+<h3>Exercise and Parkinson's Disease, Part 1: Why Exercise May Help</h3>
+<div class="audioContainer"><audio src="http://podcast.michaeljfox.org/wp-content/uploads/2011/06/1-MJ-Gisselle-Petzinger-Why-Exercise-May-Help1.mp3" controls="controls"></audio></div>
+<p>Why would exercise hold particular benefits for people with Parkinson's disease? Giselle Petzinger, PhD, of the University of Southern California discusses some of the cellular mechanisms believed to be affected by exercise and how they may affect Parkinson's symptoms.</p>
+</div>
+<p class="h-divider"> </p>
+<div class="playlistContainer">
+<h3>Exercise and Parkinson's Disease, Part 2: What Forms of Exercise Help Most?</h3>
+<div class="audioContainer"><audio src="http://podcast.michaeljfox.org/wp-content/uploads/2011/06/2-Dr-Shulman-what-forms-of-exercise-help-most1.mp3" controls="controls"></audio></div>
+<p>In addition to its universal health benefits, exercise is believed to hold particular advantages for people with Parkinson's disease, many of whom report that regular exercise helps them manage symptoms and live better with PD. Lisa Shulman, MD, of the University of Maryland discusses her MJFF-funded research on the type, intensity and duration of exercise that may be optimal for Parkinson's patients.</p>
+</div>
+<p class="h-divider"> </p>
+<div class="playlistContainer">
+<h3>Exercise and Parkinson's Disease, Part 3: The Exercise Helpline</h3>
+<div class="audioContainer"><audio src="http://podcast.michaeljfox.org/wp-content/uploads/2011/06/3-Terry-Ellis-the-exercise-help-line1.mp3" controls="controls"></audio></div>
+<p>People with Parkinson's disease are hungry for reliable information on how exercise and physical therapy may help them, and how to work activity into their weekly routine. Dr. Terry Ellis of Boston University set up the Parkinson's Exercise Helpline (888-606-1688) to provide education on the connection between Parkinson's and exercise, and connect patients with local experts who can help them get started.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script type="text/javascript">// <![CDATA[
+$(function() {
+		$("#tabs").tabs({
+			event : "click"
+		});
+	});
+// ]]></script>
+<script type="text/javascript">// <![CDATA[
+jQuery.fn.makeacolumnlists = function(settings){
+	settings = jQuery.extend({
+		cols: 2,		// set number of columns
+		colWidth: 420,		// set width for each column or leave 0 for auto width
+		equalHeight: false, 	// can be false, 'ul', 'ol', 'li'
+		startN: 1		// first number on your ordered list
+	}, settings);
+ 
+	if(jQuery('> li', this)) {
+		this.each(function(y) {
+			var y=jQuery('.li_container').size(),
+		    	height = 0, 
+		        maxHeight = 0,
+				t = jQuery(this),
+				classN = t.attr('class'),
+				listsize = jQuery('> li', this).size(),
+				percol = Math.ceil(listsize/settings.cols),
+				contW = t.width(),
+				bl = ( isNaN(parseInt(t.css('borderLeftWidth'),10)) ? 0 : parseInt(t.css('borderLeftWidth'),10) ),
+				br = ( isNaN(parseInt(t.css('borderRightWidth'),10)) ? 0 : parseInt(t.css('borderRightWidth'),10) ),
+				pl = parseInt(t.css('paddingLeft'),10),
+				pr = parseInt(t.css('paddingRight'),10),
+				ml = parseInt(t.css('marginLeft'),10),
+				mr = parseInt(t.css('marginRight'),10),
+				col_Width = Math.floor((contW - (settings.cols-1)*(bl+br+pl+pr+ml+mr))/settings.cols);
+			if (settings.colWidth) {
+				col_Width = settings.colWidth; 
+			}
+			var colnum=1,
+				percol2=percol;
+			jQuery(this).addClass('li_cont1').wrap('<div id="li_container' + (++y) + '" class="li_container"></div>');
+			if (settings.equalHeight=='li') {
+			    jQuery('> li', this).each(function() {
+			        var e = jQuery(this);
+			        var border_top = ( isNaN(parseInt(e.css('borderTopWidth'),10)) ? 0 : parseInt(e.css('borderTopWidth'),10) );
+			        var border_bottom = ( isNaN(parseInt(e.css('borderBottomWidth'),10)) ? 0 : parseInt(e.css('borderBottomWidth'),10) );
+			        height = e.height() + parseInt(e.css('paddingTop'), 10) + parseInt(e.css('paddingBottom'), 10) + border_top + border_bottom;
+			        maxHeight = (height > maxHeight) ? height : maxHeight;
+			    });
+			}
+			for (var i=0; i<=listsize; i++) {
+				if(i>=percol2) { percol2+=percol; colnum++; }
+				var eh = jQuery('> li:eq('+i+')',this);
+				eh.addClass('li_col'+ colnum);
+				if(jQuery(this).is('ol')){eh.attr('value', ''+(i+settings.startN))+'';}
+				if (settings.equalHeight=='li') {
+			        var border_top = ( isNaN(parseInt(eh.css('borderTopWidth'),10)) ? 0 : parseInt(eh.css('borderTopWidth'),10) );
+			        var border_bottom = ( isNaN(parseInt(eh.css('borderBottomWidth'),10)) ? 0 : parseInt(eh.css('borderBottomWidth'),10) );
+					mh = maxHeight - (parseInt(eh.css('paddingTop'), 10) + parseInt(eh.css('paddingBottom'), 10) + border_top + border_bottom );
+			        eh.height(mh);
+				}
+			}
+			jQuery(this).css({cssFloat:'left', width:''+col_Width+'px'});
+			for (colnum=2; colnum<=settings.cols; colnum++) {
+				if(jQuery(this).is('ol')) {
+					jQuery('li.li_col'+ colnum, this).appendTo('#li_container' + y).wrapAll('<ol class="li_cont'+colnum +' ' + classN + '" style="float:left; width: '+col_Width+'px;"></ol>');
+				} else {
+					jQuery('li.li_col'+ colnum, this).appendTo('#li_container' + y).wrapAll('<ul class="li_cont'+colnum +' ' + classN + '" style="float:left; width: '+col_Width+'px;"></ul>');
+				}
+			}
+			if (settings.equalHeight=='ul' || settings.equalHeight=='ol') {
+				for (colnum=1; colnum<=settings.cols; colnum++) {
+				    jQuery('#li_container'+ y +' .li_cont'+colnum).each(function() {
+				        var e = jQuery(this);
+				        var border_top = ( isNaN(parseInt(e.css('borderTopWidth'),10)) ? 0 : parseInt(e.css('borderTopWidth'),10) );
+				        var border_bottom = ( isNaN(parseInt(e.css('borderBottomWidth'),10)) ? 0 : parseInt(e.css('borderBottomWidth'),10) );
+				        height = e.height() + parseInt(e.css('paddingTop'), 10) + parseInt(e.css('paddingBottom'), 10) + border_top + border_bottom;
+				        maxHeight = (height > maxHeight) ? height : maxHeight;
+				    });
+				}
+				for (colnum=1; colnum<=settings.cols; colnum++) {
+					var eh = jQuery('#li_container'+ y +' .li_cont'+colnum);
+			        var border_top = ( isNaN(parseInt(eh.css('borderTopWidth'),10)) ? 0 : parseInt(eh.css('borderTopWidth'),10) );
+			        var border_bottom = ( isNaN(parseInt(eh.css('borderBottomWidth'),10)) ? 0 : parseInt(eh.css('borderBottomWidth'),10) );
+					mh = maxHeight - (parseInt(eh.css('paddingTop'), 10) + parseInt(eh.css('paddingBottom'), 10) + border_top + border_bottom );
+			        eh.height(mh);
+				}
+			}
+		    jQuery('#li_container' + y).append('<div style="clear:both; overflow:hidden; height:0px;"></div>');
+		});
+	}
+}
+ 
+jQuery.fn.uncolumnlists = function(){
+	jQuery('.li_cont1').each(function(i) {
+		var onecolSize = jQuery('#li_container' + (++i) + ' .li_cont1 > li').size();
+		if(jQuery('#li_container' + i + ' .li_cont1').is('ul')) {
+			jQuery('#li_container' + i + ' > ul > li').appendTo('#li_container' + i + ' ul:first');
+			for (var j=1; j<=onecolSize; j++) {
+				jQuery('#li_container' + i + ' ul:first li').removeAttr('class').removeAttr('style');
+			}
+			jQuery('#li_container' + i + ' ul:first').removeAttr('style').removeClass('li_cont1').insertBefore('#li_container' + i);
+		} else {
+			jQuery('#li_container' + i + ' > ol > li').appendTo('#li_container' + i + ' ol:first');
+			for (var j=1; j<=onecolSize; j++) {
+				jQuery('#li_container' + i + ' ol:first li').removeAttr('class').removeAttr('style');
+			}
+			jQuery('#li_container' + i + ' ol:first').removeAttr('style').removeClass('li_cont1').insertBefore('#li_container' + i);
+		}
+		jQuery('#li_container' + i).remove();
+	});
+}
+
+$('.twoColumnList').makeacolumnlists({cols:2,colWidth:420,equalHeight:false,startN:1});
+// ]]></script>
