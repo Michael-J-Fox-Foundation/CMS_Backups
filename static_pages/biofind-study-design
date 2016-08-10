@@ -1,0 +1,30 @@
+<h2>About the Study</h2>
+<p>Launched in 2012, BioFIND is a collaboration between MJFF and the <a href="http://www.ninds.nih.gov/" style="color: orange;" target="_blank">National Institute of Neurological Disorders and Stroke (NINDS)</a>. The study aims to complement <a href="http://www.ppmi-info.org/" style="color: orange;">PPMI </a>to produce the most comprehensive and long-ranging dataset available for biomarker discovery work throughout the PD community. BioFIND has built a dynamic infrastructure comprised of the principal investigator, site investigators, Clinical Core, Biorepository Core and Bioinformatics Core.  This section of the website is designed to provide insight into the study design and to provide access to primary study documents.<br /><br /><span>BioFIND was designed with a strong focus on developing standardized protocols, policies, systems and processes. To achieve successful implementation of this across the clinical sites and cores, the study leadership has led the development of an extensive study protocol, data collection standards and processes, and data and biospecimen use agreements and policies. All of these documents support the collection, transfer and storage of clinical data and biological samples.</span></p>
+<h2>Study Design</h2>
+<table id="biofindDesign" class="studyDesignTable">
+<tbody>
+<tr><th>Components</th><th>Details</th></tr>
+<tr>
+<td>Study Leadership</td>
+<td><strong>Un Kang, MD</strong> (Columbia University Medical Center, New York, NY)</td>
+</tr>
+<tr>
+<td>Site Investigators</td>
+<td><strong>Roy Alcalay  </strong>(Columbia University Medical Center, New York, NY)<br /><strong>Amy Amara</strong>  (University of Alabama at Birmingham, Birmingham, AL)<br /><strong>Sam Frank  </strong>(Boston University, Boston, MA)<br /><strong>Jennifer Goldman  </strong>(Rush University Medical Center, Chicago, IL)<br /><strong>Claire Henchcliffe  </strong>(Cornell University Medical Center, New York, NY)<br /><strong>Penelope Hogarth  </strong>(Oregon Health and Science University, Portland, OR)<br /><strong>Paul Tuite  </strong>(University of Minnesota Medical Center, St. Paul, MN)<br /><strong>Tao Xie  </strong>(University of Chicago Medical Center, Chicago, IL) </td>
+</tr>
+<tr>
+<td>Clinical Core</td>
+<td>The Clinical Core, the Clinical Trials Coordinating Center (CTCC) at the University of Rochester is responsible for site management and the collection, tracking and performance of quality control of the clinical data.</td>
+</tr>
+<tr>
+<td>Biorepository Core</td>
+<td>The Biorepository Core, NINDS Repository at Coriell Institute for Medical Research, will receive, store, and distribute biospecimens collected throughout the course of the study.</td>
+</tr>
+<tr>
+<td>Bioinformatics Core</td>
+<td>The Bioinformatics Core, the Laboratory of Neuroimaging (LONI) at the University of California Los Angeles, has designed and will maintain the external BioFIND study database.</td>
+</tr>
+</tbody>
+</table>
+<p class="h-divider"> </p>
+<p><a href="/page.html?biofind-clinical-study"><img src="/images/arrow-more.gif" alt="biofind eligibility" width="16" height="14" /></a><a href="/page.html?biofind-clinical-study">Back to BioFind</a></p>
