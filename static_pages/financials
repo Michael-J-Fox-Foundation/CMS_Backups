@@ -1,0 +1,31 @@
+<h1>Annual Report &amp; Financials</h1>
+<p class="intro">We take our responsibility to our donors seriously. We're proud that since inception, 89 cents of every dollar we spend goes straight to grants and initiatives to speed a cure for Parkinson's disease.</p>
+<h3 class="bold">2014 Annual Report</h3>
+<p class="l303-23"><a href="http://www.joomag.com/magazine/the-michael-j-fox-foundation-2014-annual-report/0190774001438282084?short" target="_blank"> <img src="/files/2014-annual-report-thumb.png" alt="" width="303" height="165" /></a></p>
+<div class="1572">
+<p><span>Our most recent annual report details how the field of Parkinson’s research saw tremendous advances in 2014.</span> Powered by an engaged community, The Michael J. Fox Foundation continues to lead this momentum toward a world without Parkinson’s disease.</p>
+<a href="http://www.joomag.com/magazine/the-michael-j-fox-foundation-2014-annual-report/0190774001438282084?short" target="_blank">READ FULL REPORT</a></div>
+<div class="clearit"></div>
+<h3 class="bold">Financial Reports</h3>
+<ul class="indent">
+<li><a href="/files/foundation/Audited_Financial_Statements_(2014).pdf" target="_blank">Audited Financial Statements (2014)</a></li>
+<li><a href="/files/foundation/Audited_Financial_Statements_(2014-Canada).pdf" target="_blank">Audited Financial Statements (2014-Canada)</a></li>
+<li><a href="/files/foundation/IRS_Form_990_(2014).pdf" target="_blank">IRS Form 990 (2014)</a></li>
+</ul>
+<h3 class="bold">See Past Annual Reports</h3>
+<ul id="financialReports" class="indent">
+<li><a href="/files/MJFF_ANNUAL_REPORT_2013_WEB.pdf" target="_blank">2013 Annual Report</a></li>
+<li><a href="/files/MJFF-2012-Annual-Report.pdf" target="_blank">2012 Annual Report</a></li>
+<li><a href="/files/foundation/Brin_Book.pdf" target="_blank">2012 Special Report: The Brin Wojcicki Challenge</a></li>
+<li><a href="/files/foundation/2011%20MJFF%20Annual%20Report.pdf" target="_blank">2011 Annual Report</a></li>
+<li><a href="/files/foundation/2010_Annual_Report.pdf" target="_blank">2010 Annual Report</a></li>
+<li><a href="/files/foundation/2009_Annual_Report.pdf" target="_blank">2009 Annual Report</a></li>
+<li><a href="/files/2008_annual_report.pdf" target="_blank">2008 Annual Report</a></li>
+</ul>
+<script type="text/javascript">// <![CDATA[
+$(document).ready(function(){
+    $('.moreFinancialReports').click(function(){
+      $('#financialReports').slideToggle();
+    })
+  })
+// ]]></script>
