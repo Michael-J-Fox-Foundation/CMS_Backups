@@ -1,0 +1,16 @@
+<p><img src="/files/smell_banner.jpeg" /></p>
+<p>Early detection is a crucial step to understanding the causes of and developing better treatments for Parkinson’s disease (PD). Even before the typical tremor and slowness of movements occur in PD, it may be possible to detect early changes in the brain and symptoms that are associated with PD. For example, loss of sense of smell is a common but little noticed symptom that may occur years before the onset of motor symptoms or a PD diagnosis.</p>
+<h2>What Did You Smell?</h2>
+<form>
+<div style="font-size: 1.5em;">
+<div style="width: 200px; float: left;">
+<p><input id="lemon" name="smell" type="radio" /> <label for="lemon">Lemon</label></p>
+<p><input id="coffee" name="smell" type="radio" /> <label for="coffee">Coffee</label></p>
+</div>
+<div style="width: 200px; float: left;">
+<p><input id="peppermint" name="smell" type="radio" /> <label for="peppermint">Peppermint</label></p>
+<p><input id="none" name="smell" type="radio" /> <label for="none">Nothing At All</label></p>
+</div>
+</div>
+<p style="clear: both; padding-top: 15px;"><a href="/get-involved/smellsurvey.php" class="mjffButton">Submit and Take Our Survey</a></p>
+</form>
