@@ -1,0 +1,76 @@
+<style><!--
+.PPMIblogContainer .titleLink{
+	height:74px;
+}
+.PPMIblogContainer{
+	margin: 20px 0;
+	display: inline-block;
+}
+.border{
+	border: 2px solid #ededed;
+}
+#clinicalTrialsubMenu{
+display: inline-block !important;
+}
+--></style>
+<div class="ppmiMapContainer"></div>
+<ul id="clinicalTrialsubMenu">
+<li><a href="/page.html?parkinsons-progression-markers-initiative-get-involved">Get Involved</a></li>
+<li><a href="/page.html?parkinsons-progression-markers-initiative-about">About PPMI</a></li>
+<li><a href="/page.html?parkinsons-progression-markers-initiative-progress">PPMI Progress</a></li>
+<li class="active"><a href="/page.html?parkinsons-progression-markers-initiative-news">In The News</a></li>
+</ul>
+<p></p>
+<h2 class="CTSTitle PPMI">PPMI in the News</h2>
+<p class="intro">PPMI is the first-ever large-scale study exclusively focused on developing Parkinson’s disease biomarkers. Since its inception in 2010, PPMI has been covered by local, national, and international news outlets.</p>
+<p class="clearit"></p>
+<h2 style="margin-top: 20px;">Featured Stories</h2>
+<div class="group">
+<p class="h-divider-thick"></p>
+<div class="l303-23"><a href="#hidden-video" class="fancybox"> <img src="/files/blog/dr steve crop.jpg" alt="" width="303" height="165" /> </a></div>
+<div class="l310">
+<h4 class="bold"><a href="#hidden-video" class="fancybox">The Dr. Steve Show, "Loss of Smell"</a></h4>
+<p class="sm gray6">March 9, 2014</p>
+<p>Danna Jennings, MD, appeared on The Dr. Steve Show to discuss how smell loss may be a sign of early Parkinson's disease.</p>
+<a href="#hidden-video" class="fancybox orange CTSReadMore">Watch the video</a></div>
+<p class="clearit"></p>
+<div id="hidden-video" style="display: none;"><video width="600" height="400" controls="controls"> <source src="https://www.michaeljfox.org/files/docsteve.mp4" type="video/mp4" /> <source src="https://s3-us-west-2.amazonaws.com/mjff-website-videos/docsteve.ogv" type="video/ogg" /> Your browser does not support the video tag. </video></div>
+</div>
+<p class="clearit"></p>
+<div class="PPMIblogContainer">
+<div class="group"><a href="/foundation/news-detail.php?ppmi-smell-study-profiled-in-uk-based-financial-times" target="_blank"> <img src="/files/FTimes_30_v2.jpg" class="border" width="200" height="109" /> </a>
+<div class="titleLink">
+<h4 style="font-size: 13px;"><a href="/foundation/news-detail.php?ppmi-smell-study-profiled-in-uk-based-financial-times" target="_blank">Study uses sense of smell to help fight Parkinson's</a></h4>
+<a href="/foundation/news-detail.php?ppmi-smell-study-profiled-in-uk-based-financial-times" class="orange CTSReadMore" target="_blank">Read More</a></div>
+</div>
+<div class="group"><a href="http://www.usatoday.com/story/news/nation/2013/08/26/parkinsons-predictor/2701019/" target="_blank"> <img src="/files/USA-Today-Logo-303x165.png" class="border" width="200" height="109" /> </a>
+<div class="titleLink">
+<h4 style="font-size: 13px;"><a href="http://www.usatoday.com/story/news/nation/2013/08/26/parkinsons-predictor/2701019/" target="_blank">Researchers take step toward predicting Parkinson's</a></h4>
+<a href="http://www.usatoday.com/story/news/nation/2013/08/26/parkinsons-predictor/2701019/" class="orange CTSReadMore" target="_blank">Read More</a></div>
+</div>
+<div class="group"><a href="/files/The%20Lancet%20November%202012.pdf" target="_blank"> <img src="/files/Lancet%20logo%20303x156.jpg" class="border" width="200" height="109" /> </a>
+<div class="titleLink">
+<h4 style="font-size: 13px;"><a href="/files/The%20Lancet%20November%202012.pdf" target="_blank">Hollywood star leads the way in Parkinson's research</a></h4>
+<a href="/files/The%20Lancet%20November%202012.pdf" class="orange CTSReadMore" target="_blank">Read More</a></div>
+</div>
+</div>
+<h2>Additional Media Coverage</h2>
+<div class="ppmi-blog-jquery"></div>
+<p>
+<script type="text/javascript">// <![CDATA[
+$(document).ready(
+		function () {
+			$('div.hide').hide()
+		});
+	$('.tog').click(function(){
+		$(this).next('div.hide').slideToggle('slow');
+		$(this).hide();
+	});
+// ]]></script>
+<script type="text/javascript">// <![CDATA[
+$(document).ready(function(){
+$('.ppmi-blog-jquery').load('/blog-api-feed.php?id=455');
+$('.ppmiMapContainer').load('/page.html?id=104 #mapToolbarLoader');
+});
+// ]]></script>
+</p>
