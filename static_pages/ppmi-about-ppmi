@@ -1,0 +1,269 @@
+<style><!--
+.countryList {
+	padding-bottom:0;
+}
+.countryList span {
+	display:inline-block;
+	width:210px;
+	text-align:center;
+	padding:4px 0;
+	cursor:pointer;
+}
+.countryList span.selectedCountry{
+	background-color:#EDEDED;
+	border-top:4px solid #ccc;
+	border-left:4px solid #ccc;
+	border-right:4px solid #ccc;
+	width:202px;
+}
+
+.ppmiMap iframe{
+	border-left:4px solid #ccc;
+	border-right:4px solid #ccc;
+	border-bottom:4px solid #ccc;
+
+}
+--></style>
+<div class="ppmiMapContainer"> </div>
+<ul id="clinicalTrialsubMenu">
+<li><a href="/page.html?parkinsons-progression-markers-initiative-get-involved">Get Involved</a></li>
+<li class="active"><a href="/page.html?parkinsons-progression-markers-initiative-about">About PPMI</a></li>
+<li><a href="/page.html?parkinsons-progression-markers-initiative-progress">PPMI Progress</a></li>
+<li><a href="/page.html?parkinsons-progression-markers-initiative-news">In The News</a></li>
+</ul>
+<p class="h-divider"> </p>
+<h3 class="CTSTitle">Why PPMI?</h3>
+<p>Today, only treatments that temporarily alleviate symptoms are available to people with Parkinson’s. Discovering <a class="orange bold" title="Specific, measurable physical traits used to determine or indicate the effects or progress of a disease or condition. For example, high blood pressure is a biomarker of potential cardiovascular disease. No validated biomarker of Parkinson's disease currently exists.">biomarkers</a> through PPMI would give researchers a critical tool in the quest for disease-modifying therapies (those that can slow or stop the progression of the disease). The Michael J. Fox Foundation has long championed biomarker discovery and development, having invested over $28 million in biomarker research prior to launching PPMI in 2010. By that time, the Parkinson’s research field had amassed enough biomarker leads and initial data to justify development of a comprehensive biomarker validation infrastructure: PPMI. Identifying a biomarker for Parkinson's disease would signficantly enhance the PD research landscape, allowing for:</p>
+<ul>
+<li><strong>Earlier diagnosis</strong> to one day treat motor symptoms sooner or even prevent their onset</li>
+<li><strong>Better disease tracking</strong> to help patients and clinicians better manage a treatment regimen</li>
+<li><strong>More efficient testing of new therapies</strong> to improve the odds of success and reduce costs and timelines to get more treatments to market</li>
+</ul>
+<p class="h-divider"> </p>
+<h3 class="CTSTitle">The PPMI Approach</h3>
+<p>The Parkinson’s Progression Markers Initiative (PPMI) is an observational clinical study to validate biomarkers and identify risk factors for Parkinson’s disease (PD). To achieve these goals, PPMI is studying volunteers with and without PD for up to five years to better understand biologic changes over time.</p>
+<p><img src="/files/010515_PPMI_APPROACH_image.jpg" width="600" height="553" /></p>
+<p class="h-divider"> </p>
+<h3 class="CTSTitle">What is tested in PPMI?</h3>
+<p>As an observational study, PPMI is not testing a drug or treatment, and the study’s volunteers are not required to take an experimental drug or placebo. PPMI participants undergo a comprehensive battery of tests and assessments including MRI and DATscan imaging; collection of blood, cerebral spinal fluid, and urine samples; as well as cognitive and motor evaluations. Monitoring changes in these areas in volunteers with and without PD over time will help researchers understand the progression of Parkinson’s disease and potentially identify one or more biomarkers of PD.</p>
+<p class="h-divider"> </p>
+<h3 class="CTSTitle">Where in the World is PPMI?</h3>
+<h3 class="countryList"><span class="selectedCountry usa">United States</span><span class="europe">Europe &amp; Middle East</span> <span class="australia">Australia</span></h3>
+<div class="ppmiMap usa"><iframe width="628" height="300" src="https://maps.google.com/maps/ms?ie=UTF8&amp;hl=en&amp;oe=UTF8&amp;msa=0&amp;msid=201309068226433060065.0004c16de45d1053ec3ed&amp;t=m&amp;z=3&amp;ll=36.954342,-96.899683&amp;spn=21.215993,51.572335&amp;output=embed" frameborder="0"></iframe></div>
+<div class="europe ppmiMap"><iframe width="628" height="300" src="https://maps.google.com/maps/ms?ie=UTF8&amp;hl=en&amp;oe=UTF8&amp;msa=0&amp;msid=201309068226433060065.0004c1acf088ddcaf1b88&amp;ll=70.460131,-80.996094&amp;spn=31.335252,36.757567&amp;z=2&amp;t=m&amp;output=embed" frameborder="0"></iframe></div>
+<div class="australia ppmiMap"><iframe width="628" height="300" src="https://maps.google.com/maps/ms?ie=UTF8&amp;hl=en&amp;oe=UTF8&amp;msa=0&amp;msid=201309068226433060065.0004c1acc7deaf7cbf50a&amp;ll=-5.273714,80.054688&amp;z=3&amp;spn=0,0&amp;t=m&amp;output=embed" frameborder="0"></iframe></div>
+<p>
+<script type="text/javascript">// <![CDATA[
+$(document).ready(function(){
+	$(".ppmiMap.europe, .ppmiMap.australia").hide();
+
+	$(".countryList span").click(function(){
+		$(".countryList span").removeClass("selectedCountry");
+		$(this).addClass("selectedCountry");
+		
+		if($(this).hasClass('usa')){
+			$(".ppmiMap").hide();
+			$(".ppmiMap.usa").show();
+		} else if ($(this).hasClass('europe')){
+			$(".ppmiMap").hide();
+			$(".ppmiMap.europe").show();
+		} else if ($(this).hasClass('australia')){
+			$(".ppmiMap").hide();
+			$(".ppmiMap.australia").show();
+		}
+	})
+
+})
+// ]]></script>
+</p>
+<div class="clearit"> </div>
+<p></p>
+<p></p>
+<p><a id="ppmisitetable"></a>Click <a href="#geneticsTable" class="fancybox orange bold"><strong>here</strong></a><a id="#ppmisitetable"></a> to view a full list of PPMI clinical sites.</p>
+<p></p>
+<div class="prev-next">
+<p class="prev-next-next single"><a href="/page.html?parkinsons-progression-markers-initiative-progress" class="nextLink group"> <img src="/images/arrow-callout.gif" alt="next" width="20" height="24" /> <span class="nextLinkTxt" style="font-size: 18px;">PPMI Progress</span> </a></p>
+<div class="clearit"> </div>
+</div>
+<p>
+<script type="text/javascript">// <![CDATA[
+$(document).ready(function(){
+$("#contentSizeVary").tooltip();
+$('.ppmiMapContainer').load('/page.html?id=104 #mapToolbarLoader');
+});
+// ]]></script>
+</p>
+<div id="geneticsTable" style="display: none;">
+<table class="studyDesignTable">
+<tbody>
+<tr>
+<td colspan="3"><strong>PPMI Clinical Sites</strong></td>
+</tr>
+<tr>
+<td><strong>City/State</strong></td>
+<td><strong>Site Name</strong></td>
+<td><strong>Local Site Phone Number</strong></td>
+</tr>
+<tr>
+<td>Athens, Greece</td>
+<td><a href="http://www.attikonhospital.gr/">Attikon University Hospital</a></td>
+<td>+30 2105832493</td>
+</tr>
+<tr>
+<td>Atlanta, GA</td>
+<td><a href="http://www.emoryhealthcare.org/neurosciences/conditions/parkinsons-disease.html">Emory University</a></td>
+<td>404-728-6944</td>
+</tr>
+<tr>
+<td>Barcelona, Spain</td>
+<td><a href="http://www.hospitalclinic.org/">Hospital Clinic de Barcelona</a></td>
+<td>+34 646699750</td>
+</tr>
+<tr>
+<td>Baltimore, MD</td>
+<td><a href="http://www.hopkinsmedicine.org/neurology_neurosurgery/specialty_areas/movement_disorders/">Johns Hopkins University</a></td>
+<td>410-955-2954</td>
+</tr>
+<tr>
+<td>Birmingham, AL</td>
+<td><a href="https://www.uab.edu/medicine/neurology/">University of Alabama at Birmingham</a></td>
+<td>877-836-8108</td>
+</tr>
+<tr>
+<td>Boca Raton, FL</td>
+<td><a href="http://www.parkinsonscenter.org/">Parkinson's Disease and Movement Disorders Center of Boca Raton</a></td>
+<td>(561) 392-1818 x 6</td>
+</tr>
+<tr>
+<td>Boston, MA</td>
+<td><a href="http://www.bumc.bu.edu/parkinsonsdisease/">Boston University Medical Center</a></td>
+<td>617-638-7737</td>
+</tr>
+<tr>
+<td>Chicago, IL</td>
+<td><a href="http://www.parkinsons.northwestern.edu/">Northwestern University</a></td>
+<td>(312) 503-0755</td>
+</tr>
+<tr>
+<td>Cincinnati, OH</td>
+<td><a href="http://www.med.uc.edu/neurology/specialties/overview/parkinsons.aspx">University of Cincinnati</a></td>
+<td>513-558-6517</td>
+</tr>
+<tr>
+<td>Cleveland, OH</td>
+<td><a href="http://my.clevelandclinic.org/neurological_institute/default.aspx">Cleveland Clinic</a></td>
+<td>216-444-1134</td>
+</tr>
+<tr>
+<td>Houston, TX</td>
+<td><a href="https://www.bcm.edu/departments/neurology/parkinsons/">Baylor College of Medicine</a></td>
+<td>713-798-3951</td>
+</tr>
+<tr>
+<td>Innsbruck, Austria</td>
+<td><a href="http://www.uibk.ac.at/">University of Innsbruck</a></td>
+<td>+43 512 504 81553</td>
+</tr>
+<tr>
+<td>Kassel, Germany</td>
+<td><a href="http://www.paracelsus-kliniken.de/kassel.html">Paracelsus-Elena Klinik</a></td>
+<td>+49 561 6009 272</td>
+</tr>
+<tr>
+<td>London, UK</td>
+<td><a href="http://www3.imperial.ac.uk/">Imperial College London</a></td>
+<td>+44 203 311 1714</td>
+</tr>
+<tr>
+<td>New Haven, CT</td>
+<td><a href="http://www.indd.org/">Institute of Neurodegenerative Disorders</a></td>
+<td>203-401-4332</td>
+</tr>
+<tr>
+<td>New York, NY</td>
+<td><a href="http://cpmcnet.columbia.edu/dept/neurology/movdis/">Columbia University Medical Center</a></td>
+<td>212-305-9183</td>
+</tr>
+<tr>
+<td>New York, NY</td>
+<td><a href="http://www.wehealny.org/services/bi_neurology/">Beth Israel Medical Center</a></td>
+<td>212-844-8713</td>
+</tr>
+<tr>
+<td>Paris, France</td>
+<td><a href="http://www.aphp.fr/hopital/pitie-salpetriere/">Pitié-Salpêtrière Hospital</a></td>
+<td>+33 1 42 16 57 67</td>
+</tr>
+<tr>
+<td>Philadelphia, PA</td>
+<td><a href="http://www.pennmedicine.org/neuro/services/parkinsons/">University of Pennsylvania</a></td>
+<td>215-829-7374</td>
+</tr>
+<tr>
+<td>Portland, OR</td>
+<td><a href="http://www.ohsu.edu/xd/health/services/brain/getting-treatment/diagnosis/parkinsons/">Oregon Health Sciences University</a></td>
+<td>503-494-0276</td>
+</tr>
+<tr>
+<td>Rochester, NY</td>
+<td><a href="http://www.urmc.rochester.edu/neurology/units/movement-disorders-unit.cfm">University of Rochester</a></td>
+<td>585-341-7515</td>
+</tr>
+<tr>
+<td>Salerno, Italy</td>
+<td><a href="http://www.unisa.it/">University of Salerno</a></td>
+<td>+39 340 519 2659</td>
+</tr>
+<tr>
+<td>San Diego, CA</td>
+<td><a href="http://health.ucsd.edu/specialties/neuro/specialty-programs/movement-disorders/Pages/default.aspx">University of California at San Diego</a></td>
+<td>858-622-5800</td>
+</tr>
+<tr>
+<td>San Sebastian, Spain</td>
+<td><a href="http://www.osakidetza.euskadi.net/r85-ghhdon00/es/">Hospital Universitario Donostia</a></td>
+<td>+34 943007027</td>
+</tr>
+<tr>
+<td>Seattle, WA</td>
+<td><a href="http://depts.washington.edu/neurolog/divisions/movement-disorders.html">University of Washington / VA Puget Sound</a></td>
+<td>206-277-5087</td>
+</tr>
+<tr>
+<td>Sun City, AZ</td>
+<td><a href="http://www.bannerhealth.com/Research/Research+Institutes/Banner+Sun+Health+Research+Institute/_Banner+Sun+Health+Research+Institute+Home.htm#tabContent2">Banner Sun Health Research Institute</a></td>
+<td>623-832-5468</td>
+</tr>
+<tr>
+<td>Sunnyvale, CA</td>
+<td><a href="http://www.thepi.org/">The Parkinson’s Institute</a></td>
+<td>408-542-5664</td>
+</tr>
+<tr>
+<td>Sydney, Australia</td>
+<td><a href="http://mq.edu.au/">Macquarie University</a></td>
+<td>+61 298-123-720</td>
+</tr>
+<tr>
+<td>Tampa, FL</td>
+<td><a href="http://health.usf.edu/medicine/neurology/mvdisorders/index.htm">University of South Florida</a></td>
+<td>813-396-0768</td>
+</tr>
+<tr>
+<td>Tel Aviv, Israel</td>
+<td><a href="http://www.tasmc.org.il/sites/en/Pages/default.aspx">Tel Aviv Sourasky Medical Center</a></td>
+<td>+972 3-6973014</td>
+</tr>
+<tr>
+<td>Trondheim, Norway</td>
+<td><a href="http://www.ntnu.edu/">Norwegian University of Science and Technology</a></td>
+<td>+47 911 08 377</td>
+</tr>
+<tr>
+<td>Tuebingen, Germany</td>
+<td><a href="http://www.uni-tuebingen.de/en/university.html">University of Tuebingen</a></td>
+<td>+49 7071 2983272</td>
+</tr>
+</tbody>
+</table>
+</div>
