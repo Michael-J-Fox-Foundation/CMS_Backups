@@ -1,0 +1,31 @@
+<ul id="clinicalTrialsubMenu">
+<li><a href="/page.html?id=16">Participate in Research</a></li>
+<li><a href="/page.html?id=83">Trials 101</a></li>
+<li><a href="/page.html?id=84">Real Stories</a></li>
+<li class="active"><a href="/page.html?id=85">Find a Trial</a></li>
+</ul>
+<div style="clear: both;"></div>
+<div class="CTSTrialsImage"><a href="http://www.foxtrialfinder.org"><img src="/images/CTS-michael-participate.jpg" width="636" height="360" /></a></div>
+<h3 style="margin-top: 1em;" class="CTSTitle orange">Fox Trial Finder is an online clinical trial matching tool</h3>
+<p style="font-size: 17px;" class="CTSParagraph">created by The Michael J. Fox Foundation to make it easier for Parkinson's patients and their loved ones to partcipate in Parkinson's research. To date, more than 30,000 volunteers have signed up to be matched with more than 300 ongoing PD clinical trials worldwide.</p>
+<p style="font-size: 17px;" class="CTSParagraph"><a href="https://foxtrialfinder.michaeljfox.org/" class="orange" target="_blank">Creating a profile</a> on Fox Trial Finder is like registering to vote: It doesn't commit you to anything, but gives you the option to take action when you're ready. It's easy to get started, so what are you waiting for?</p>
+<h3 style="margin-top: 1em;" class="CTSTitle orange">Here's How It Works</h3>
+<div class="CTSStepsContainer">
+<div class="CTSSteps CTSProfile" style="min-height: 335px;">
+<h4 style="height: 70px;">1.<br />Create a Profile</h4>
+<p class="CTSLinkParagraph">Complete your profile with basic information, such as location and medical history. State-of-the-art security protocols protect your identity and contact information.</p>
+<div class="triangleTopright"></div>
+</div>
+<div class="CTSSteps CTSMatches" style="min-height: 335px;">
+<h4 style="height: 70px;">2.<br />Review Your Matches</h4>
+<p class="CTSLinkParagraph">You'll receive a customized list of trials in your area that need someone specifically like you. Fox Trial Finder will notify you whenever a new trial begins that could be a good match.</p>
+<div class="triangleTopright"></div>
+</div>
+<div class="CTSSteps CTSTeams" style="min-height: 335px;">
+<h4 style="height: 70px;">3.<br />Connect with Trial Teams</h4>
+<p class="CTSLinkParagraph">A built-in secure messaging system lets you connect anonymously with trial teams. Or, if you're ready to connect directly, every trial includes contact information for the study coordinator looking for volunteers like you.</p>
+<div class="triangleTopright"></div>
+</div>
+</div>
+<p style="clear: both;" class="clearit"> </p>
+<p><a href="https://foxtrialfinder.michaeljfox.org/" style="font-size: 2em;" class="orange CTSReadMore" target="_blank">Register Today</a></p>
