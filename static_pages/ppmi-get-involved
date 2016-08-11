@@ -1,0 +1,45 @@
+<style><!--
+.blogContainerClinicalTrials .titleLink{
+	height:74px;
+}
+--></style>
+<div class="ppmiMapContainer"> </div>
+<ul id="clinicalTrialsubMenu">
+<li class="active"><a href="/page.html?parkinsons-progression-markers-initiative-get-involved">Get Involved</a></li>
+<li><a href="/page.html?parkinsons-progression-markers-initiative-about">About PPMI</a></li>
+<li><a href="/page.html?parkinsons-progression-markers-initiative-progress">PPMI Progress</a></li>
+<li><a href="/page.html?parkinsons-progression-markers-initiative-news">In The News</a></li>
+</ul>
+<p> </p>
+<p style="float: left;"><img src="/images/logo-ppmi.jpg" style="float: left; margin-right: 20px; width: 170px; margin-bottom: 10px;" /></p>
+<p style="display: inline;" class="intro"><span style="font-size: 24px; font-family: 'BebasNeueRegular', Verdana, Arial, Helvetica, sans-serif; text-transform: uppercase; padding-bottom: 0;">The Parkinson’s Progression Markers Initiative (PPMI)</span><br /> is a landmark study launched in 2010 to find <a class="orange" title="Specific, measurable physical traits used to determine or indicate the effects or progress of a disease or condition. For example, high blood pressure is a biomarker of potential cardiovascular disease. No validated biomarker of Parkinson's disease currently exists.">biomarkers</a> — disease indicators that are critical missing links in the search for better Parkinson’s disease (PD) treatments.</p>
+<p style="margin-top: 1em;">At PPMI’s 33 clinical sites in 11 countries, nearly 800 participants — everyday patients and their loved ones — are contributing invaluable data and biosamples into the most robust Parkinson’s database and specimen bank ever created. These resources are paired with a simple online system allowing researchers to access study data and samples for complementary PD research in their own labs across the globe. Because PPMI is an <a class="orange" title="Observational clinical trials do not test drugs or treatments. Researchers observe participants by monitoring their health over a period of time. These studies provide researchers with data that advances our understanding of Parkinson’s and how to treat the disease.">observational study</a>, research volunteers do not take any experimental drug or placebo, but agree to contribute data and samples for up to five years. A $60-million study, PPMI is sponsored by The Michael J. Fox Foundation and funded by the Foundation in partnership with 16 biotech and pharmaceutical companies.</p>
+<div class="texturedOrangeContainer" style="border-bottom: none;">
+<div class="triangleTopright"></div>
+<h3 class="CTSTitle">PLAY A PART IN PPMI</h3>
+<p>The success of PPMI depends on finding more volunteers with and without Parkinson's disease.</p>
+<a href="/page.html?ppmi-genetics" class="mjffButtonSm">Take The Survey</a></div>
+<p></p>
+<h3 style="margin-top: 1em;" class="CTSTitle">Meet the patients, friends &amp; families making PPMI possible</h3>
+<div class="clearit" style="margin-bottom: 20em;"></div>
+<div class="blogContainerClinicalTrials">
+<div class="dynamicBlogPosts"></div>
+</div>
+<div style="clear: both;"></div>
+<div class="prev-next">
+<p class="prev-next-next single"><a href="/page.html?parkinsons-progression-markers-initiative-about" class="nextLink group"> <img src="/images/arrow-callout.gif" alt="next" width="20" height="24" /> <span class="nextLinkTxt" style="font-size: 18px;">About PPMI</span> </a></p>
+<div class="clearit"> </div>
+</div>
+<p>
+<script type="text/javascript">// <![CDATA[
+$('.dynamicBlogPosts').load('/blogapi.php?id=43&size=3');
+// ]]></script>
+</p>
+<p>
+<script type="text/javascript">// <![CDATA[
+$(document).ready(function(){
+$("#contentSizeVary").tooltip();
+$('.ppmiMapContainer').load('/page.html?id=104 #mapToolbarLoader');
+});
+// ]]></script>
+</p>
