@@ -1,0 +1,48 @@
+<h1>Participate in PPMI: Take the Smell Survey</h1>
+<p>The Parkinson’s Progression Markers Initiative (PPMI) aims to identify biomarkers of Parkinson’s disease (PD), even those that may be detected before the onset of motor symptoms. Identifying these early biomarkers, or risk factors, of PD could ultimately help doctors diagnose and treat the disease earlier.</p>
+<p><strong>Loss of sense of smell, for example, is a common but little noticed symptom that may occur years before the onset of motor symptoms or a PD diagnosis.</strong> While most people with reduced sense of smell will not develop PD, the majority of people with PD experience smell loss. Smell is being investigated in PPMI as a potential risk factor for Parkinson’s disease. <a href="#inline" class="fancybox orange bold">View a letter from Michael J. Fox</a> about the importance of this study.</p>
+<div class="texturedOrangeContainer" style="border-bottom: none;">
+<div class="triangleTopright"></div>
+<h3 class="CTSTitle">How you can participate:</h3>
+<p style="font-size: 20px;">Take our brief online survey about your sense of smell.</p>
+<a href="/get-involved/smellsurvey-screen.php/" style="margin-right: 15px;" class="mjffButtonSm" target="_blank">Take the Survey</a></div>
+<h3><em>Need more info?</em></h3>
+<p>Learn more about PPMI and the connection between smell loss and Parkinson's disease by calling (877) 525-PPMI or <a href="/files/MJFF-tri-fold-SMELL-final5.pdf" class="orange bold" target="_blank">downloading the smell brochure</a>.</p>
+<p class="h-divider"> </p>
+<h2>VIDEO: PPMI Investigator Matt Stern Talks with ABC News<br /> about the Link between Smell and PD</h2>
+<p style="text-align: center;"><video style="border: 2px solid #e0e0e0;" width="450" controls="controls"> <source src="/files/mjf_6abc_Stern.mp4" type="video/mp4" /> <source src="/files/mjf_6abc_Stern.ogg" type="video/ogg" /> Your browser does not support the video tag. </video></p>
+<div id="inline" style="text-align: left; padding: 20px; height: auto; font-size: 1.2em; display: none;"><img src="/files/michaelphoto.jpg" style="float: right; margin-left: 10px; margin-bottom: 10px;" width="180" />
+<p>Dear Friend,</p>
+<p>In the years since my diagnosis with Parkinson’s disease, I’ve come to value being part of the worldwide community of people living with or affected by a neurodegenerative disease — and I’ve developed a profound appreciation for the countless families and friends who support patients every day. One of our Foundation’s chief goals is to create platforms that give everyone who cares about PD — patients and their loved ones — the chance to get involved in research that could help speed a cure.</p>
+<p>A study called PPMI is going on now to search for Parkinson’s biomarkers — indicators that could help researchers diagnose Parkinson’s disease earlier, chart its progression and target drugs that could delay its symptoms. Studying the sense of smell in family members and friends of Parkinson’s patients could help us get closer to this goal.</p>
+<p>Now there’s an easy way to get involved in our smell study. If you do not have Parkinson’s, complete the smell survey at <a href="http://www.michaeljfox.org/takethesmellsurvey" class="bold">www.michaeljfox.org/takethesmellsurvey</a>. If you do have Parkinson’s, share this message with your friends and family members who may be eligible to participate. With this simple decision to take the survey or share it, you commit to help us speed scientific progress toward cures for diseases that touch countless lives.</p>
+<p>We’re all in this together. I hope you’ll consider joining our movement.</p>
+<p>All my best,</p>
+<img src="/files/mjf_signature.jpg" width="210" /></div>
+<script type="text/javascript">// <![CDATA[
+$(document).ready(function(){
+		$('#inline').hide();
+		$('.hiddenLetter').click(function(){
+			$('#inline').show();
+		});
+		$(".hiddenLetter").fancybox({
+			maxWidth	: 800,
+			maxHeight	: 600,
+			fitToView	: false,
+			width		: '70%',
+			height		: '70%',
+			autoSize	: false,
+			closeClick	: false,
+			openEffect	: 'none',
+			closeEffect	: 'none'
+		});
+
+		$("#ppmi_thankyou").validate({
+			rules: {
+				name: {required: true},
+				connection: {required: true},
+			},
+
+		});
+	});
+// ]]></script>
