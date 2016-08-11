@@ -1,0 +1,26 @@
+<ul id="clinicalTrialsubMenu">
+<li><a href="/page.html?id=16">Participate in Research</a></li>
+<li><a href="/page.html?id=83">Trials 101</a></li>
+<li class="active"><a href="/page.html?id=84">Real Stories</a></li>
+<li><a href="/page.html?id=85">Find a Trial</a></li>
+</ul>
+<div style="clear: both;"></div>
+<div class="blogBannerContainerClinicalTrials"></div>
+<!--<div id="CTSPromoContainer">
+<div class="CTSFeaturedImage"><img src="/images/CTS-featured1.jpg" width="636" height="360" /> <span>Featured Story</span></div>
+<p><strong>Podcast:</strong> As Fox Trial Finder Reaches 20,000 Volunteers, One Volunteer Shares Her Story<span style="float: right;"><a href="#" class="orange CTSReadMore">Read more</a></span></p>
+</div>-->
+<h3 style="margin-top: 1em;" class="CTSTitle orange">More Stories</h3>
+<div class="blogContainerClinicalTrials"></div>
+<div class="clearit"></div>
+<p style="margin-top: 1em;"><a href="/foundation/news.html?tagid=42" style="font-size: 1.6em;">See all stories</a> <a href="/foundation/news.html?tagid=42"><img src="/images/hp_images/rfi-homebar-arrow.gif" alt="" width="17" height="20" /></a></p>
+<div class="clearit"></div>
+<hr style="border-top: 1px solid #F77F00; border-bottom: 0; margin: 1em 0;" />
+<h3 class="CTSTitle orange">Submit Your Story</h3>
+<p>Have you participated in a PD clinical trial? We want to hear about it!<br /> Email your experience to <a href="mailto:support@foxtrialfinder.org?subject='Clinical Trial Participation Story'" class="orange">support@foxtrialfinder.org</a>.</p>
+<script type="text/javascript">// <![CDATA[
+$(document).ready(function(){
+$('.blogContainerClinicalTrials').load('/blogapi.php?id=42&size=3&skip=true');
+$('.blogBannerContainerClinicalTrials').load('/blogapi.php?id=42&size=1&banner=true');
+});
+// ]]></script>
