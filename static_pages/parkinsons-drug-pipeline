@@ -1,0 +1,16 @@
+<h1>Parkinson's Drug Pipeline</h1>
+<p><strong>The Michael J. Fox Foundation Mark on Therapeautic Development</strong><span style="font-size: 10px;"><br /></span></p>
+<p>The Michael J. Fox Foundation exists to speed development of a Parkinson's disease cure and new treatments to improve quality of life for patients until the cure is found. Below we outline some drugs in the pipeline that we’ve supported — what researchers hope they do and where they are in the testing process. Click on the drug/compound name for more information and to learn about the role MJFF has played in its journey toward pharmacy shelves.</p>
+<p>Click <a href="https://www.michaeljfox.org/page.html?Participate-in-Parkinsons-Research" style="color: orange;" target="_blank">here</a> for more information about participating in clinical trials.</p>
+<p><strong>Have questions? Consult our Clinical Pipeline FAQs.</strong></p>
+<style><!--
+iframe{
+width:100%;
+height:3000px;
+border:none;
+}
+#header {
+display:none !important;
+}
+--></style>
+<p><iframe src="/pd_pipeline/index.html"></iframe></p>
