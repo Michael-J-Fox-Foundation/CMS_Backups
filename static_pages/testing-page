@@ -1,0 +1,70 @@
+<div id="shareToolbar">
+<div class="shareElements"><a href="https://twitter.com/share" class=" " target="_blank"><img src="http://www.mapsofworld.com/images/world-countries-flags/france-flag.gif" style="width: 35px;" /></a> <a href="https://plus.google.com/share" class=" "><img src="http://upload.wikimedia.org/wikipedia/en/thumb/b/b9/Flag_of_Australia.svg/300px-Flag_of_Australia.svg.png" style="width: 35px;" /></a> <a href="#"><img src="http://www.mapsofworld.com/images/world-countries-flags/germany-flag.gif" style="width: 35px;" /></a> <a href="http://www.facebook.com/sharer.php" target="_blank"><img src="http://www.mapsofworld.com/images/world-countries-flags/italy-flag.gif" style="width: 35px;" /></a> <a href="https://twitter.com/share" class=" " target="_blank"><img src="http://www.mapsofworld.com/images/world-countries-flags/spain-flag.gif" style="width: 35px;" /></a> <a href="https://plus.google.com/share" class=" "><img src="http://www.mapsofworld.com/images/world-countries-flags/greece-flag.gif" style="width: 35px;" /></a> <a href="#"><img src="http://www.mapsofworld.com/images/world-countries-flags/israel-flag.jpg" style="width: 35px;" /></a> <a href="#"><img src="http://www.mapsofworld.com/images/world-countries-flags/united-kingdom-flag.gif" style="width: 35px;" /></a></div>
+</div>
+<style><!--
+#shareToolbar {
+	-webkit-box-shadow: #ccc 0px 5px 12px;
+	-moz-box-shadow: #ccc 0px 5px 12px;
+	box-shadow: #ccc 0px 5px 12px;
+	background: #fff;
+	/*transition: 0.2s;*/
+	height: 268px;
+	width: 43px;
+	margin-left: -73px;
+	position:absolute;
+	top:50px;
+}
+
+.shareElements {
+	display:inline-block;
+	color:#fff;
+}
+.shareElements img{
+	padding: 3px;
+}
+--></style>
+<style><!--
+p.PPMI{
+line-height: 1.5em;
+}
+--></style>
+<ul id="PPMIsubMenu">
+<li class="active"><a href="/page.html?parkinsons-progression-markers-initiative-get-involved">Get Involved</a></li>
+<li><a href="/page.html?parkinsons-progression-markers-initiative-about">About PPMI</a></li>
+<li><a href="/page.html?parkinsons-progression-markers-initiative-progress">PPMI Progress</a></li>
+<li><a href="/page.html?parkinsons-progression-markers-initiative-news">In The News</a></li>
+</ul>
+<p> </p>
+<p class="PPMI"><img src="/files/ppmi.png" style="float: left; margin: 0px 27px 10px 0px;" width="232" height="98" /> <b><span style="color: #fcaf17; text-transform: uppercase; font-size: 1.05em;">The Parkinson’s Progression Markers Initiative</span></b> <br />(PPMI) is a landmark study launched in 2010 to find biomarkers — disease indicators that are critical missing links in the search for better Parkinson’s disease treatments. At PPMI’s 32 clinical sites in 13 countries, nearly 800 participants —everyday patients and their loved ones — are contributing invaluable data and biosamples into the most robust Parkinson’s database and specimen bank ever created. These resources are paired with a simple online system allowing researchers to access study data and samples for complementary PD research in their own labs across the globe. Because PPMI is an observational study, research volunteers do not take any experimental drug or placebo, but agree to contribute data and samples for up to five years.</p>
+<p class="h-divider"> </p>
+<div class="texturedOrangeContainer">
+<div class="triangleTopright"></div>
+<h3 style="color: white;" class="CTSTitle">PLAY A PART IN PPMI</h3>
+<p class="PPMI">The success of PPMI depends on finding more volunteers with and without Parkinson's disease. Click your status to get started today.</p>
+<a href="/get-involved/genetics-survey-screen.php" style="margin-right: 15px;">I have PD</a> <a href="/get-involved/smellsurvey-screen.php">I don't have PD</a></div>
+<p></p>
+<p style="padding-top: 10px;" class="PPMI">A $60-million study, PPMI is sponsored by The Michael J. Fox Foundation and funded by the Foundation in partnership with 15 biotech and pharmaceutical companies.</p>
+<p style="margin-bottom: 10px;" class="h-divider"> </p>
+<p><strong><span style="color: #fcaf17; text-transform: uppercase; font-size: 1.2em;">Meet the Parkinson's patients, friends &amp; families making PPMI possible</span></strong></p>
+<div class="clearit" style="margin-bottom: 20em;"></div>
+<div class="blogContainerClinicalTrials">
+<div class="dynamicBlogPosts"></div>
+</div>
+<div style="clear: both;"></div>
+<!-- <p style="margin-top: 1em; color: #58595b;"><a href="/foundation/news.html?tagid=43" style="font-size: 1.6em;">See all stories</a> <a href="/admin/foundation/news.html?tagid=43"> <img src="/images/hp_images/rfi-homebar-arrow.gif" alt="" width="17" height="20" /> </a></p>
+ -->
+<div class="prev-next">
+<div class="texturedOrangeContainer">
+<h3 style="color: white; font-size: 1.3em; text-transform: uppercase;" class="CTSTitle">Have you already been tested?</h3>
+<p style="font-size: 20px;" class="PPMI">If you know you have a LRRK2 mutation:</p>
+<div><strong>Contact Us</strong> <img src="/files/PPMI_linkarrow.png" style="position: relative; top: 2px; left: 5px;" /></div>
+<div class="triangleTopright"></div>
+</div>
+<p class="prev-next-next single"><a href="http://page.html?parkinsons-progression-markers-initiative-about" class="nextLink group"> <img src="/images/arrow-callout.gif" alt="next" width="20" height="24" /> <span class="nextLinkTxt" style="font-size: 18px;">ABOUT PPMI</span> </a></p>
+<div class="clearit"> </div>
+</div>
+<p>
+<script type="text/javascript">// <![CDATA[
+$('.dynamicBlogPosts').load('/blogapi.php?id=43&size=3');
+// ]]></script>
+</p>
