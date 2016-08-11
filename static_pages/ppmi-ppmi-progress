@@ -1,0 +1,84 @@
+<p>
+<script src="https://www.google.com/jsapi" type="text/javascript"></script>
+<script type="text/javascript">// <![CDATA[
+google.load("feeds", "1");
+
+    function initialize() {
+      var feed = new google.feeds.Feed("http://www.ppmi-info.org/feed/");
+      feed.load(function(result) {
+        if (!result.error) {
+          var container = document.getElementById("centercol");
+          for (var i = 0; i < result.feed.entries.length; i++) {
+            var entry = result.feed.entries[i];
+            var div = document.createElement("div");
+            var h3 = document.createElement("h3");
+            var aTag = document.createElement("a");
+            var date = document.createElement("div");
+            h3.appendChild(document.createTextNode(entry.title));
+            var a = new Date(entry.publishedDate);
+            var pubDate = a.toLocaleDateString();
+            date.appendChild(document.createTextNode(pubDate));
+            $(date).addClass("date").css('font-size', '14px');
+            $(h3).addClass("title").css('padding-bottom', '0');
+            $(div).addClass("holder");
+            $(aTag).attr({href: entry.link, target: "_blank"});
+            aTag.appendChild(h3);
+            div.appendChild(aTag);
+            div.appendChild(date);
+            $(div).append("<br/>");
+            container.appendChild(div);
+          }
+        }
+      });
+    }
+    google.setOnLoadCallback(initialize);
+// ]]></script>
+</p>
+<div class="ppmiMapContainer"> </div>
+<ul id="clinicalTrialsubMenu">
+<li><a href="/page.html?parkinsons-progression-markers-initiative-get-involved">Get Involved</a></li>
+<li><a href="/page.html?parkinsons-progression-markers-initiative-about">About PPMI</a></li>
+<li class="active"><a href="/page.html?parkinsons-progression-markers-initiative-progress">PPMI Progress</a></li>
+<li><a href="/page.html?parkinsons-progression-markers-initiative-news">In The News</a></li>
+</ul>
+<p class="h-divider"> </p>
+<h3 style="margin-bottom: 10px;" class="CTSTitle">PPMI Progress: 2010 to Today</h3>
+<h3><strong>First-Ever Large-Scale Study Exclusively Focused on Developing Parkinson's Disease Biomarkers</strong></h3>
+<p style="margin-bottom: 0px;">Following the creation of public-private partnerships for biomarker verification in other diseases, notably Alzheimer's ADNI (Alzheimer's Disease Neuroimaging Initiative) study, MJFF in 2007 began formal discussions in the research community about the need for and feasibility of a large-scale biomarkers study. The study was originally conceived to enroll 400 newly diagnosed people with Parkinson's disease and 200 volunteers without PD (to serve as the <a class="orange bold" title="in an experiment or clinical trial, a group of subjects serving as a comparison group when observations and/or treatment results are evaluated.">control group</a>). In 2009 MJFF spearheaded the creation of a steering committee to design the operations, systems and infrastructure needed to establish and execute the Parkinson's Progression Markers Initiative.</p>
+<p>The study launched in 2010 with 18 clinical sites across the United States and Europe, each led by principal investigators and their study teams, to welcome volunteers to enroll in the study. The first PPMI participant was enrolled in June 2010 and six additional sites were added throughout 2011. An additional eight sites were added in 2013. To learn more about the PPMI infrastructure, visit <a href="http://www.ppmi-info.org/about-ppmi/" class="orange bold" target="_blank">www.ppmi-info.org/about-ppmi/</a>.</p>
+<h3><strong>Researchers Access PPMI Data and Specimens</strong></h3>
+<p>To achieve PPMI's goal to identify one or more biomarkers of Parkinson's disease, the study's primary purpose is to develop a large and comprehensive set of correlated clinical data and <a>biospecimens</a>. All data and samples collected through PPMI are de-identified and made available in real time to qualified researchers for complementary investigations in their own labs. To date, PPMI data has been downloaded more than 140,000 times by qualified researchers around the world.</p>
+<h3><strong>Leveraging a Successful Model</strong></h3>
+<p>Since PPMI's launch in 2010, hundreds of participants have been enrolled and researchers are already publishing findings from the study's comprehensive data set. Recognizing the success of PPMI's robust infrastructure to support recruitment, enrollment and day-to-day operations of the study's original goals, PPMI study leadership has determined additional ways to leverage the unprecedented infrastructure of the study.</p>
+<p>Over 2013 to 2014, PPMI expanded to study new populations of people with and without Parkinson's disease:</p>
+<h4 style="margin-left: 30px;">PEOPLE WITH PARKINSON'S:</h4>
+<ul style="margin-left: 40px;">
+<li>Parkinson's patients who have a mutation in the Parkinson's-implicated LRRK2 gene</li>
+<li>Parkinson's patients who have a mutation in the Parkinson's-implicated SNCA gene</li>
+<li>Parkinson's patients who have a mutation in the Parkinson’s-implicated GBA gene</li>
+</ul>
+<h4 style="margin-left: 30px;">PEOPLE WITHOUT PARKINSON'S:</h4>
+<ul style="margin-left: 40px;">
+<li>People over 60 who have reduced sense of smell</li>
+<li>People over 60 who have REM sleep behavior disorder</li>
+<li>People over 50 who have a mutation in the Parkinson's-implicated LRRK2 gene</li>
+<li>People over 30 who have a mutation in the Parkinson's-implicated SNCA gene</li>
+<li>People over 50 who have a mutation in the Parkinson's-implicated GBA gene</li>
+</ul>
+<p>As new opportunities arise, additional populations could inevitably be incorporated into the study to further deepen our understanding of PD and move the field forward.</p>
+<p style="margin: 10px 0px;" class="h-divider"> </p>
+<h2>PPMI Results: Publications and Presentations</h2>
+<p>Read more about the scientific findings coming out of PPMI.</p>
+<div id="centercol" class="grid_9"></div>
+<div class="prev-next">
+<p class="prev-next-next single"><a href="/page.html?parkinsons-progression-markers-initiative-news" class="nextLink group"> <img src="/images/arrow-callout.gif" alt="next" width="20" height="24" /> <span class="nextLinkTxt" style="font-size: 18px;">PPMI In The News</span> </a></p>
+<div class="clearit"> </div>
+</div>
+<p>
+<script type="text/javascript">// <![CDATA[
+$(document).ready(function(){
+$("#contentSizeVary").tooltip();
+$('.ppmiMapContainer').load('/page.html?id=104 #mapToolbarLoader');
+});
+// ]]></script>
+</p>
