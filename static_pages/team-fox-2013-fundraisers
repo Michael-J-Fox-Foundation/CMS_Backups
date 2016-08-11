@@ -1,0 +1,26 @@
+<style><!--
+#topFund
+ {
+ 	width: 190 px;
+ 	padding: 23px 20px 5px 20px;
+ 	border: 5 px solid #ededed;
+ 	margin: 0 0 9px 0;
+ }
+--></style>
+<div class="jquery-container">
+<div class="callout-r-box">
+<div id="topFund">
+<h2 class="gray6">Top <span class="orange">2013 Fundraisers</span></h2>
+<p class="pad5b"><strong><strong></strong><a href="http://www2.michaeljfox.org/site/TR/TeamFox/TeamFox?px=1538435&amp;pg=personal&amp;fr_id=1300" target="_blank">Danville D'Elegance</a><br /></strong>$302,800.00</p>
+<p class="pad5b"><a href="http://www2.michaeljfox.org/site/TR/TeamFox/TeamFox?fr_id=1320&amp;pg=entry" target="_blank"><strong>The New England Parkinson's Ride</strong></a> <br /> $279,710.00</p>
+<p class="pad5b"><a href="http://www2.michaeljfox.org/site/TR?fr_id=1330&amp;pg=entry" target="_blank"><b>Tips for Parkinson's</b></a> <br /> $271,763.06</p>
+<p class="pad5b"><a href="http://www2.michaeljfox.org/site/TR/TeamFox/TeamFox?px=1057835&amp;pg=personal&amp;fr_id=1300" target="_blank"><strong>James Little</strong></a> <br /> $240,010.00</p>
+<p class="pad5b"><a href="http://www2.michaeljfox.org/site/TR/TeamFox/TeamFox?px=1020452&amp;pg=personal&amp;fr_id=1300" target="_blank"><b>Racing for a Cure - Sonny Whelen</b></a><br />$171,987.00</p>
+<p class="pad5b"><b><a href="http://www2.michaeljfox.org/site/TR/TeamFox/TeamFox;jsessionid=68AAF3CA8626C215A91100B89DCED376.app357d?px=1003406&amp;pg=personal&amp;fr_id=1300" target="_blank">Wendy Tigner </a><br /></b>$162,842.00</p>
+<p class="pad5b"><a href="http://www2.michaeljfox.org/site/TR/TeamFox/TeamFox?px=1016228&amp;pg=personal&amp;fr_id=1300" target="_blank"><strong>Nicole Jarvis</strong></a> <br />$161,342.15</p>
+<p class="pad5b"><a href="http://www2.michaeljfox.org/site/TR/TeamFox/TeamFox?px=1001452&amp;pg=personal&amp;fr_id=1300" target="_blank"><b>Karen Jaffe</b></a><br /> $153,685.35</p>
+<p class="pad5b"><a href="http://www2.michaeljfox.org/site/TR/TeamFox/TeamFox?px=1001474&amp;pg=personal&amp;fr_id=1300" target="_blank"><b>Pat and Carol Hagan</b></a> <br /> $111,210.00</p>
+<p class="pad5b"><b><a href="http://www2.michaeljfox.org/site/TR?fr_id=1340&amp;pg=entry" target="_blank"><b>Delaware Pancakes for Parkinson's</b></a> <br /></b>$109,169.88</p>
+</div>
+</div>
+</div>
