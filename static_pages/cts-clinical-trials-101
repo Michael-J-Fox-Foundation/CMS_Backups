@@ -1,0 +1,86 @@
+<ul id="clinicalTrialsubMenu">
+<li><a href="/page.html?id=16">Participate in Research</a></li>
+<li class="active"><a href="/page.html?id=83">Trials 101</a></li>
+<li><a href="/page.html?id=84">Real Stories</a></li>
+<li><a href="/page.html?id=85">Find a Trial</a></li>
+</ul>
+<div class="clearit" style="margin-bottom: 20em;"></div>
+<!--<div id="CTSPromoContainer">
+<a href="/admin/">
+	<img src="/images/CTS-trials-infographic.jpg" alt="what are clinical trials?" width="636" height="360" />
+</a>
+<p>
+	Lorem ipsum placeholder text. Read breaking news about PD clinical trials as reported by MJFF's FoxFeed Blog.
+</p>
+</div>
+<hr style="border-top: 1px solid #F77F00; border-bottom: 0;" />
+-->
+<h3 style="display: inline;" class="CTSTitle orange">Clinical trials are a final and crucial step</h3>
+<p style="display: inline;" class="CTSParagraph">on the path to developing better treatments for Parkinson’s patients today. Unfortunately, <strong>85% of trials face delays and 30% never even get off the ground</strong> because of a lack of volunteers, resulting in a dramatic slowdown in progress toward a cure. The good news is, <strong>you have the power to propel clinical research</strong> toward breakthroughs patients can feel in their everyday lives.</p>
+<p></p>
+<p style="margin-top: 1em;" class="CTSParagraph">To learn more about clinical trials and how you can get involved, read through our FAQs and <a href="#quizLink" class="orange bold">take our quiz</a> below!</p>
+<div class="info-bar orange" style="margin-top: 2em;">
+<h3 id="clinical_trial_" class="info-bar-l"><span class="faqCatChild">Frequently Asked Questions</span> <a name="clinicaltrialparticipation" href="javascript:void(0);"></a></h3>
+<div class="clearit"></div>
+</div>
+<div id="info-hdr2-12" class="info-hdr" onclick="toggleInfo('2-12');">
+<p class="info-hdr-l"><img src="/images/icon-open-info.gif" alt="" width="18" height="18" /></p>
+<p style="width: 560px;" class="info-hdr-r bold">What is a clinical trial?</p>
+<div class="clearit"></div>
+</div>
+<div id="info-info2-12" class="info-info" style="display: none;">
+<p>Clinical trials (also referred to as clinical studies or more broadly as clinical research) are research studies involving human volunteers. The U.S. FDA, and its corollary agencies abroad, requires that a potential therapy be tested extensively in a large group of human volunteers before it can receive approval to be manufactured and made available to patients.</p>
+<p>All trials and studies on <a href="http://www.foxtrialfinder.org/">Fox Trial Finder</a> relate to Parkinson’s disease. These trials assess the safety and effectiveness of new ways to diagnose, prevent, or treat PD; they also provide insight about the disease process, and how it might be treated. Clinical trials are a vital part of the scientific research process and are essential to developing better treatments for people with Parkinson’s.</p>
+</div>
+<div id="info-hdr2-6" class="info-hdr" onclick="toggleInfo('2-6');">
+<p class="info-hdr-l"><img src="/images/icon-open-info.gif" alt="" width="18" height="18" /></p>
+<p style="width: 560px;" class="info-hdr-r bold">Why are clinical trials essential to the drug development process?</p>
+<div class="clearit"></div>
+</div>
+<div id="info-info2-6" class="info-info" style="display: hidden;">
+<p>The process of developing new drugs is long, expensive and arduous. Unfortunately, a drug is more likely to fail than to succeed at any given stage. The “graduation” of a potential Parkinson’s drug to clinical testing is in itself cause for cautious celebration. This is because clinical testing is initiated only after therapies have already beaten the odds multiple times by moving successfully through years (and millions of dollars of investment) of chemical and biological studies, first in test tubes and Petri dishes, later in pre-clinical models.</p>
+<p>The U.S. FDA, and its corollary agencies abroad, requires that a potential therapy’s safety and efficacy be tested extensively in a large group of human volunteers before it can receive approval to be manufactured and made available to patients. Yet clinical testing can — and often does — fail because not enough people volunteer. Without sufficient numbers of trial participants, the drug development process stalls and a trial must be repeated, scaled back or, even worse, the potential new therapy is abandoned. This lengthens the time it takes for new treatments to come to market. No amount of funding or other resources can compensate for the lack of clinical research volunteers. That’s why volunteers can play a truly unique role at this pivotal stage of drug development, which is crucial for new treatments to reach pharmacy shelves.</p>
+</div>
+<div id="info-hdr2-3" class="info-hdr" onclick="toggleInfo('2-3');">
+<p class="info-hdr-l"><img src="/images/icon-open-info.gif" alt="" width="18" height="18" /></p>
+<p style="width: 560px;" class="info-hdr-r bold">Why is it so important that more people volunteer for trials?</p>
+<div class="clearit"></div>
+</div>
+<div id="info-info2-3" class="info-info" style="display: hidden;">
+<p>Clinical trials and studies play a critical role in the development of new and better therapies. Yet under-enrollment in trials is one of the greatest challenges clinical researchers face. Under-enrollment in trials slows research progress and deters potential funders from investing in research — and we all pay the price in terms of higher costs and longer time horizons to get to therapeutic breakthroughs. Across all diseases, 85 percent of clinical trials finish late due to difficulties enrolling participants and nearly one-third of trials fail to recruit a single subject and cannot ever begin. According to a 2011 ORC Poll commissioned by The Michael J. Fox Foundation, only one in 10 people with Parkinson's participates in trials.</p>
+<p>In spite of this low participation rate, we know that the Parkinson’s community has a significant interest in stepping up to participate in research. The same Harris Poll found that over 85% of PD patients are at least somewhat interested in participating in a trial. Patients site not knowing about specific trial opportunities in their area that need someone like them as the greatest barrier to trial participation.</p>
+<p><a href="http://www.foxtrialfinder.org">Fox Trial Finder</a> is one solution to help patients and their loved ones act on the intention to get involved in research by making it easier to find trials that are right for them— and letting volunteers know when new trials start that could be a good match.</p>
+</div>
+<div id="info-hdr2-10" class="info-hdr" onclick="toggleInfo('2-10');">
+<p class="info-hdr-l"><img src="/images/icon-open-info.gif" alt="" width="18" height="18" /></p>
+<p style="width: 560px;" class="info-hdr-r bold">How are volunteer rights and my safety protected in a trial?</p>
+<div class="clearit"></div>
+</div>
+<div id="info-info2-10" class="info-info" style="display: hidden;">
+<p>Every trial follows an extensive and carefully monitored protocol subject to federal regulations, many of which focus on the safety of the participants in a trial. The protocol is a detailed plan that describes the study process. In addition to the protocol, each study has a consent form (also sometimes referred to as informed consent or consent to participate) that volunteers must read and sign before joining the study. The consent form will explain rights and responsibilities of a volunteer and what to expect during the study. Study protocols and consent forms must be reviewed and approved by a regulatory body before any volunteers can be approached about or recruited into a study to ensure that the study is safe, ethical and appropriate.</p>
+<p>Trial team members will discuss the consent form and any aspects of the protocol in detail during a trial screening visit. Volunteers can also request a copy of the consent form to review it in advance of this in-person visit.</p>
+</div>
+<div class="clearit"></div>
+<p style="margin-top: 1em;"><a href="/foundation/faq.html#clinical_trial" style="font-size: 1.6em;">See all FAQs</a> <a href="/foundation/faq.html#clinical_trial"> <img src="/images/hp_images/rfi-homebar-arrow.gif" alt="" width="17" height="20" /> </a></p>
+<hr style="border-top: 1px solid #F77F00; border-bottom: 0;" />
+<div id="quizLink" class="clearit"></div>
+<h3 style="margin-top: 1em;" class="CTSTitle orange">Take our quiz to test your clinical trials IQ!</h3>
+<div class="quizLinkContainer"><a href="/page.html?id=70"> <img src="/images/CTS-quiz-link.png" alt="Take the Quiz" class="ctsInfographicImage" width="616" height="270" /> </a></div>
+<hr style="border-top: 1px solid #F77F00; border-bottom: 0;" />
+<h3 style="margin-top: 1em;" class="CTSTitle orange">Clinical Trials in the News</h3>
+<div class="blogContainerClinicalTrials"></div>
+<style><!--
+.ctsInfographicImage {
+border:10px solid #ccc;
+}
+.ctsInfographicImage:hover {
+border:10px solid #F77F00;
+}
+--></style>
+<h3 style="margin-top: 1em;" class="CTSTitle orange">
+<script type="text/javascript">// <![CDATA[
+$(document).ready(function(){
+$('.blogContainerClinicalTrials').load('/blogapi.php?id=347&size=3');
+});
+// ]]></script>
+</h3>
