@@ -1,0 +1,41 @@
+<div class="seriesContainer landing">
+<p class="text-center"><img src="/files/Holiday_Party_TF_Gradient.jpg" alt="logo" width="700" height="252" /></p>
+<p style="text-align: center;">'Tis the season of giving! Looking to spread some Team Fox cheer in support of <br /> The Michael J. Fox Foundation? Here are five easy ways to get started:</p>
+<p class="pad20t center"><a href="http://www2.michaeljfox.org/site/TR/Athletic/General?sid=1280&amp;type=fr_informational&amp;pg=informational&amp;fr_id=1890" style="margin-bottom: 20px;" class="mjffButton">Get Started</a></p>
+<br /> <a href="/page.html?id=91" style="color: orange;" class="info" onclick="ga('send', 'event', 'Internal','WinterPage', 'HolidayParty')"> <img src="/files/Party2.jpg" alt="Holiday Party" style="float: left; margin-right: 10px; border: 10px solid #f1f1f1; box-shadow: 1px 1px 1px #666;" width="100" height="100" /> </a>
+<h2>Host a Holiday Party</h2>
+<p style="font-size: .9em;">Decorate some cookies, deck the halls and gather your friends and neighbors for a festive celebration in support of Team Fox!</p>
+<p><a href="/page.html?id=91" style="color: orange;" class="info" onclick="ga('send', 'event', 'Internal','WinterPage', 'HolidayParty')">Learn How</a></p>
+<br />
+<div class="clear"></div>
+<a href="/page.html?id=89" style="color: orange;" class="info" onclick="ga('send', 'event', 'Internal','WinterPage', 'FestiveFundraiser')"> <img src="/files/Gift2.jpg" alt="Festive Fundraiser" style="float: left; margin-right: 10px; border: 10px solid #f1f1f1; box-shadow: 1px 1px 1px #666;" width="100" height="100" /> </a>
+<h2>Organize a Festive Fundraiser</h2>
+<p style="font-size: .9em;">From potluck suppers to an afternoon of ice skating, it’s never been easier to transform your favorite holiday tradition or event into a Team Fox fundraiser! Learn how.</p>
+<p><a href="/page.html?id=89" style="color: orange;" class="info" onclick="ga('send', 'event', 'Internal','WinterPage', 'FestiveFundraiser')">Learn How</a></p>
+<br />
+<div class="clear"></div>
+<a href="/files/MJFF_Holiday_Card_Insert_2015.pdf" style="color: orange;" class="info" onclick="ga('send', 'event', 'Internal','WinterPage', 'CardInsert')"> <img src="/files/CardInsert.jpg" alt="Card Insert" style="float: left; margin-right: 10px; border: 10px solid #f1f1f1; box-shadow: 1px 1px 1px #666;" width="100" height="100" /> </a>
+<h2>Include a Holiday Card Insert</h2>
+<p style="font-size: .9em;">Remind family and friends to support your Team Fox fundraising efforts by including our sample insert with your annual holiday card mailing!</p>
+<p><a download="MJFF_Holiday_Card_Insert" href="/files/MJFF_Holiday_Card_Insert_2015.pdf" style="color: orange;" class="info" onclick="ga('send', 'event', 'Internal','WinterPage', 'CardInsert')"> <span>Download the Insert</span> </a></p>
+<br />
+<div class="clear"></div>
+<a href="http://shop.michaeljfox.org/SearchResults.asp?Search=holiday&amp;Submit" style="color: orange;" class="info" onclick="ga('send', 'event', 'Internal','WinterPage', 'ShopFox')"> <img src="/files/hat%20copy.jpg" alt="ShopFox" style="float: left; margin-right: 10px; border: 10px solid #f1f1f1; box-shadow: 1px 1px 1px #666;" width="100" height="100" /> </a>
+<h2>Shop Fox this Holiday Season</h2>
+<p style="font-size: .9em;">From fleece caps and Nike dri-fit shirts to foxy cookie cutters and Team Fox onesies, Shop Fox this holiday season to find the perfect gift for everyone on your list!</p>
+<p><a href="http://shop.michaeljfox.org/SearchResults.asp?Search=holiday&amp;Submit" style="color: orange;" class="info" onclick="ga('send', 'event', 'Internal','WinterPage', 'ShopFox')"> <span>Shop Now</span> </a></p>
+<br />
+<div class="clear"></div>
+<a href="https://www.michaeljfox.org/get-involved/core-athletics.html" style="color: orange;" class="info"> <img src="/files/tf-runner.jpg" alt="Run" style="float: left; margin-right: 10px; border: 10px solid #f1f1f1; box-shadow: 1px 1px 1px #666;" width="100" height="100" /> </a>
+<h2>Find a Local Race in Your Community</h2>
+<p style="font-size: .9em;">Gather a team of friends or family to participate in a local Turkey Trot or Jingle Bell Jog! Ask for donations per mile logged while helping raise funds and awareness for Parkinson's research. (Looking for a larger commitment? Team Fox is now accepting applications for to fill our <a href="https://www.michaeljfox.org/get-involved/core-athletics.html" style="color: orange;"> 2016 race calendar!</a>)</p>
+<br />
+<div class="clear"></div>
+<p class="pad20t center"><a href="http://www2.michaeljfox.org/site/TR/Athletic/General?sid=1280&amp;type=fr_informational&amp;pg=informational&amp;fr_id=1890" style="margin-bottom: 20px;" class="mjffButton">Get Started</a></p>
+<br />
+<p style="text-align: center;"><strong>Looking for some additional ideas? Check out</strong> <a href="https://www.michaeljfox.org/page.html?id=89" style="color: orange;">our list of 20+ holiday event suggestions</a> !</p>
+<div class="WordSection1">
+<p style="text-align: center;">Feeling inspired? Visit <a href="http://www.teamfox.org/" style="color: orange;">http://www.teamfox.org</a> to register your event, create an online fundraising page and get started today. As a Team Fox member, you’ll gain access to a handbook full of tips and tricks, a personalized fundraising page to collect donations and share word of your event and support from hundreds of other Team Fox members, just like you, across the country.</p>
+<p style="text-align: center;">Have a question? Need some advice? Our team is here to help!<br />Email <a href="mailto:teamfox@michaeljfox.org" style="color: orange;">teamfox@michaeljfox.org</a> for more info.</p>
+</div>
+</div>
