@@ -1,0 +1,41 @@
+<p>&lt;? $mobilePageAvailable = true; require_once("public.php"); # Read serialized data from the 'page' table corresponding to this URL $cms = new CMML_ContentPages("page"); $data = $cms-&gt;loadData(); $page = array(); $page["title"] = "Clinicians"; $page["section"] = "Understanding PD"; $page['nav'] = 'about'; $page['flat_data'] = $data; $taxonomy_ids = getTaxonomyIds("page"); page_top($page); ?&gt;</p>
+<style><!--
+.PPMIblogContainer .titleLink{
+	height:74px;
+}
+.PPMIblogContainer{
+	margin: 20px 0;
+	display: inline-block;
+}
+.border{
+	border: 2px solid #ededed;
+}
+#clinicalTrialsubMenu{
+display: inline-block !important;
+}
+.introPara {
+	font-size: 1em;
+}
+.webinarLink{
+	font-size: 1em;
+	color:#f77f00;
+}
+--></style>
+<div id="contentSizeVary" class="content-l">
+<h1>Parkinson's Resources for doctors <br /> and allied healthcare professionals</h1>
+<p class="introPara">Stay up to date on Parkinson's research and programs that impact you and your patients.</p>
+<div class="ppmi-blog-jquery"></div>
+<script type="text/javascript">// <![CDATA[
+$(document).ready(function(){
+$('.ppmi-blog-jquery').load('/blog-api-feed.php?id=33');
+$('.ppmiMapContainer').load('/page.html?id=33 #mapToolbarLoader');
+});
+// ]]></script>
+<div class="greyBoxwebinar m20" style="margin-top: 0px;">
+<h3><span class="bold">Next Webinar</span> <br /><span>Treating the Brain: New Approaches to Deep Brain Stimulation and Beyond</span></h3>
+<p class="sm gray6">Thursday, March 19 @ 12 p.m. ET / 9 a.m. PT</p>
+<p>Deep brain stimulation and other neuromodulation techniques can be transformative for some patients but have limitations. Researchers will discuss studies to improve available therapies and expand their reach or to offer new approaches.</p>
+<a href="http://w.on24.com/r.htm?e=941691&amp;s=1&amp;k=2C2ECF447C065E6D59C1FF372C8053BC" class="mjffButtonSm" target="_blank">Register Now</a></div>
+<p class="introPara"><a href="https://www.michaeljfox.org/page.html?hot-topics-webinar-series" style="color: #f77f00;">View previous 2015 webinars for CME credit</a></p>
+</div>
+<p>&lt;? page_bottom(); ?&gt;</p>
