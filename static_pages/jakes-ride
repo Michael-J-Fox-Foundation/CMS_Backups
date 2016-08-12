@@ -1,0 +1,27 @@
+<div class="jakes-ride-images" style="margin-top: 30px; margin-bottom: 50px;"><img src="https://www.michaeljfox.org/files/Jakes_ride_mjff.jpg" style="display: block; margin-left: auto; margin-right: auto;" /></div>
+<p></p>
+<div class="jakes-ride-text" style="margin-bottom: 15px;">
+<p style="text-align: center;"><strong>May 1, 2016<strong></strong></strong></p>
+<p style="text-align: center;"><strong>Hartshorn Elementary School<br />400 Hartshorn Drive<br />Short Hills, NJ 07078</strong></p>
+<p style="text-align: center;"><strong>8:30am – 11:00am<br />Check-in starts at 7:30am</strong></p>
+<p style="text-align: center;"><strong>Walk 1 mile or ride 1, 5, 10, or 20 miles.</strong></p>
+<p style="text-align: center;"><a href="http://jakesride.org/wp-content/uploads/2015/12/Jakes-Ride-Final-Map.pdf" class="orange" target="_blank">Click here to download the Jake's Ride Course Map</a></p>
+<p style="text-align: center;"><a href="https://www.google.com/maps/place/Hartshorn+Elementary+School/@40.7332019,-74.343667,17z/data=!3m1!4b1!4m2!3m1!1s0x89c3aef162f76949:0x94e9452ce0afd78b" class="orange" target="_blank">(click for map &amp; directions)</a></p>
+<p style="text-align: center;">Every year Jake’s Ride brings together more than 1,000 people from in and around the Millburn-Short Hills, New Jersey community to support dystonia and Parkinson’s research. The Ride is a family-oriented fundraiser with several courses of varying degrees of challenge traveling through the township. A one-mile walking path is also offered. The day begins early for volunteers, sponsors and participants. Adding to the day’s enjoyment is live music, food and beverages, plus fun activities for our youngest participants.</p>
+<p style="text-align: center;">The success of Jake’s Ride is possible due to the generosity of volunteers, sponsors and participants. The outpouring of support received brings better treatments and a cure for movement disorders one step closer for Jake and his fellow warriors!</p>
+<img src="https://www.michaeljfox.org/files/Jakes_ride_mjff2.jpg" style="display: block; margin-left: auto; margin-right: auto; margin-top: 15px; margin-bottom: 15px;" />
+<p style="text-align: center;"><strong>Child Registration</strong> – $20</p>
+<p style="text-align: center;"><strong>Minimum Fundraising to receive a child t-shirt</strong> – $50</p>
+<p style="text-align: center;"><strong>Adult Registration</strong> – $35</p>
+<p style="text-align: center;"><strong>Minimum Fundraising to receive an adult t-shirt</strong> – $150</p>
+<p style="text-align: center;"><strong>All donation and registration fees are tax-deductable.</strong></p>
+<p style="text-align: center;"><em>Please visit our fundraising page to get different ideas on how to reach and exceed your minimum fundraising goal.</em></p>
+</div>
+<p style="text-align: center;"><a href="https://fundraise.michaeljfox.org/jakesride/Account/Register" class="mjffButton blogSubmitButton">Register Now </a></p>
+<script type="text/javascript">// <![CDATA[
+$(document).ready(function() {
+		$('div.content-l').switchClass('content-l', 'content-full')
+$('.jakes-ride-images ul li').css('background-image', 'none');
+$('.jakes-ride-images ul').css('display', 'inline-flex');
+	})
+// ]]></script>
