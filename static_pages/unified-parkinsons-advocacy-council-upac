@@ -1,0 +1,42 @@
+<style><!--
+.upacLogo{
+	width: 200px; 
+	padding: 15px;
+	vertical-align: top;
+}
+.upacLogoVert{
+	width: 170px; 
+	padding: 15px;
+	vertical-align: top;
+}
+--></style>
+<h1>Unified Parkinson's Advocacy Council</h1>
+<p>The Michael J. Fox Foundation works with other Parkinson’s disease groups to advance policies that benefit patients, families and caregivers through the Unified Parkinson’s Advocacy Council (UPAC).</p>
+<p>The UPAC comprises representatives from state, regional and national PD organizations to gather field-wide input on priorities and policy matters.</p>
+<p>UPAC members include:</p>
+<table>
+<tbody>
+<tr>
+<td><img src="/files/American-Parkinson's-Disease-Association.jpg" class="upacLogoVert" /></td>
+<td><img src="/files/Brian_grant_Foundation.PNG" class="upacLogo" /></td>
+<td><img src="/files/Dallas_Area_Parkinsonism_Foundation.jpg" class="upacLogo" /></td>
+<td><img src="/files/Davis_Phinney_Foundation.jpg" class="upacLogo" /></td>
+</tr>
+<tr>
+<td><img src="/files/Houston-Area-Parkinson-Society-2.jpg" class="upacLogoVert" /></td>
+<td><img src="/files/Northwest_Parkinson's_Foundation.png" class="upacLogo" /></td>
+<td><img src="/files/ParkinsonAssociationAlabama.jpg" class="upacLogo" /></td>
+<td><img src="/files/Parkinsons_association_of_the_rockies.JPG" class="upacLogo" /></td>
+</tr>
+<tr>
+<td><img src="/files/Parkinson's_resources_of_Oregon.PNG" class="upacLogoVert" /></td>
+<td><img src="/files/Parkinson's_unity_walk.PNG" class="upacLogoVert" /></td>
+<td><img src="/files/Power_for_Parkinson's.PNG" class="upacLogo" /></td>
+<td><img src="/files/Wilkins_Parkinson's_Foundation.png" class="upacLogo" /></td>
+</tr>
+<tr>
+<td><img src="/files/Wisconsin_Parkinson_Association.JPG" class="upacLogoVert" /></td>
+<td><img src="/files/National-Parkinson-Foundation.jpg" class="upacLogo" /></td>
+</tr>
+</tbody>
+</table>
