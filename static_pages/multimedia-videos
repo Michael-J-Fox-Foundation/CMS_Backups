@@ -1,0 +1,121 @@
+<style><!--
+ul.videoList li {
+    font-size: .9em;
+    vertical-align: top;
+    background: url('/files/orange-play.png') top left no-repeat;
+    background-size: 20px;
+    padding: 0 0 15px 25px;
+    width: 46%;
+    float: left;
+    margin-bottom: 6px;
+}
+#multimediaSubMenu {
+  margin:1em 0;
+}
+
+#multimediaSubMenu li {
+  font-family: 'BebasNeueRegular',Verdana, Arial, Helvetica, sans-serif;
+  font-size: 22px;
+    background: #4C6876;
+    position: relative;
+    height: 40px;
+    width: 300px;
+    float: left;
+    color:white;
+    text-transform:uppercase;
+    text-align:center;
+    line-height:40px;
+    padding:0;
+    box-shadow: inset 0 0px 10px 1px rgba(0,0,0,.25);
+    -moz-box-shadow: inset 0 0px 10px 1px rgba(0,0,0,.25);
+    -webkit-box-shadow: inset 0 0px 10px 1px rgba(0,0,0,.25);
+    -webkit-font-smoothing: antialiased;
+    margin-right: 2px;
+}
+#multimediaSubMenu a {
+  display:block;
+  width:100%;
+  height:100%;
+  color:white;
+  text-decoration:none;
+}
+#multimediaSubMenu a:hover {
+  background:#E77B2B url(../images/CTS-navHover.png) !important;
+  }
+#multimediaSubMenu li.active a:hover {
+  border-bottom: none;
+}
+#multimediaSubMenu li.active {
+  background:#E77B2B url(../images/CTS-navHover.png) !important;
+}
+#subnav {
+    position: relative;
+    top: 14px;
+    margin-bottom: 100px;
+    left: 150px;
+}
+.ko{
+    padding: 0px 22px 0px 22px;
+}
+--></style>
+<div id="subnav">
+<ul id="multimediaSubMenu">
+<li class="active"><a href="/page.html?id=118">Videos</a></li>
+<li><a href="/page.html?id=116">Infographics</a></li>
+</ul>
+</div>
+<h1>Videos</h1>
+<h3 style="margin-top: -12px; margin-bottom: 10px;">Watch and share these videos exploring life with Parkinson's disease, MJFF's unique approach to speeding a cure and how the Parkinson's community is fueling research efforts. To view more videos, visit our <a href="https://youtube.com/michaeljfox" class="orange">YouTube channel</a> .</h3>
+<div style="display: inline-block; background-color: whitesmoke; width: 900px; height: 221px; margin-bottom: 25px;"><a href="https://www.youtube.com/watch?v=_aVPI0FeT70" class="fancybox-media"> <img src="/files/Behind-the-Scenes-at-the-Foundation-thumbnail.png" width="400" /> </a>
+<div style="float: right; position: relative; right: 87px; top: 62px;">
+<h3 style="font-size: 1.5em; margin-bottom: -2px;">Behind the Scenes at the Foundation</h3>
+<h3 style="font-size: 1.4em;"><a href="https://www.youtube.com/watch?v=_aVPI0FeT70" class="fancybox-media orange"> <img src="/files/orange-play.png" style="position: relative; top: 6px; padding-right: 6px;" width="30" /> Play Video </a></h3>
+</div>
+</div>
+<div class="allPlaylistsContainer">
+<div id="aboutfoundation">
+<h2>About The Michael J. Fox Foundation</h2>
+<p>Learn how the Foundation is focusing research efforts to help speed a cure for the millions of Parkinson's patients around the world.</p>
+<ul class="videoList">
+<li><a href="https://www.youtube.com/watch?v=G9sho6owGco" class="fancybox-media">Letters to the Fox Foundation</a></li>
+<li><a href="https://www.youtube.com/watch?v=CqEwPqUO1Bw&amp;feature=youtu.be" class="fancybox-media">Faces of Parkinson's</a></li>
+<li><a href="http://www.youtube.com/watch?v=SmfnlAD3Rek" class="fancybox-media">How Do We Get to Cures?</a></li>
+<li><a href="http://www.youtube.com/watch?v=0B89Sock-Rk" class="fancybox-media">Participate in Research and Help Speed a Cure</a></li>
+</ul>
+</div>
+<div id="teamfox" style="margin-top: 25px;">
+<h2>Team Fox</h2>
+<p><a href="https://www.michaeljfox.org/get-involved/teamfox.php">Team Fox</a> is the grassroots community fundraising program at The Michael J. Fox Foundation. Each year more than 2,000 members worldwide turn their passions and interests into unique fundraising events and athletic feats to further Parkinson's research.</p>
+<ul class="videoList">
+<li><a href="http://www.youtube.com/watch?v=mhlusidkquM" class="fancybox-media">Welcome to Team Fox</a></li>
+<li><a href="http://www.youtube.com/watch?v=EwjU7vwOKlI" class="fancybox-media">A Tour of Your Participant Center</a></li>
+<li><a href="https://www.youtube.com/watch?v=eJaxDt6HBBg" class="fancybox-media">Tour de Fox</a></li>
+</ul>
+</div>
+<div id="askmd" style="margin-top: 78px;">
+<h2>Ask the MD</h2>
+<p>MJFF staff neurologist and Movement Disorders Specialist, Rachel Dolhun, MD, addresses common questions about living with Parkinson's disease. View more of our Ask the MD Videos on our <a href="https://www.youtube.com/playlist?list=PLBC28F5E09965F72E">YouTube channel</a> .</p>
+<ul class="videoList">
+<li><a href="https://www.youtube.com/watch?v=6MNylT9jJzw" class="fancybox-media">Deep Brain Stimulation (DBS) for Parkinson's Disease</a></li>
+<li><a href="https://www.youtube.com/watch?v=zPnjyHvOGjw&amp;feature=youtu.be" class="fancybox-media">Caregiving and Parkinson's</a></li>
+<li><a href="https://www.youtube.com/watch?v=LtZlhWYbW8c" class="fancybox-media">"Off" Time in Parkinson's</a></li>
+<li><a href="https://www.youtube.com/watch?v=4IRuoRGGYA0" class="fancybox-media">Parkinson's Diagnosis and Biomarkers</a></li>
+<li><a href="https://www.youtube.com/watch?v=FRry2JzMXUE" class="fancybox-media">Exercise and Parkinson's</a></li>
+<li><a href="https://www.youtube.com/watch?v=FvXooSBVkXI" class="fancybox-media">Diet and Parkinson's</a></li>
+</ul>
+</div>
+<div style="clear: both;"></div>
+<div id="livingwith">
+<h2>Parkinson's Progression Marker's Initiative</h2>
+<p>The Parkinson's Progression Markers Initiative is a landmark study launched in 2010 to find biomarkers — disease indicators that are critical missing links in the search for better Parkinson's treatments. Learn how MJFF is leading this effort and how you can play a role in it.</p>
+<ul class="videoList">
+<li><a href="http://www.youtube.com/watch?v=nnExjYitZPc" class="fancybox-media">Intro to PPMI and the LP Procedure</a></li>
+<li><a href="https://www.youtube.com/watch?v=qQ8zPXN32tc" class="fancybox-media">The Search for a Biomarker</a></li>
+</ul>
+</div>
+<div id="webinars" style="float: left; margin-top: 10px;">
+<h2>Webinars</h2>
+<p>Our interactive Third Thursdays Webinar series, moderated by Dave Iverson, MJFF contributing editor and Patient Council member, tackles top-of-mind issues in Parkinson's research and care. Each webinar is grounded in the latest research on the topic of the month, with discussion of implications for living well with PD today. Panelists comprise a patient, clinician and researcher.</p>
+<p style="margin-bottom: 10px;"><a href="/page.html?hot-topics-webinar-series"> <img src="/files/orange-play.png" style="width: 20px; position: relative; top: 6px; padding-right: 5px;" /> View our archive of recent webinars and register for our next online event. </a></p>
+</div>
+</div>
