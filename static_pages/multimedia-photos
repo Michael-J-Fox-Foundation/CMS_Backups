@@ -1,0 +1,103 @@
+<style><!--
+#multimediaSubMenu {
+  margin:1em 0;
+}
+
+#multimediaSubMenu li {
+  font-family: 'BebasNeueRegular',Verdana, Arial, Helvetica, sans-serif;
+  font-size: 22px;
+    background: #4C6876;
+    position: relative;
+    height: 40px;
+    width: 300px;
+    float: left;
+    color:white;
+    text-transform:uppercase;
+    text-align:center;
+    line-height:40px;
+    padding:0;
+    box-shadow: inset 0 0px 10px 1px rgba(0,0,0,.25);
+    -moz-box-shadow: inset 0 0px 10px 1px rgba(0,0,0,.25);
+    -webkit-box-shadow: inset 0 0px 10px 1px rgba(0,0,0,.25);
+    -webkit-font-smoothing: antialiased;
+    margin-right: 2px;
+}
+#multimediaSubMenu a {
+  display:block;
+  width:100%;
+  height:100%;
+  color:white;
+  text-decoration:none;
+}
+#multimediaSubMenu a:hover {
+  background:#E77B2B url(../images/CTS-navHover.png) !important;
+  }
+#multimediaSubMenu li.active a:hover {
+  border-bottom: none;
+}
+#multimediaSubMenu li.active {
+  background:#E77B2B url(../images/CTS-navHover.png) !important;
+}
+#subnav {
+    position: relative;
+    top: 14px;
+    margin-bottom: 100px;
+}
+.imgWrap {
+  position: relative;
+  height: 187px;
+  width: 280px;
+  float: left;
+  margin: 10px;
+}
+.imgCaption {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background: rgba(76, 104, 118, .90);
+  color: #fff;
+  visibility: hidden;
+  opacity: 0;
+  padding: 15px;
+  font-size: 1em;
+}
+.imgWrap:hover .imgCaption {
+  visibility: visible;
+  opacity: 1;
+}
+.photoCredit{
+  font-size:.8em;
+}
+--></style>
+<div id="subnav">
+<ul id="multimediaSubMenu">
+<li><a href="/page.html?id=118">Videos</a></li>
+<li class="active"><a href="/page.html?id=117">Photos</a></li>
+<li><a href="/page.html?id=116">Infographics</a></li>
+</ul>
+</div>
+<h1>Photos</h1>
+<h3 style="margin-top: -12px; margin-bottom: 10px;">Anyone can join our pursuit of a world without Parkinson's disease. See how Foundation supporters are taking part, from sharing patient voices to attending fundraising galas or flipping pancakes. Then snap a shot of how you're helping move the dial toward a cure.</h3>
+<h2>The year in photos: 2015</h2>
+<div class="imgWrap"><a href="https://www.michaeljfox.org/files/annual-report-gallery-gala-2015-resized.jpg" id="firstPhoto" class="fancybox" rel="finance-gallery" title="John Fogerty and Michael J. Fox perform at A Funny Thing Happened on the Way to Cure Parkinson's."> <img src="/files/annual-report-gallery-gala-2015.jpg" /> <span class="imgCaption"> John Fogerty and Michael J. Fox perform at A Funny Thing Happened on the Way to Cure Parkinson's. <br /> <br /> <span class="photoCredit">Photo Credit: Ann Billingsley</span> </span> </a></div>
+<div class="imgWrap"><a href="https://www.michaeljfox.org/files/annual-report-gallery-filipwolak-resized.jpg" class="fancybox" rel="finance-gallery" title="David Letterman takes the stage at Funny Thing"> <img src="/files/annual-report-gallery-filipwolak.jpg" /> <span class="imgCaption"> David Letterman takes the stage at Funny Thing. <br /> <br /> <span class="photoCredit">Photo Credit: Filip Wolak</span> </span> </a></div>
+<div class="imgWrap"><a href="https://www.michaeljfox.org/files/(2a)MAYBE_AB_GALA_2015_104_DB-large.jpg" class="fancybox" rel="finance-gallery" title="Julianna Margulies and Keith Lieberthal at Funny Thing."> <img src="/files/(2a)MAYBE_AB_GALA_2015_104_DB-thumb.jpg" /> <span class="imgCaption"> Julianna Margulies and Keith Lieberthal at Funny Thing. <br /> <br /> <span class="photoCredit">Photo Credit: Ann Billingsley</span> </span> </a></div>
+<div class="imgWrap"><a href="https://www.michaeljfox.org/files/annual-report-gallery-getty-resized.jpg" class="fancybox" rel="finance-gallery" title="Board members Tracy Pollan, Lily Safra and Michael J. Fox at Funny Thing."> <img src="/files/annual-report-gallery-getty.jpg" width="280" height="187" /> <span class="imgCaption"> Board members Tracy Pollan, Lily Safra and Michael J. Fox at Funny Thing. <br /> <br /> <span class="photoCredit">Photo Credit: Getty Images</span> </span> </a></div>
+<div class="imgWrap"><a href="https://www.michaeljfox.org/files/annual-report-gallery-golf_winged-foot-resized.jpg" class="fancybox" rel="finance-gallery" title="Board member Andy O'Brien at Breaking PARkinson's."> <img src="/files/annual-report-gallery-golf_winged-foot.jpg" width="280" height="187" /> <span class="imgCaption"> Board member Andy O'Brien at Breaking PARkinson's. <br /> <br /> <span class="photoCredit">Photo Credit: Studio 1923</span> </span> </a></div>
+<div class="imgWrap"><a href="https://www.michaeljfox.org/files/annual-report-holloway-parkinson-celebration-resized.jpg" class="fancybox" rel="finance-gallery" title="(L to R) Anne, Jack and Michael Holloway hosted a conversation on research advancers in Menlo Park, California."> <img src="/files/annual-report-holloway-parkinson-celebration.jpg" width="280" height="187" /> <span class="imgCaption"> (L to R) Anne, Jack and Michael Holloway hosted a conversation on research advancers in Menlo Park, California. </span> </a></div>
+<div class="imgWrap"><a href="https://www.michaeljfox.org/files/(6)MUST_Nike_07102670-C72C-4245-8E4F-346429350D39_DB-large.jpg" class="fancybox" rel="finance-gallery" title="Nike CEO Mark Parker (middle) and his team join Debi Brooks and Michael J. Fox as he tries on the first pair of self-lacing Nike Mag shoes."> <img src="/files/(6)MUST_Nike_07102670-C72C-4245-8E4F-346429350D39_DB-thumb.jpg" /> <span class="imgCaption"> Nike CEO Mark Parker (middle) and his team join Debi Brooks and Michael J. Fox as he tries on the first pair of self-lacing Nike Mag shoes. </span> </a></div>
+<div class="imgWrap"><a href="https://www.michaeljfox.org/files/annual-report-gallery-pritzker-prize-resized.jpg" class="fancybox" rel="finance-gallery" title="(L to R) MJFF Scientific Advisory Board member Mark Cookson, PhD, 2015 Pritzker Prize recipient John Hardy, PhD, MJFF Scientific Advisory Board member Andrew Singleton, PhD, and Michael J. Fox at the Pritzker Prize luncheon."> <img src="/files/annual-report-gallery-pritzker-prize.jpg" width="280" height="187" /> <span class="imgCaption"> (L to R) MJFF Scientific Advisory Board member Mark Cookson, PhD, 2015 Pritzker Prize recipient John Hardy, PhD, MJFF Scientific Advisory Board member Andrew Singleton, PhD, and Michael J. Fox at the Pritzker Prize luncheon. <br /> <br /> <span class="photoCredit">Photo Credit: Taylor Ahearn</span> </span> </a></div>
+<div class="imgWrap"><a href="https://www.michaeljfox.org/files/annual-report-gallery-fox-poker-resized.jpg" class="fancybox" rel="finance-gallery" title="Board member David Einhorn at Playing to Win."> <img src="/files/annual-report-gallery-fox-poker.jpg" /> <span class="imgCaption"> Board member David Einhorn at Playing to Win. <br /> <br /> <span class="photoCredit">Photo Credit: Studio 1923</span> </span> </a></div>
+<div class="imgWrap"><a href="https://www.michaeljfox.org/files/annual-report-gallery-andrew-creighton-resized.jpg" class="fancybox" rel="finance-gallery" title="Board member Andrew Creighton competing in the New York City Marathon."> <img src="/files/9-AndrewCreightonNYCMarathon-thumb.jpg" /> <span class="imgCaption"> Board member Andrew Creighton competing in the New York City Marathon. </span> </a></div>
+<div class="imgWrap"><a href="https://www.michaeljfox.org/files/annual-report-today-show-resized.jpg" class="fancybox" rel="finance-gallery" title="Michael J. Fox and Tour de Fox's Sam Fox (no relation)."> <img src="/files/%2810%29Today-Show-thumb.jpg" /> <span class="imgCaption">Michael J. Fox and Tour de Fox's Sam Fox (no relation).</span> </a></div>
+<div class="imgWrap"><a href="https://www.michaeljfox.org/files/(11)MUST-CLIMBING-SHOT-WITH-SONNY-large.jpg" class="fancybox" rel="finance-gallery" title="Board member Sonny Whelen and Christine Whelen join Sam Fox and Kristen Milliron to summit Vancouver's Grouse Grind at the Tour de Fox."> <img src="/files/(11)MUST-CLIMBING-SHOT-WITH-SONNY-thumb.jpg" /> <span class="imgCaption"> Board member Sonny Whelen and Christine Whelen join Sam Fox and Kristen Milliron to summit Vancouver's Grouse Grind at the Tour de Fox. <br /> <br /> <span class="photoCredit">Photo Credit: Christine McAvoy</span> </span> </a></div>
+<div class="imgWrap"><a href="https://www.michaeljfox.org/files/%2812%29potus_twee-large.png" class="fancybox" rel="finance-gallery" title="A Twitter exchange between President Barack Obama and Michael J. Fox on Back to the Future Day."> <img src="/files/%2812%29potus_tweet-thumb.png" /> <span class="imgCaption"> A Twitter exchange between President Barack Obama and Michael J. Fox on Back to the Future Day. </span> </a></div>
+<div class="imgWrap"><a href="https://www.michaeljfox.org/files/(13)MUST_Pfizer_21Apr2015_161-large.jpg" class="fancybox" rel="finance-gallery" title="Michael J. Fox and MJFF CEO Todd Sherer at a Pfizer panel discussion."> <img src="/files/(13)MUST_Pfizer_21Apr2015_161-thumb.jpg" /> <span class="imgCaption"> Michael J. Fox and MJFF CEO Todd Sherer at a Pfizer panel discussion. </span> </a></div>
+<div class="imgWrap"><a href="https://www.michaeljfox.org/files/(14)MUST_Racetrac_MJF_DSC_0499_DB-large.jpg" class="fancybox" rel="finance-gallery" title="Patient Council member Carl Bolch, Jr. (center) and RaceTrac CEO Allison Moran (center left) with Michael J. Fox, Debi Brooks and the Bolch family."> <img src="/files/(14)MUST_Racetrac_MJF_DSC_0499_DB-thumb.jpg" /> <span class="imgCaption"> Patient Council member Carl Bolch, Jr. (center) and RaceTrac CEO Allison Moran (center left) with Michael J. Fox, Debi Brooks and the Bolch family. </span> </a></div>
+<div class="imgWrap"><a href="https://www.michaeljfox.org/files/(15)MUST_PIP_DSC8879-large.jpg" class="fancybox" rel="finance-gallery" title="MJFF Patient Council member and Contributing Editor Dave Iverson moderates at a Partners in Parkinson's panel."> <img src="/files/(15)MUST_PIP_DSC8879-thumb.jpg" /> <span class="imgCaption"> MJFF Patient Council member and Contributing Editor Dave Iverson moderates at a Partners in Parkinson's panel. <br /> <br /> <span class="photoCredit">Photo Credit: Elena Olivo</span> </span> </a></div>
+<div class="imgWrap"><a href="https://www.michaeljfox.org/files/(16)LondonDevils4thAnnualIceHockeyTournament-large.jpg" class="fancybox" rel="finance-gallery" title="Current and future players at the London Devils Ice Hockey tournament and family skate in England.
+"> <img src="/files/(16)LondonDevils4thAnnualIceHockeyTournament-thumb.jpg" /> <span class="imgCaption"> Current and future players at the London Devils Ice Hockey tournament and family skate in England. </span> </a></div>
+<div class="imgWrap"><a href="https://www.michaeljfox.org/files/(17)KarinaandMasonChoi_LemonadeStand_DB-large.jpg" class="fancybox" rel="finance-gallery" title="Karina and Mason Choi's lemonade stand."> <img src="/files/(17)KarinaandMasonChoi_LemonadeStand_DB-thumb.jpg" /> <span class="imgCaption">Karina and Mason Choi's lemonade stand.</span> </a></div>
+<div class="imgWrap"><a href="https://www.michaeljfox.org/files/(18)DelP4P-IMG_0750Udel_CCHS_DB-large.jpg" class="fancybox" rel="finance-gallery" title="The University of Delaware / Christiana Care Health System griddle team flips pancakes for a cure."> <img src="/files/(18)DelP4P-IMG_0750Udel_CCHS_DB-thumb.jpg" /> <span class="imgCaption"> The University of Delaware / Christiana Care Health System griddle team flips pancakes for a cure. </span> </a></div>
