@@ -1,0 +1,63 @@
+<p><span>Here's how it works</span>: Beginning October 3, record the number of miles you walk, run or bike and those miles will be matched $1 per mile by Medtronic DBS Therapy to go toward critical PD research.</p>
+                		<!-- FORM: HEAD SECTION -->
+
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <link href="https://www.tfaforms.com/form-builder/4.1.0/css/wforms-layout.css" rel="stylesheet" type="text/css">
+    <!--[if IE 8]>
+    <link href="https://www.tfaforms.com/form-builder/4.1.0/css/wforms-layout-ie8.css" rel="stylesheet" type="text/css" />
+    <![endif]-->
+    <!--[if IE 7]>
+    <link href="https://www.tfaforms.com/form-builder/4.1.0/css/wforms-layout-ie7.css" rel="stylesheet" type="text/css" />
+    <![endif]-->
+    <!--[if IE 6]>
+    <link href="https://www.tfaforms.com/form-builder/4.1.0/css/wforms-layout-ie6.css" rel="stylesheet" type="text/css" />
+    <![endif]-->
+
+    <link href="https://www.tfaforms.com/themes/get/32851" rel="stylesheet" type="text/css">
+    <link href="https://www.tfaforms.com/form-builder/4.1.0/css/wforms-jsonly.css" rel="stylesheet" title="" type="text/css">
+    <script type="text/javascript" src="https://www.tfaforms.com/wForms/3.7/js/wforms.js"></script>
+    <script type="text/javascript">
+        wFORMS.behaviors.prefill.skip = false;
+    </script>
+        <script type="text/javascript" src="https://www.tfaforms.com/wForms/3.7/js/localization-en_US.js"></script>
+
+<!-- FORM: BODY SECTION -->
+<div class="wFormContainer">
+
+  <div class=""><div class="wForm" id="tfa_0-WRPR" dir="ltr">
+<div class="codesection" id="code-tfa_0"><script>
+ $("#tfa_8-E span").text("Daily amount of manual miles may not exceed 50");
+</script></div>
+<form method="post" action="https://www.tfaforms.com/responses/processor" class="hintsBelow labelsAbove" id="tfa_0">
+<div class="htmlSection" id="tfa_1"><div class="htmlContent" id="tfa_1-HTML">Miles for a Cure participants who are unable to download the Charity Miles smartphone app may manually log their miles here once per day for the duration of the challenge.</div></div>
+<div id="tfa_3-D" class="oneField    ">
+<label id="tfa_3-L" for="tfa_3" class="label preField reqMark">Email:</label><br><div class="inputWrapper"><input type="text" id="tfa_3" name="tfa_3" value="" placeholder="" class="required col-xs-12 form-control"></div>
+</div>
+<div id="tfa_4-D" class="oneField    ">
+<label id="tfa_4-L" for="tfa_4" class="label preField reqMark">Choose your activity:</label><br><div class="inputWrapper"><select id="tfa_4" name="tfa_4" class="required col-xs-12 form-control"><option value="">Please select...</option>
+<option value="tfa_5" id="tfa_5" class="">Walk</option>
+<option value="tfa_6" id="tfa_6" class="">Run</option>
+<option value="tfa_7" id="tfa_7" class="">Bike</option></select></div>
+</div>
+<div id="tfa_8-D" class="oneField    hintsTooltip">
+<label id="tfa_8-L" for="tfa_8" class="label preField reqMark">How many miles?</label><br><div class="inputWrapper">
+<input type="text" id="tfa_8" name="tfa_8" value="" placeholder="" min="0.00" max="50.00" class="validate-float required col-xs-12 form-control"><span class="field-hint-inactive" id="tfa_8-H"><span id="tfa_8-HH" class="hint">Daily amount of manual miles may not exceed 50.</span></span>
+</div>
+</div>
+<div class="htmlSection" id="tfa_9"><div class="htmlContent" id="tfa_9-HTML">By logging your miles, you are opting in to receive emails from The Michael J. Fox Foundation. You can unsubscribe at any time.</div></div>
+<input type="hidden" id="tfa_10" name="tfa_10" value="Miles for a Cure 2014" class=""><input type="hidden" id="tfa_11" name="tfa_11" value="" class=""><input type="hidden" id="tfa_12" name="tfa_12" value="701U000000070xWIAQ" class=""><div class="actions" id="tfa_0-A"><input type="submit" class="primaryAction" value="Submit"></div>
+<div class="back-btn" onclick="window.history.back()" style="cursor:pointer; text-decoration:underline; color: #0000FF;">Return to Miles for a Cure</div>
+<div style="clear:both"></div>
+<input type="hidden" value="345574" name="tfa_dbFormId" id="tfa_dbFormId"><input type="hidden" value="" name="tfa_dbResponseId" id="tfa_dbResponseId"><input type="hidden" value="5253c10f55f62995b25a240e13a73ad3" name="tfa_dbControl" id="tfa_dbControl"><input type="hidden" value="15" name="tfa_dbVersionId" id="tfa_dbVersionId"><input type="hidden" value="" name="tfa_switchedoff" id="tfa_switchedoff">
+</form>
+</div></div>
+
+  <p class="supportInfo">
+        <a href="https://www.tfaforms.com/forms/help/345574" target="new" style="font-size: 0.7em;">
+      Need assistance with this form?    </a>
+
+      </p>
+
+</div> 
+
+<p>Thank you for participating in Miles for a Cure! The miles you've covered mean dollars for critical PD research.</p>
