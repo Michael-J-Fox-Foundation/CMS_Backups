@@ -1,0 +1,80 @@
+<p>Choose the races that interest you and we'll be in touch soon with more information about applying for a charity bib.
+<script type="text/javascript">// <![CDATA[
+<span id="mce_marker" data-mce-type="bookmark"></span><span id="__caret">_</span>// <![CDATA[
+$(document).ready(function(){
+        $(".oneField").addClass("form-group col-xs-12");
+        $("input[type=text]").addClass("col-xs-12 form-control");
+        $(".supportInfo").hide();
+        $("#tfa_16-D div").removeClass("inputWrapper");
+        $("#tfa_23-D div").removeClass("inputWrapper");
+        $("#tfa_13").removeAttr("style");
+        if ($("select").length) {
+          $("select").addClass("form-control");
+          $("select").parent().parent().css("margin-bottom", "10px");
+        };
+});
+// ]]></script>
+</p>
+
+<!-- FORM: HEAD SECTION -->
+
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link href="https://www.tfaforms.com/form-builder/4.2.1/css/wforms-layout.css" rel="stylesheet" type="text/css" />
+    <!--[if IE 8]>
+    <link href="https://www.tfaforms.com/form-builder/4.2.1/css/wforms-layout-ie8.css" rel="stylesheet" type="text/css" />
+    <![endif]-->
+    <!--[if IE 7]>
+    <link href="https://www.tfaforms.com/form-builder/4.2.1/css/wforms-layout-ie7.css" rel="stylesheet" type="text/css" />
+    <![endif]-->
+    <!--[if IE 6]>
+    <link href="https://www.tfaforms.com/form-builder/4.2.1/css/wforms-layout-ie6.css" rel="stylesheet" type="text/css" />
+    <![endif]-->
+
+    <link href="https://www.tfaforms.com/themes/get/32851" rel="stylesheet" type="text/css" />
+    <link href="https://www.tfaforms.com/form-builder/4.2.1/css/wforms-jsonly.css" rel="alternate stylesheet" title="This stylesheet activated by javascript" type="text/css" />
+    <script type="text/javascript" src="https://www.tfaforms.com/wForms/3.9/js/wforms.js"></script>
+    <script type="text/javascript">
+        wFORMS.behaviors.prefill.skip = false;
+    </script>
+        <script type="text/javascript" src="https://www.tfaforms.com/wForms/3.9/js/localization-en_US.js"></script>
+
+<!-- FORM: BODY SECTION -->
+<div class="wFormContainer"  >
+
+  <div class=""><div class="wForm" id="tfa_0-WRPR" dir="ltr">
+<div class="codesection" id="code-tfa_0"></div>
+<form method="post" action="https://www.tfaforms.com/responses/processor" class="hintsBelow labelsAbove" id="tfa_0">
+<div id="tfa_1-D" class="oneField     ">
+<label id="tfa_1-L" for="tfa_1" class="label preField reqMark">First Name</label><br><div class="inputWrapper"><input type="text" id="tfa_1" name="tfa_1" value="" placeholder="" class="required"></div>
+</div>
+<div id="tfa_2-D" class="oneField     ">
+<label id="tfa_2-L" for="tfa_2" class="label preField reqMark">Last Name</label><br><div class="inputWrapper"><input type="text" id="tfa_2" name="tfa_2" value="" placeholder="" class="required"></div>
+</div>
+<div id="tfa_3-D" class="oneField     ">
+<label id="tfa_3-L" for="tfa_3" class="label preField reqMark">Email</label><br><div class="inputWrapper"><input type="text" id="tfa_3" name="tfa_3" value="" placeholder="" class="validate-email required"></div>
+</div>
+<div id="tfa_4-D" class="oneField     ">
+<label id="tfa_4-L" for="tfa_4" class="label preField reqMark">ZIP code</label><br><div class="inputWrapper"><input type="text" id="tfa_4" name="tfa_4" value="" placeholder="" class="required"></div>
+</div>
+<div id="tfa_19-D" class="oneField     ">
+<label id="tfa_19-L" for="tfa_19" class="label preField ">Races you're interested in (select all that apply)</label><br><div class="inputWrapper"><span id="tfa_19" class="choices vertical "><span class="oneChoice"><input type="checkbox" value="tfa_21" class="" id="tfa_21" name="tfa_21"><label class="label postField" id="tfa_21-L" for="tfa_21">Rock N Roll DC Marathon, Half Marathon &amp; 5K - March 12, 2016 - Washington, DC</label></span><span class="oneChoice"><input type="checkbox" value="tfa_22" class="" id="tfa_22" name="tfa_22"><label class="label postField" id="tfa_22-L" for="tfa_22">NYC Half Marathon - March 20, 2016 - New York, NY</label></span><span class="oneChoice"><input type="checkbox" value="tfa_23" class="" id="tfa_23" name="tfa_23"><label class="label postField" id="tfa_23-L" for="tfa_23">Virgin London Marathon - April 24, 2016 - London, UK</label></span><span class="oneChoice"><input type="checkbox" value="tfa_24" class="" id="tfa_24" name="tfa_24"><label class="label postField" id="tfa_24-L" for="tfa_24">Bank of America Chicago Marathon - Oct. 9, 2016 - Chicago, IL</label></span><span class="oneChoice"><input type="checkbox" value="tfa_25" class="" id="tfa_25" name="tfa_25"><label class="label postField" id="tfa_25-L" for="tfa_25">TCS NYC Marathon - Nov. 6, 2015 - New York, NY</label></span><span class="oneChoice"><input type="checkbox" value="tfa_26" class="" id="tfa_26" name="tfa_26"><label class="label postField" id="tfa_26-L" for="tfa_26">Disney® Marathon Weekend - January 2017 - Orlando, FL</label></span></span></div>
+</div>
+<div id="tfa_27-D" class="oneField     ">
+<label id="tfa_27-L" for="tfa_27" class="label preField ">Primary Connection to Parkinson's</label><br><div class="inputWrapper"><select id="tfa_27" name="tfa_27" class=""><option value="">Please select...</option>
+<option value="tfa_28" id="tfa_28" class="">I have PD</option>
+<option value="tfa_29" id="tfa_29" class="">Family Member has PD</option>
+<option value="tfa_30" id="tfa_30" class="">Family Member had PD</option>
+<option value="tfa_31" id="tfa_31" class="">Friend has PD</option>
+<option value="tfa_32" id="tfa_32" class="">Friend had PD</option>
+<option value="tfa_33" id="tfa_33" class="">I work with the PD community</option>
+<option value="tfa_34" id="tfa_34" class="">Other</option></select></div>
+</div>
+<input type="hidden" id="tfa_15" name="tfa_15" value="default_source" class=""><input type="hidden" id="tfa_14" name="tfa_14" value="default_subsource" class=""><input type="hidden" id="tfa_16" name="tfa_16" value="digital_source_tracking_code" class=""><input type="hidden" id="tfa_17" name="tfa_17" value="digital_marketing_source" class=""><input type="hidden" id="tfa_18" name="tfa_18" value="web_form_name" class=""><div class="actions" id="tfa_0-A"><input type="submit" class="primaryAction" value="Submit"></div>
+<div style="clear:both"></div>
+<input type="hidden" value="396504" name="tfa_dbFormId" id="tfa_dbFormId"><input type="hidden" value="" name="tfa_dbResponseId" id="tfa_dbResponseId"><input type="hidden" value="5a78872f56c499a69b2b178c249d2fdc" name="tfa_dbControl" id="tfa_dbControl"><input type="hidden" value="3" name="tfa_dbVersionId" id="tfa_dbVersionId"><input type="hidden" value="" name="tfa_switchedoff" id="tfa_switchedoff">
+</form>
+</div></div>
+
+</div>
+<p>Thank you for your interest in running to support The Michael J. Fox Foundation and Parkinson's research!</p>
+<p>Please note, submitting this form does not guarantee entry into your selected races. A Team Fox staff member will be in touch with more information regarding the application process.</p>
