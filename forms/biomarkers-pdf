@@ -1,0 +1,198 @@
+<p>Therapies to slow or stop Parkinson's are advancing through development, but they all face a similar challenge: <strong>there's no objective measure of their impact on the underlying disease.</strong></p>
+<p><strong>What's inside this guide?</strong></p>
+<ul>
+<li>How lack of those measures, called biomarkers, slows testing of new treatments</li>
+<li>How biomarkers can help diagnose Parkinson's</li>
+<li>Where in the body researchers are looking for biomarkers</li>
+<li>How people with and without Parkinson's disease can help identify a biomarker to speed better treatments</li>
+</ul>
+<script>
+$( "h1" ).replaceWith("<h4 class='header'>Free Download: The Missing Link for New Parkinson's Treatments?</h4>");
+</script>
+
+<style>
+.header{
+  font-size:2.0em;
+  text-align: center;
+}
+@media only screen and (max-width : 568px) {
+.form-content p, .form-content ul{
+display: none;
+}
+}
+</style>
+<div style="background-color:#f77f00;">
+    <!-- FORM: HEAD SECTION -->
+
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link href="https://www.tfaforms.com/form-builder/4.2.0/css/wforms-layout.css" rel="stylesheet" type="text/css" />
+    <!--[if IE 8]>
+    <link href="https://www.tfaforms.com/form-builder/4.2.0/css/wforms-layout-ie8.css" rel="stylesheet" type="text/css" />
+    <![endif]-->
+    <!--[if IE 7]>
+    <link href="https://www.tfaforms.com/form-builder/4.2.0/css/wforms-layout-ie7.css" rel="stylesheet" type="text/css" />
+    <![endif]-->
+    <!--[if IE 6]>
+    <link href="https://www.tfaforms.com/form-builder/4.2.0/css/wforms-layout-ie6.css" rel="stylesheet" type="text/css" />
+    <![endif]-->
+
+    <link href="https://www.tfaforms.com/themes/get/default" rel="stylesheet" type="text/css" />
+    <link href="https://www.tfaforms.com/form-builder/4.2.0/css/wforms-jsonly.css" rel="alternate stylesheet" title="This stylesheet activated by javascript" type="text/css" />
+    <script type="text/javascript" src="https://www.tfaforms.com/wForms/3.8/js/wforms.js"></script>
+    <script type="text/javascript">wFORMS.behaviors.prefill.skip = false;</script>
+    <script type="text/javascript" src="https://www.tfaforms.com/wForms/3.8/js/localization-en_US.js"></script>
+
+    <!-- FORM: BODY SECTION -->
+    <div>
+
+        <div class="">
+            <div class="wForm" id="tfa_0-WRPR" dir="ltr">
+                <div class="codesection" id="code-tfa_0"></div>
+                <form method="post" action="https://www.tfaforms.com/responses/processor" class="hintsBelow labelsAbove" id="tfa_0">
+                    <div class="col-xs-12" id="tfa_13">
+                        <div  id="tfa_13-HTML">
+
+                            <h4 style="text-align: center; font-weight: bold; margin-top: 10px;">
+                                    Before downloading the printable guide, tell us something about yourself.
+                            </h4>
+                            <h4 style="text-align: center; font-weight: bold;">
+                               You'll help us better understand the needs of our community.
+                            </h4>
+                        </div>
+                    </div>
+                    <div id="tfa_1-D" class="oneField form-group col-xs-12" style="color:white;">
+                        <label id="tfa_1-L" for="tfa_1" class="label preField reqMark">First Name</label>
+                        <br>
+                        <div class="inputWrapper">
+                            <input type="text" id="tfa_1" name="tfa_1" value="" placeholder="" class="col-xs-12 form-control required"></div>
+                    </div>
+                    <div id="tfa_2-D" class="oneField form-group col-xs-12">
+                        <label id="tfa_2-L" for="tfa_2" class="label preField reqMark">Last Name</label>
+                        <br>
+                        <div class="inputWrapper">
+                            <input type="text" id="tfa_2" name="tfa_2" value="" placeholder="" class="col-xs-12 form-control required"></div>
+                    </div>
+                    <div id="tfa_12-D" class="oneField form-group col-xs-12">
+                        <label id="tfa_12-L" for="tfa_12" class="label preField reqMark">Email Address</label>
+                        <br>
+                        <div class="inputWrapper">
+                            <input type="text" id="tfa_12" name="tfa_12" value="" placeholder="" class="col-xs-12 form-control required"></div>
+                    </div>
+                    <div id="tfa_3-D" class="oneField form-group col-xs-12">
+                        <label id="tfa_3-L" for="tfa_3" class="label preField reqMark">Zip Code</label>
+                        <br>
+                        <div class="inputWrapper">
+                            <input type="text" id="tfa_3" name="tfa_3" value="" placeholder="" class="col-xs-12 form-control required"></div>
+                    </div>
+                    <div id="tfa_4-D" class="oneField form-group col-xs-12">
+                        <label id="tfa_4-L" for="tfa_4" class="label preField reqMark">Connection to Parkinson's?</label>
+                        <br>
+                        <div class="inputWrapper">
+                            <select id="tfa_4" name="tfa_4" class="required col-xs-12"">
+                                <option value="">Please select...</option>
+                                <option value="tfa_5" id="tfa_5" class="">I have PD</option>
+                                <option value="tfa_6" id="tfa_6" class="">Family Member has PD</option>
+                                <option value="tfa_7" id="tfa_7" class="">Family Member had PD</option>
+                                <option value="tfa_8" id="tfa_8" class="">Friend has PD</option>
+                                <option value="tfa_9" id="tfa_9" class="">Friend had PD</option>
+                                <option value="tfa_10" id="tfa_10" class="">I work with the PD Community</option>
+                                <option value="tfa_11" id="tfa_11" class="">Other</option>
+                            </select>
+                        </div>
+                    </div>
+                    <div id="tfa_14">
+                        <div id="tfa_14-HTML">
+
+                            <p style="text-align:center;">
+                                By joining you opt in to receive emails from
+                            </p>
+                            <p style="text-align:center;">
+                                The Michael J. Fox Foundation.
+                            </p>
+                            <p style="text-align:center;">
+                                &nbsp;
+                            </p>
+                            <p style="text-align:center;">
+                                You can unsubscribe at any time.
+                            </p>
+                        </div>
+                    </div>
+<input type="hidden" id="tfa_18" name="tfa_18" value="digital_source_referrer" class="">
+                    <div class="button actions" id="tfa_0-A-2" style="margin: 0 auto; text-align: center;">
+                        <input type="submit" class="primaryAction" value="Download Now" style="color: white; background-color: black; float:none;">
+                        </div>
+                    <div id="tfa_15" class="col-xs-12">
+                        <div id="tfa_15-HTML">
+                            <p>&nbsp;</p>
+                    <p style="text-align:center;"><a style="color:black; font-size: .8em;" href="https://www.michaeljfox.org/files/052915_MJFF_BIOMARKERS.pdf" >No thanks, I'd just like to read the guide.</a></p>
+                        </div>
+                    </div>
+
+                    <div style="clear:both"></div>
+                    <input type="hidden" value="376840" name="tfa_dbFormId" id="tfa_dbFormId">
+                    <input type="hidden" value="" name="tfa_dbResponseId" id="tfa_dbResponseId">
+                    <input type="hidden" value="81112f1ed58bdb21b5b5b75b13b19591" name="tfa_dbControl" id="tfa_dbControl">
+                    <input type="hidden" value="2" name="tfa_dbVersionId" id="tfa_dbVersionId">
+                    <input type="hidden" value="" name="tfa_switchedoff" id="tfa_switchedoff"></form>
+            </div>
+        </div>
+    </div>
+</div>
+<style><!--
+/************************************************************************/
+/* 						Site Button Style								*/
+/************************************************************************/
+a.mjffButton, a.mjffButtonSm, input.mjffButton, input.mjffButtonSm {
+	margin-top: 10px;
+    background-color: #f77f00;
+    background: rgb(245,136,0);
+    background: -moz-linear-gradient(top,  rgba(245,136,0,1) 0%, rgba(240,117,0,1) 100%); /* FF3.6+ */
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(245,136,0,1)), color-stop(100%,rgba(240,117,0,1))); /* Chrome,Safari4+ */
+    background: -webkit-linear-gradient(top,  rgba(245,136,0,1) 0%,rgba(240,117,0,1) 100%); /* Chrome10+,Safari5.1+ */
+    background: -o-linear-gradient(top,  rgba(245,136,0,1) 0%,rgba(240,117,0,1) 100%); /* Opera 11.10+ */
+    background: -ms-linear-gradient(top,  rgba(245,136,0,1) 0%,rgba(240,117,0,1) 100%); /* IE10+ */
+    background: linear-gradient(to bottom,  rgba(245,136,0,1) 0%,rgba(240,117,0,1) 100%); /* W3C */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f58800', endColorstr='#f07500',GradientType=0 ); /* IE6-8 */
+    color: white;
+    vertical-align: middle;
+    font-size: 32px;
+    padding: 5px 10px 5px 10px;
+    font-family: 'GibsonRegular', Verdana, Arial, Helvetica, sans-serif;
+    box-shadow:2px 2px 2px rgba(0,0,0,.25);
+    -moz-box-shadow:2px 2px 2px rgba(0,0,0,.25);
+    -o-box-shadow:2px 2px 2px rgba(0,0,0,.25);
+    -webkit-box-shadow:2px 2px 2px rgba(0,0,0,.25);
+    text-shadow: 1px 1px 1px rgba(0,0,0,.25);
+    -webkit-font-smoothing: antialiased;
+    text-decoration:none;
+&#8203;}
+a.mjffButton:hover, input.mjffButton:hover, a.mjffButtonSm:hover {
+    box-shadow:2px 2px 2px rgba(0,0,0,.25), inset 0 0 10px rgba(255,255,255,.75);
+    -moz-box-shadow:2px 2px 2px rgba(0,0,0,.25);
+    -o-box-shadow:2px 2px 2px rgba(0,0,0,.25);
+    -webkit-box-shadow:2px 2px 2px rgba(0,0,0,.25),  inset 0 0 10px rgba(255,255,255,.75);
+    cursor:pointer;
+}
+a.mjffButton:active, input.mjffButton:active, a.mjffButtonSm:active {
+    position:relative;
+    top:2px;
+    box-shadow: inset 0 0 10px rgba(255,255,255,.75);
+    -moz-box-shadow:2px 2px 2px rgba(0,0,0,.25);
+    -o-box-shadow:2px 2px 2px rgba(0,0,0,.25);
+    -webkit-box-shadow:inset 0 0 10px rgba(255,255,255,.75);
+}
+
+a.mjffButtonSm {
+    font-size: 22px;
+}
+input.mjffButton{
+	padding:15px 30px;
+}
+--></style>
+<p>
+<script type="text/javascript">// <![CDATA[
+$( "h1" ).hide();
+// ]]></script>
+</p>
+<h3 style="text-align: center;">Thank you! You may now download the guide.</h3>
+<p style="text-align: center;"><a href="https://www.michaeljfox.org/files/052915_MJFF_BIOMARKERS.pdf" class="mjffButtonSm">Download Guide</a></p>
