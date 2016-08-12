@@ -1,0 +1,54 @@
+<p>Michael J. Fox’s brand of optimism has inspired millions to face and overcome the challenges that life presents. For the Parkinson’s community, there are countless opportunities for us to be “like Mike” and make a difference in the mission to cure Parkinson’s disease. </p>
+<p>And no matter how you choose to get involved, your contribution can have a vital and meaningful impact.</p>
+<p>So join MJFF in its pursuit — the more involved we get, the better we are likely to feel. Be “like Mike” and start transforming your positivity into action today.</p>
+<p>“There’s no qualifying amount that you have to do — but there’s also no limit to what you can do.” - Michael J. Fox</p>
+<!-- FORM: HEAD SECTION -->
+
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+    <script type="text/javascript" src="https://www.tfaforms.com/wForms/3.7/js/wforms.js"></script>
+    <script type="text/javascript">
+        wFORMS.behaviors.prefill.skip = false;
+    </script>
+        <script type="text/javascript" src="https://www.tfaforms.com/wForms/3.7/js/localization-en_US.js"></script>
+
+<!-- FORM: BODY SECTION -->
+<div class="wFormContainer"  >
+
+  <div class=""><div class="wForm" id="tfa_0-WRPR" dir="ltr">
+<div class="codesection" id="code-tfa_0"></div>
+<h3 class="wFormTitle" id="tfa_0-T">Join Our Community</h3>
+<form method="post" action="https://www.tfaforms.com/responses/processor" class="hintsBelow labelsAbove" id="tfa_0">
+<div id="tfa_4" class="section inline group">
+<div id="tfa_3-D" class="oneField    ">
+<label id="tfa_3-L" for="tfa_3" class="label preField reqMark">First Name</label><br><div class="inputWrapper"><input type="text" id="tfa_3" name="tfa_3" value="" placeholder="" class="required"></div>
+</div>
+<div id="tfa_2-D" class="oneField    ">
+<label id="tfa_2-L" for="tfa_2" class="label preField reqMark">Last Name</label><br><div class="inputWrapper"><input type="text" id="tfa_2" name="tfa_2" value="" placeholder="" class="required"></div>
+</div>
+</div>
+<div id="tfa_6" class="section inline group">
+<div id="tfa_1-D" class="oneField    ">
+<label id="tfa_1-L" for="tfa_1" class="label preField reqMark">Email</label><br><div class="inputWrapper"><input type="text" id="tfa_1" name="tfa_1" value="" placeholder="" class="validate-email required"></div>
+</div>
+<div id="tfa_5-D" class="oneField    ">
+<label id="tfa_5-L" for="tfa_5" class="label preField reqMark">Zip Code</label><br><div class="inputWrapper"><input type="text" id="tfa_5" name="tfa_5" value="" placeholder="" class="required"></div>
+</div>
+</div>
+<div id="tfa_16-D" class="oneField    ">
+<label id="tfa_16-L" for="tfa_16" class="label preField reqMark">Connection to Parkinson's (PD)?</label><br><div class="inputWrapper"><select id="tfa_16" name="tfa_16" class="required"><option value="">Please select...</option>
+<option value="tfa_17" id="tfa_17" class="">I have PD</option>
+<option value="tfa_18" id="tfa_18" class="">Family Member has PD</option>
+<option value="tfa_19" id="tfa_19" class="">Family Member had PD</option>
+<option value="tfa_20" id="tfa_20" class="">Friend has PD</option>
+<option value="tfa_21" id="tfa_21" class="">Friend had PD</option>
+<option value="tfa_22" id="tfa_22" class="">I work with the PD Community</option>
+<option value="tfa_23" id="tfa_23" class="">Other</option></select></div>
+</div>
+<div class="htmlSection" id="tfa_15"><div class="htmlContent" id="tfa_15-HTML">*By joining, you opt in to receive emails from The Michael J. Fox Foundation. You can unsubscribe at any time.</div></div>
+<input type="hidden" id="tfa_24" name="tfa_24" value="default_source" class=""><input type="hidden" id="tfa_25" name="tfa_25" value="default_subsource" class=""><div class="actions" id="tfa_0-A"><input type="submit" class="primaryAction" value="Submit"></div>
+<div style="clear:both"></div>
+<input type="hidden" value="350322" name="tfa_dbFormId" id="tfa_dbFormId"><input type="hidden" value="" name="tfa_dbResponseId" id="tfa_dbResponseId"><input type="hidden" value="a5862d0fd0f17d41a184bcc80ab3991f" name="tfa_dbControl" id="tfa_dbControl"><input type="hidden" value="3" name="tfa_dbVersionId" id="tfa_dbVersionId"><input type="hidden" value="" name="tfa_switchedoff" id="tfa_switchedoff">
+</form>
+</div></div>
+</div>
