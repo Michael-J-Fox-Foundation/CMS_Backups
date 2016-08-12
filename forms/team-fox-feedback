@@ -1,0 +1,447 @@
+<div><img src="/files/team_fox_cropped_logo.jpg" />
+<p>In an effort to provide the best resources and tools to support our Team Fox members, we appreciate you taking a few minutes to provide us with feedback about your experience. Thanks for all you do to support MJFF's ongoing efforts to speed a cure for Parkinson's!</p>
+<p>All the best,</p>
+<p>Your Team Fox Staff</p>
+</div>
+<script type="text/javascript">// <![CDATA[
+$(document).ready(function() {
+        $(".form-content.col-sm-6.col-xs-12").width('70%');
+        $(".form-input-area.col-sm-6.col-xs-12").width('70%');
+    })
+// ]]></script>
+
+<script>
+      $(document).ready(function(){
+        $(".oneField").addClass("form-group col-xs-12");
+        $(".oneField").css('margin-bottom', '15px');
+        $("input[type=text]").addClass("col-xs-12 form-control");
+        $("#tfa_4").addClass("form-control");
+        $('textarea').addClass('form-control');
+        $('textarea.form-control').css('width', '50%');
+        $('input.primaryAction').css('float', 'left');
+        $('label.label.preField').css(',margin-left', '10px');
+ });
+</script>
+
+<!-- FORM: HEAD SECTION -->
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link href="https://www.tfaforms.com/form-builder/4.3.0/css/wforms-layout.css" rel="stylesheet" type="text/css" />
+<!--[if IE 8]>
+<link href="https://www.tfaforms.com/form-builder/4.3.0/css/wforms-layout-ie8.css" rel="stylesheet" type="text/css" />
+<![endif]-->
+<!--[if IE 7]>
+<link href="https://www.tfaforms.com/form-builder/4.3.0/css/wforms-layout-ie7.css" rel="stylesheet" type="text/css" />
+<![endif]-->
+<!--[if IE 6]>
+<link href="https://www.tfaforms.com/form-builder/4.3.0/css/wforms-layout-ie6.css" rel="stylesheet" type="text/css" />
+<![endif]-->
+<link href="https://www.tfaforms.com/themes/get/default" rel="stylesheet" type="text/css" />
+<link href="https://www.tfaforms.com/form-builder/4.3.0/css/wforms-jsonly.css" rel="alternate stylesheet" title="This stylesheet activated by javascript" type="text/css" />
+<script type="text/javascript" src="https://www.tfaforms.com/wForms/3.10/js/wforms.js"></script>
+<script type="text/javascript">
+wFORMS.behaviors.prefill.skip = false;
+</script>
+<link rel="stylesheet" type="text/css" href="https://www.tfaforms.com/css/kalendae.css" />
+<script type="text/javascript" src="https://www.tfaforms.com/js/kalendae/kalendae.standalone.min.js" ></script>
+<script type="text/javascript" src="https://www.tfaforms.com/wForms/3.10/js/wforms_calendar.js"></script>
+<script type="text/javascript" src="https://www.tfaforms.com/wForms/3.10/js/localization-en_US.js"></script>
+
+<!-- FORM: BODY SECTION -->
+<div  >
+
+  <style type="text/css">
+
+    #tfa_870,
+    *[id^="tfa_870["]
+    {
+        width: 170px !important;
+    }
+        
+
+    #tfa_871-L,
+    *[id^="tfa_871-L["]
+    {
+        width: 290px !important;
+    }
+        
+
+    #tfa_874-L,
+    *[id^="tfa_874-L["]
+    {
+        width: 360px !important;
+    }
+        
+
+    #tfa_881-L,
+    *[id^="tfa_881-L["]
+    {
+        width: 360px !important;
+    }
+        
+
+    #tfa_889-L,
+    *[id^="tfa_889-L["]
+    {
+        width: 360px !important;
+    }
+
+    #tfa_955-L,
+    *[id^="tfa_955-L["]
+    {
+        width: 470px !important;
+    }
+
+    #tfa_956-L,
+    *[id^="tfa_956-L["]
+    {
+        width: 550px !important;
+    }
+        
+
+    #tfa_959-L,
+    *[id^="tfa_959-L["]
+    {
+        width: 550px !important;
+    }
+        
+
+    #tfa_892-L,
+    *[id^="tfa_892-L["]
+    {
+        width: 360px !important;
+    }
+        
+
+    #tfa_900-L,
+    *[id^="tfa_900-L["]
+    {
+        width: 480px !important;
+    }
+        
+
+    #tfa_903-L,
+    *[id^="tfa_903-L["]
+    {
+        width: 480px !important;
+    }
+        
+
+    #tfa_904-L,
+    *[id^="tfa_904-L["]
+    {
+        width: 450px !important;
+    }
+        
+
+    #tfa_912-L,
+    *[id^="tfa_912-L["]
+    {
+        width: 450px !important;
+    }
+        
+
+    #tfa_912,
+    *[id^="tfa_912["]
+    {
+        width: 50 !important;
+    }
+        
+
+    #tfa_913-L,
+    *[id^="tfa_913-L["]
+    {
+        width: 450px !important;
+    }
+        
+
+    #tfa_914-L,
+    *[id^="tfa_914-L["]
+    {
+        width: 450px !important;
+    }
+
+    #tfa_949-L,
+    *[id^="tfa_949-L["]
+    {
+        width: 490px !important;
+    }
+        
+
+    #tfa_920-L,
+    *[id^="tfa_920-L["]
+    {
+        width: 520px !important;
+    }
+
+    #tfa_950-L,
+    *[id^="tfa_950-L["]
+    {
+        width: 490px !important;
+    }
+        
+
+    #tfa_926-L,
+    *[id^="tfa_926-L["]
+    {
+        width: 520px !important;
+    }
+
+    #tfa_951-L,
+    *[id^="tfa_951-L["]
+    {
+        width: 490px !important;
+    }
+        
+
+    #tfa_932-L,
+    *[id^="tfa_932-L["]
+    {
+        width: 520px !important;
+    }
+        
+
+    #tfa_936-L,
+    *[id^="tfa_936-L["]
+    {
+        width: 520px !important;
+    }
+        
+
+    #tfa_942-L,
+    *[id^="tfa_942-L["]
+    {
+        width: 520px !important;
+    }
+        
+
+    #tfa_943-L,
+    *[id^="tfa_943-L["]
+    {
+        width: 520px !important;
+    }
+
+    #tfa_948-L,
+    *[id^="tfa_948-L["]
+    {
+        width: 490px !important;
+    }
+        
+
+    #tfa_948,
+    *[id^="tfa_948["]
+    {
+        width: 50 !important;
+    }
+        
+
+    #tfa_946-L,
+    *[id^="tfa_946-L["]
+    {
+        width: 520px !important;
+    }
+        
+
+    #tfa_946,
+    *[id^="tfa_946["]
+    {
+        width: 250 !important;
+    }
+        
+
+    #tfa_947-L,
+    *[id^="tfa_947-L["]
+    {
+        width: 520px !important;
+    }
+        
+
+    #tfa_947,
+    *[id^="tfa_947["]
+    {
+        width: 250 !important;
+    }
+.label {
+font-weight: normal;
+font-family:'GibsonRegular', Verdana, Arial, Helvetica, sans-serif !important;
+}
+select.form-control {
+height: 34px !important;
+font-size: 14px !important;
+}
+        </style><div class=""><div class="wForm" id="tfa_0-WRPR" dir="ltr">
+<div class="codesection" id="code-tfa_0"></div>
+<form method="post" action="https://www.tfaforms.com/responses/processor" class="hintsBelow labelsAbove" id="tfa_0">
+<div id="tfa_2-D" class="oneField     ">
+<label id="tfa_2-L" for="tfa_2" class="label preField reqMark">Name:</label><br><div class=""><input type="text" id="tfa_2" name="tfa_2" value="" placeholder="" title="Name:" class="required"></div>
+</div>
+<div id="tfa_3-D" class="oneField     ">
+<label id="tfa_3-L" for="tfa_3" class="label preField reqMark">Event/Campaign Name:</label><br><div class=""><input type="text" id="tfa_3" name="tfa_3" value="" placeholder="" title="Event/Campaign Name:" class="required"></div>
+</div>
+<div id="tfa_50-D" class="oneField     ">
+<label id="tfa_50-L" for="tfa_50" class="label preField reqMark">Event Type:</label><br><div class=""><select id="tfa_50" name="tfa_50" title="Event Type:" class="required form-control"><option value="">Please select...</option>
+<option value="tfa_51" id="tfa_51" class="">Golf</option>
+<option value="tfa_52" id="tfa_52" class="">Gala</option>
+<option value="tfa_53" id="tfa_53" class="">Party</option>
+<option value="tfa_54" id="tfa_54" class="">Pancakes</option>
+<option value="tfa_55" id="tfa_55" class="">Run/Walk/Bike</option>
+<option value="tfa_56" id="tfa_56" data-conditionals="#tfa_57" class="">Other</option></select></div>
+</div>
+<div id="tfa_57-D" class="oneField     ">
+<label id="tfa_57-L" for="tfa_57" class="label preField reqMark">Please specify event type:</label><br><div class=""><input type="text" id="tfa_57" name="tfa_57" value="" placeholder="" data-condition="`#tfa_56`" title="Please specify event type:" class="required"></div>
+</div>
+<div id="tfa_870-D" class="oneField     ">
+<label id="tfa_870-L" for="tfa_870" class="label preField reqMark">Event date:</label><br><div class=""><input type="text" id="tfa_870" name="tfa_870" value="" placeholder="" title="Event date:" class="validate-datecal required"></div>
+</div>
+<div id="tfa_871-D" class="oneField     ">
+<label id="tfa_871-L" for="tfa_871" class="label preField reqMark">Did your event involve attendees?</label><br><div class=""><span id="tfa_871" class="choices horizontal required"><span class="oneChoice"><input type="radio" value="tfa_872" class="" id="tfa_872" name="tfa_871" data-conditionals="#tfa_874"><label class="label postField" id="tfa_872-L" for="tfa_872">Yes</label></span><span class="oneChoice"><input type="radio" value="tfa_873" class="" id="tfa_873" name="tfa_871"><label class="label postField" id="tfa_873-L" for="tfa_873">No</label></span></span></div>
+</div>
+<div id="tfa_874-D" class="oneField     ">
+<label id="tfa_874-L" for="tfa_874" class="label preField reqMark">Please share about how many people attended:</label><br><div class=""><select id="tfa_874" name="tfa_874" data-condition="`#tfa_872`" title="Please share about how many people attended:" class="required form-control"><option value="">Please select...</option>
+<option value="tfa_875" id="tfa_875" class="">10-20</option>
+<option value="tfa_876" id="tfa_876" class="">20-40</option>
+<option value="tfa_877" id="tfa_877" class="">40-60</option>
+<option value="tfa_878" id="tfa_878" class="">60-80</option>
+<option value="tfa_879" id="tfa_879" class="">80-100</option>
+<option value="tfa_880" id="tfa_880" class="">100+</option></select></div>
+</div>
+<div id="tfa_881-D" class="oneField     ">
+<label id="tfa_881-L" for="tfa_881" class="label preField reqMark">What is your primary connection to PD?</label><br><div class=""><select id="tfa_881" name="tfa_881" title="What is your primary connection to PD?" class="required form-control"><option value="">Please select...</option>
+<option value="tfa_882" id="tfa_882" class="">Family member has PD</option>
+<option value="tfa_883" id="tfa_883" class="">Family member had PD</option>
+<option value="tfa_884" id="tfa_884" class="">Friend has PD</option>
+<option value="tfa_885" id="tfa_885" class="">Friend had PD</option>
+<option value="tfa_886" id="tfa_886" class="">I have PD</option>
+<option value="tfa_887" id="tfa_887" class="">I work with the PD Community</option>
+<option value="tfa_888" id="tfa_888" class="">Other</option></select></div>
+</div>
+<div id="tfa_889-D" class="oneField     ">
+<label id="tfa_889-L" for="tfa_889" class="label preField reqMark">Are you a new or returning Team Fox member?</label><br><div class=""><span id="tfa_889" class="choices horizontal required"><span class="oneChoice"><input type="radio" value="tfa_890" class="" id="tfa_890" name="tfa_889" data-conditionals="#tfa_892,#tfa_900"><label class="label postField" id="tfa_890-L" for="tfa_890">New member</label></span><span class="oneChoice"><input type="radio" value="tfa_891" class="" id="tfa_891" name="tfa_889" data-conditionals="#tfa_955,#tfa_956,#tfa_959"><label class="label postField" id="tfa_891-L" for="tfa_891">Returning member</label></span></span></div>
+</div>
+<div id="tfa_955-D" class="oneField     ">
+<label id="tfa_955-L" for="tfa_955" class="label preField ">How many years have you fundraised with Team Fox?</label><br><div class=""><input type="text" id="tfa_955" name="tfa_955" value="" placeholder="" data-condition="`#tfa_891`" title="How many years have you fundraised with Team Fox?" class=""></div>
+</div>
+<div id="tfa_956-D" class="oneField     ">
+<label id="tfa_956-L" for="tfa_956" class="label preField ">Did you find it easier to host your event/campaign this year than in previous years?</label><br><div class=""><span id="tfa_956" class="choices horizontal " data-condition="`#tfa_891`"><span class="oneChoice"><input type="radio" value="tfa_957" class="" id="tfa_957" name="tfa_956"><label class="label postField" id="tfa_957-L" for="tfa_957">Yes</label></span><span class="oneChoice"><input type="radio" value="tfa_958" class="" id="tfa_958" name="tfa_956"><label class="label postField" id="tfa_958-L" for="tfa_958">No</label></span></span></div>
+</div>
+<div id="tfa_959-D" class="oneField     ">
+<label id="tfa_959-L" for="tfa_959" class="label preField ">Please let us know why:</label><br><div class=""><textarea maxlength="250" id="tfa_959" name="tfa_959" data-condition="`#tfa_891`" title="Please let us know why:" class=""></textarea></div>
+</div>
+<div id="tfa_892-D" class="oneField     ">
+<label id="tfa_892-L" for="tfa_892" class="label preField reqMark">How did you learn about the Team Fox program?</label><br><div class=""><select id="tfa_892" name="tfa_892" data-condition="`#tfa_890`" title="How did you learn about the Team Fox program?" class="required form-control"><option value="">Please select...</option>
+<option value="tfa_893" id="tfa_893" class="">Search Engine</option>
+<option value="tfa_894" id="tfa_894" class="">Event</option>
+<option value="tfa_895" id="tfa_895" class="">Friend/Family Member</option>
+<option value="tfa_896" id="tfa_896" class="">Social Networking Channel</option>
+<option value="tfa_897" id="tfa_897" class="">Advertisement</option>
+<option value="tfa_898" id="tfa_898" class="">Blog</option>
+<option value="tfa_899" id="tfa_899" class="">Other</option></select></div>
+</div>
+<div id="tfa_900-D" class="oneField     ">
+<label id="tfa_900-L" for="tfa_900" class="label preField reqMark">Did you find the welcome emails and the welcome packet that was mailed to you helpful with understanding the program and how to get started?</label><br><div class=""><table id="tfa_900" class="choices columns2 required" data-condition="`#tfa_890`">
+<tr>
+<td><span class="oneChoice"><input type="radio" value="tfa_901" class="" id="tfa_901" name="tfa_900"><label class="label postField" id="tfa_901-L" for="tfa_901">Yes</label></span></td>
+<td><span class="oneChoice"><input type="radio" value="tfa_902" class="" id="tfa_902" name="tfa_900"><label class="label postField" id="tfa_902-L" for="tfa_902">I did not receive my Welcome Packet Packet in the mail</label></span></td>
+</tr>
+<tr>
+<td><span class="oneChoice"><input type="radio" value="tfa_964" class="" id="tfa_964" name="tfa_900" data-conditionals="#tfa_903"><label class="label postField" id="tfa_964-L" for="tfa_964">No</label></span></td>
+<td><span class="oneChoice"><input type="radio" value="tfa_965" class="" id="tfa_965" name="tfa_900"><label class="label postField" id="tfa_965-L" for="tfa_965">I did not receive my Welcome email</label></span></td>
+</tr>
+</table></div>
+</div>
+<div id="tfa_903-D" class="oneField     ">
+<label id="tfa_903-L" for="tfa_903" class="label preField ">Please tell us why:</label><br><div class=""><textarea maxlength="250" id="tfa_903" name="tfa_903" data-condition="`#tfa_964`" title="Please tell us why:" class=""></textarea></div>
+</div>
+<div id="tfa_904-D" class="oneField">
+<label id="tfa_904-L" for="tfa_904" class="label preField ">Please check off any additional Team Fox resources that you used:&nbsp;</label><br><div class=""><table id="tfa_904" class="choices columns2 ">
+<tr>
+<td><span class="oneChoice"><input type="checkbox" value="tfa_905" class="" id="tfa_905" name="tfa_905"><label class="label postField" id="tfa_905-L" for="tfa_905">The Participant Center 101</label></span></td>
+<td><span class="oneChoice"><input type="checkbox" value="tfa_906" class="" id="tfa_906" name="tfa_906"><label class="label postField" id="tfa_906-L" for="tfa_906">The Fox Forty Fundraising Idea List</label></span></td>
+</tr>
+<tr>
+<td><span class="oneChoice"><input type="checkbox" value="tfa_907" class="" id="tfa_907" name="tfa_907"><label class="label postField" id="tfa_907-L" for="tfa_907">The Team Fox inbox at teamfox@michaeljfox.org</label></span></td>
+<td><span class="oneChoice"><input type="checkbox" value="tfa_908" class="" id="tfa_908" name="tfa_908"><label class="label postField" id="tfa_908-L" for="tfa_908">The Team Fox Material Request Form for banners, stickers, MJFF brochures, etc.</label></span></td>
+</tr>
+<tr>
+<td><span class="oneChoice"><input type="checkbox" value="tfa_909" class="" id="tfa_909" name="tfa_909"><label class="label postField" id="tfa_909-L" for="tfa_909">Team Fox Templates (Thank you letters, sponsorship letters)</label></span></td>
+<td><span class="oneChoice"><input type="checkbox" value="tfa_910" class="" id="tfa_910" name="tfa_910"><label class="label postField" id="tfa_910-L" for="tfa_910">An Official Letter of Acknowledgement from the Team Fox Program</label></span></td>
+</tr>
+<tr><td><span class="oneChoice"><input type="checkbox" value="tfa_911" class="" id="tfa_911" name="tfa_911"><label class="label postField" id="tfa_911-L" for="tfa_911">The Team Fox Handbook</label></span></td></tr>
+</table></div>
+</div>
+<div id="tfa_912-D" class="oneField     ">
+<label id="tfa_912-L" for="tfa_912" class="label preField ">If you did not use any Team Fox resources, please let us know why:</label><br><div class=""><textarea maxlength="250" id="tfa_912" name="tfa_912" title="If you did not use any Team Fox resources, please let us know why:" class=""></textarea></div>
+</div>
+<div id="tfa_913-D" class="oneField     ">
+<label id="tfa_913-L" for="tfa_913" class="label preField ">Share an idea or suggestion around how we can improve the resources made available to members.</label><br><div class=""><textarea maxlength="250" id="tfa_913" name="tfa_913" title="Share idea/suggestions of how you feel we can improve the resources made available to members." class=""></textarea></div>
+</div>
+<div id="tfa_914-D" class="oneField     ">
+<label id="tfa_914-L" for="tfa_914" class="label preField reqMark">How satisfied are you with your overall experience with Team Fox?</label><br><div class=""><select id="tfa_914" name="tfa_914" title="How satisfied are you with your overall experience with Team Fox?" class="required form-control"><option value="">Please select...</option>
+<option value="tfa_915" id="tfa_915" class="">Very satisfied</option>
+<option value="tfa_916" id="tfa_916" class="">Somewhat satisfied</option>
+<option value="tfa_917" id="tfa_917" class="">Neutral</option>
+<option value="tfa_918" id="tfa_918"data-conditionals="#tfa_949" class="">Somewhat dissatisfied</option>
+<option value="tfa_919" id="tfa_919" data-conditionals="#tfa_949" class="">Very dissatisfied</option></select></div>
+</div>
+<div id="tfa_949-D" class="oneField     ">
+<label id="tfa_949-L" for="tfa_949" class="label preField ">Please explain:</label><br><div class=""><textarea maxlength="250" id="tfa_949" name="tfa_949" data-condition=" `#tfa_918` OR `#tfa_919` " title="Please explain:" class=""></textarea></div>
+</div>
+<div id="tfa_920-D" class="oneField     ">
+<label id="tfa_920-L" for="tfa_920" class="label preField reqMark">Compared to how you felt about Team Fox before hosting your event/campaign,<br>what is the likelihood of completing another event with Team Fox?</label><br><div class=""><select id="tfa_920" name="tfa_920" title="Compared to how you felt about Team Fox before hosting your event/campaign, what is the likelihood of completing another event with Team Fox?" class="required form-control"><option value="">Please select...</option>
+<option value="tfa_921" id="tfa_921" class="">Very likely</option>
+<option value="tfa_922" id="tfa_922" class="">Somewhat likely</option>
+<option value="tfa_923" id="tfa_923" class="">Neutral</option>
+<option value="tfa_924" id="tfa_924" data-conditionals="#tfa_950" class="">Somewhat unlikely</option>
+<option value="tfa_925" id="tfa_925" data-conditionals="#tfa_950" class="">Very unlikely</option></select></div>
+</div>
+<div id="tfa_950-D" class="oneField     ">
+<label id="tfa_950-L" for="tfa_950" class="label preField ">Please explain:</label><br><div class=""><textarea maxlength="250" id="tfa_950" name="tfa_950" data-condition=" `#tfa_924` OR `#tfa_925` " title="Please explain:" class=""></textarea></div>
+</div>
+<div id="tfa_926-D" class="oneField     ">
+<label id="tfa_926-L" for="tfa_926" class="label preField reqMark">How likely are you to recommend Team Fox to others looking to get involved with MJFF?</label><br><div class=""><select id="tfa_926" name="tfa_926" title="How likely are you to recommend Team Fox to others looking to get involved with MJFF?" class="required form-control"><option value="">Please select...</option>
+<option value="tfa_927" id="tfa_927" class="">Very likely</option>
+<option value="tfa_928" id="tfa_928" class="">Somewhat likely</option>
+<option value="tfa_929" id="tfa_929" class="">Neutral</option>
+<option value="tfa_930" id="tfa_930" data-conditionals="#tfa_951" class="">Somewhat unlikely</option>
+<option value="tfa_931" id="tfa_931" data-conditionals="#tfa_951" class="">Very unlikely</option></select></div>
+</div>
+<div id="tfa_951-D" class="oneField     ">
+<label id="tfa_951-L" for="tfa_951" class="label preField ">Please explain:</label><br><div class=""><textarea maxlength="250" id="tfa_951" name="tfa_951" data-condition=" `#tfa_930` OR `#tfa_931` " title="Please explain:" class=""></textarea></div>
+</div>
+<div id="tfa_932-D" class="oneField     ">
+<label id="tfa_932-L" for="tfa_932" class="label preField reqMark">How often do you hear from Team Fox via email?</label><br><div class=""><select id="tfa_932" name="tfa_932" title="How often do you hear from Team Fox via email?" class="required form-control"><option value="">Please select...</option>
+<option value="tfa_933" id="tfa_933" class="">Too much</option>
+<option value="tfa_934" id="tfa_934" class="">Just enough</option>
+<option value="tfa_935" id="tfa_935" class="">Not enough</option></select></div>
+</div>
+<div id="tfa_936-D" class="oneField     ">
+<label id="tfa_936-L" for="tfa_936" class="label preField reqMark">What type of content are you most interested in?</label><br><div class=""><select id="tfa_936" name="tfa_936" title="What type of content are you most interested in?" class="required form-control"><option value="">Please select...</option>
+<option value="tfa_937" id="tfa_937" class="">Member highlights</option>
+<option value="tfa_938" id="tfa_938" class="">Upcoming member events and how to participate</option>
+<option value="tfa_939" id="tfa_939" class="">Research updates</option>
+<option value="tfa_940" id="tfa_940" class="">Tips and tricks for fundraising and/or event planning</option>
+<option value="tfa_941" id="tfa_941" data-conditionals="#tfa_942" class="">Other</option></select></div>
+</div>
+<div id="tfa_942-D" class="oneField     ">
+<label id="tfa_942-L" for="tfa_942" class="label preField reqMark">Please specify:</label><br><div class=""><textarea maxlength="250" id="tfa_942" name="tfa_942" data-condition="`#tfa_941`" title="Please specify:" class="required"></textarea></div>
+</div>
+<div id="tfa_943-D" class="oneField     ">
+<label id="tfa_943-L" for="tfa_943" class="label preField reqMark">Have you utilized the Foundation's <i>MJFF in your Area</i> web feature to identify other local events or to connect with Team Fox members in your area?</label><br><div class=""><span id="tfa_943" class="choices horizontal required"><span class="oneChoice"><input type="radio" value="tfa_944" class="" id="tfa_944" name="tfa_943"><label class="label postField" id="tfa_944-L" for="tfa_944">Yes</label></span><span class="oneChoice"><input type="radio" value="tfa_945" class="" id="tfa_945" name="tfa_943"><label class="label postField" id="tfa_945-L" for="tfa_945">No</label></span></span></div>
+</div>
+<div id="tfa_948-D" class="oneField     ">
+<label id="tfa_948-L" for="tfa_948" class="label preField ">I joined Team Fox because ________________. (Responses may be featured on Team Fox materials and social channel posts.)</label><br><div class=""><textarea maxlength="250" id="tfa_948" name="tfa_948" title="I joined Team Fox because ________________ (Responses may be featured on Team Fox materials and social channel posts.)" class=""></textarea></div>
+</div>
+<div id="tfa_946-D" class="oneField     ">
+<label id="tfa_946-L" for="tfa_946" class="label preField ">If you had to give a fundraising tip to a new Team Fox member - what would you share with this person?</label><br><div class=""><textarea maxlength="250" id="tfa_946" name="tfa_946" title="If you had to give a fundraising tip to a new Team Fox member - what would you share with this person?" class=""></textarea></div>
+</div>
+<div id="tfa_947-D" class="oneField     ">
+<label id="tfa_947-L" for="tfa_947" class="label preField ">Any other suggestions or comments?</label><br><div class=""><textarea maxlength="250" id="tfa_947" name="tfa_947" title="Any other suggestions or comments?" class=""></textarea></div>
+</div>
+<div class="actions" id="tfa_0-A"><input type="submit" class="primaryAction" value="Submit"></div>
+<div style="clear:both"></div>
+<input type="hidden" value="409280" name="tfa_dbFormId" id="tfa_dbFormId"><input type="hidden" value="" name="tfa_dbResponseId" id="tfa_dbResponseId"><input type="hidden" value="93ab06b19ff36b78aea61cc8e980b6ac" name="tfa_dbControl" id="tfa_dbControl"><input type="hidden" value="4" name="tfa_dbVersionId" id="tfa_dbVersionId"><input type="hidden" value="" name="tfa_switchedoff" id="tfa_switchedoff">
+</form>
+</div></div>
+
+</div>
+<p>Thanks for your feedback and all your support for MJFF's ongoing efforts to speed a cure for Parkinson's!</p>
