@@ -1,0 +1,139 @@
+<p><img src="/files/TDF_Infographic.jpg" style="width: 100%;" /></p>
+<div class="slideInShare" style="display: block; width: 50%; float: left;">
+<p class="intro">Help us raise awareness about the need for a cure.</p>
+<div id="social" style="background: none; height: 50px; width: 255px; vertical-align: top;">Share: <a href="https://twitter.com/intent/tweet?original_referer=https%3A%2F%2Fwww.michaeljfox.org%2Fpledge&amp;text=Find%20your%20summit%20with%20Tour%20de%20Fox.%20Learn%20about%20%23Parkinsons%20and%20how%20%40MichaelJFoxOrg%20is%20speeding%20a%20cure%3A%20http%3A%2F%2Fbit.ly%2F1Qbn769" class="zocial icon twitter popup">Tweet this page</a> <a href="https://www.pinterest.com/pin/create/button/?url=https%3A%2F%2Fwww.michaeljfox.org%2Fpage.html%3Ftour-de-fox-infographic&amp;media=https%3A%2F%2Fwww.michaeljfox.org%2Ffiles%2FTDF_Infographic.jpg&amp;description=Find%20your%20summit%20with%20Tour%20de%20Fox.%20Learn%20about%20Parkinson%E2%80%99s%20and%20how%20The%20Michael%20J.%20Fox%20Foundation%20is%20speeding%20a%20cure." class="zocial pinterest icon popup">Pin this</a><a href="javascript:void(0)" class="zocial facebook icon" onclick="share_prompt()">Facebook</a></div>
+</div>
+<div class="slideInShare" style="display: block; width: 50%; float: left;">
+<p class="intro">Join us in the search for a cure for Parkinson’s disease.</p>
+<div><iframe width="" height="60" src="/util/form-assembly-tourdefoxinfographic.html" frameborder="0"></iframe></div>
+<p style="font-size: 0.7em; float: left; color: #ccc;">By submitting your email, you agree to receive messages from the Michael J. Fox Foundation.</p>
+</div>
+<p>
+<script type="text/javascript">// <![CDATA[
+$(document).ready(function(){
+$('.action-bar-full').hide();
+});
+// ]]></script>
+<script type="text/javascript">// <![CDATA[
+(function($){ 		  
+	$.fn.popupWindow = function(instanceSettings){
+		
+		return this.each(function(){
+		
+		$(this).click(function(){
+		
+		$.fn.popupWindow.defaultSettings = {
+			centerBrowser:0, // center window over browser window? {1 (YES) or 0 (NO)}. overrides top and left
+			centerScreen:0, // center window over entire screen? {1 (YES) or 0 (NO)}. overrides top and left
+			height:500, // sets the height in pixels of the window.
+			left:0, // left position when the window appears.
+			location:0, // determines whether the address bar is displayed {1 (YES) or 0 (NO)}.
+			menubar:0, // determines whether the menu bar is displayed {1 (YES) or 0 (NO)}.
+			resizable:0, // whether the window can be resized {1 (YES) or 0 (NO)}. Can also be overloaded using resizable.
+			scrollbars:0, // determines whether scrollbars appear on the window {1 (YES) or 0 (NO)}.
+			status:0, // whether a status line appears at the bottom of the window {1 (YES) or 0 (NO)}.
+			width:500, // sets the width in pixels of the window.
+			windowName:null, // name of window set from the name attribute of the element that invokes the click
+			windowURL:null, // url used for the popup
+			top:0, // top position when the window appears.
+			toolbar:0 // determines whether a toolbar (includes the forward and back buttons) is displayed {1 (YES) or 0 (NO)}.
+		};
+		
+		settings = $.extend({}, $.fn.popupWindow.defaultSettings, instanceSettings || {});
+		
+		var windowFeatures =    'height=' + settings.height +
+								',width=' + settings.width +
+								',toolbar=' + settings.toolbar +
+								',scrollbars=' + settings.scrollbars +
+								',status=' + settings.status + 
+								',resizable=' + settings.resizable +
+								',location=' + settings.location +
+								',menuBar=' + settings.menubar;
+
+				settings.windowName = this.name || settings.windowName;
+				settings.windowURL = this.href || settings.windowURL;
+				var centeredY,centeredX;
+			
+				if(settings.centerBrowser){
+						
+					if ($.browser.msie) {//hacked together for IE browsers
+						centeredY = (window.screenTop - 120) + ((((document.documentElement.clientHeight + 120)/2) - (settings.height/2)));
+						centeredX = window.screenLeft + ((((document.body.offsetWidth + 20)/2) - (settings.width/2)));
+					}else{
+						centeredY = window.screenY + (((window.outerHeight/2) - (settings.height/2)));
+						centeredX = window.screenX + (((window.outerWidth/2) - (settings.width/2)));
+					}
+					window.open(settings.windowURL, settings.windowName, windowFeatures+',left=' + centeredX +',top=' + centeredY).focus();
+				}else if(settings.centerScreen){
+					centeredY = (screen.height - settings.height)/2;
+					centeredX = (screen.width - settings.width)/2;
+					window.open(settings.windowURL, settings.windowName, windowFeatures+',left=' + centeredX +',top=' + centeredY).focus();
+				}else{
+					window.open(settings.windowURL, settings.windowName, windowFeatures+',left=' + settings.left +',top=' + settings.top).focus();	
+				}
+				return false;
+			});
+			
+		});	
+	};
+})(jQuery);
+// ]]></script>
+<script src="https://connect.facebook.net/en_US/all.js" type="text/javascript"></script>
+</p>
+<div id="fb-root"></div>
+<p>
+<script type="text/javascript">// <![CDATA[
+function share_prompt()
+{
+
+FB.ui(
+  {
+   method: 'feed',
+   name: 'Find your summit with Tour de Fox.',
+   caption: 'https://www.michaeljfox.org/page.html?tour-de-fox-infographic',
+   description: 'More than 5 million people worldwide are living with Parkinson’s disease, the chronic, degenerative neurological disorder that affects one in 100 people over age 60. There is no cure for Parkinson’s disease today, but The Michael J. Fox Foundation is working urgently to change that and you can help.',
+   link: 'https://www.michaeljfox.org/page.html?tour-de-fox-infographic',
+   picture: 'https://www.michaeljfox.org/files/TDF_Infographic.jpg'
+  }
+);
+ }
+// ]]></script>
+<script type="text/javascript">// <![CDATA[
+$('.popup').popupWindow({ 
+height:300, 
+width:600,
+centerScreen:1
+});
+// ]]></script>
+</p>
+<div id="signupPop" style="display: none;"><form id="getnews" name="getnews" action="#">
+<h2>Sign up for Parkinson's Updates</h2>
+<p class="sm">Research and foundation news straight to your inbox.</p>
+<p class="pad5b"><input id="generalltr" name="nwsltr" type="text" value="My email is..." class="popupTextInput" maxlength="100" onclick="if(this.value=='My email is...')this.value=''" /> <input id="foxFlashSubmit" type="submit" class="btn" alt="Submit" onclick="return conviogeneral();" title="Submit" /></p>
+<div id="newsGeneralResult">
+<p class="no-pad"></p>
+</div>
+<div class="clearit"></div>
+<div id="loading-image-overlay-general" style="display: none;"></div>
+<div id="loading-image-general" style="display: none;"></div>
+</form></div>
+<p><a href="#signupPop" style="display: none;" id="popMe" class="fancybox">Pop me</a></p>
+<p>
+<script type="text/javascript">// <![CDATA[
+function popFunction() {		
+			 $("#popMe").trigger('click');
+			 $.cookie("signupCookie", 'viewed', { expires : 365 });
+			}
+
+	$(document).ready(function() {
+		visitTest = $.cookie('signupCookie');
+		if( /Android|webOS|iPhone|iPad|iPod|BlackBerry/i.test(navigator.userAgent) ){
+			visitTest = 'viewed';
+		}
+		
+		if (visitTest != 'viewed'){
+			setTimeout('popFunction()', 4000);
+			}
+	});
+// ]]></script>
+</p>
