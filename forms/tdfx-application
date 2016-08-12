@@ -1,0 +1,173 @@
+<p>TDFX events are available for advanced climbers and cyclists only and have a fundraising minimum requirement. Tell us a little more about yourself and the TDFX event you would like to apply for on the right. Please note, submitting this form does not guarantee participation in the event. A staff member will be in touch shortly with more information and next steps.</p>
+<script type="text/javascript">// <![CDATA[
+$(".headerLogo img").attr("src", "https://www.michaeljfox.org/files/TOUR_DE_FOX_LOGO_HORIZ-v2.jpg");
+$(".headerLogo img").width("300px");
+// ]]></script>
+
+<!-- FORM: HEAD SECTION -->
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link href="https://www.tfaforms.com/form-builder/4.2.0/css/wforms-layout.css" rel="stylesheet" type="text/css" />
+<!--[if IE 8]>
+<link href="https://www.tfaforms.com/form-builder/4.2.0/css/wforms-layout-ie8.css" rel="stylesheet" type="text/css" />
+<![endif]-->
+<!--[if IE 7]>
+<link href="https://www.tfaforms.com/form-builder/4.2.0/css/wforms-layout-ie7.css" rel="stylesheet" type="text/css" />
+<![endif]-->
+<!--[if IE 6]>
+<link href="https://www.tfaforms.com/form-builder/4.2.0/css/wforms-layout-ie6.css" rel="stylesheet" type="text/css" />
+<![endif]-->
+
+<link href="https://www.tfaforms.com/themes/get/32851" rel="stylesheet" type="text/css" />
+<link href="https://www.tfaforms.com/form-builder/4.2.0/css/wforms-jsonly.css" rel="alternate stylesheet" title="This stylesheet activated by javascript" type="text/css" />
+<script type="text/javascript" src="https://www.tfaforms.com/wForms/3.8/js/wforms.js"></script>
+<script type="text/javascript">wFORMS.behaviors.prefill.skip = false;</script>
+<script type="text/javascript" src="https://www.tfaforms.com/wForms/3.8/js/localization-en_US.js"></script>
+
+<!-- FORM: BODY SECTION -->
+<div class="wFormContainer"  >
+
+    <div class="">
+        <div class="wForm" id="tfa_0-WRPR" dir="ltr">
+            <div class="codesection" id="code-tfa_0"></div>
+            <form method="post" action="https://www.tfaforms.com/responses/processor" class="hintsBelow labelsAbove" id="tfa_0">
+                <div id="tfa_12-D" class="oneField form-group col-xs-12">
+                    <label id="tfa_12-L" for="tfa_12" class="label preField ">Which Tour de Fox Extreme event are you interested in?</label>
+                    <br>
+                    <div>
+                        <span id="tfa_12" class="choices vertical ">
+                            <span class="oneChoice">
+                                <input type="checkbox" value="tfa_27" class="" id="tfa_27" name="tfa_27">
+                                <label class="label postField" id="tfa_27-L" for="tfa_27">Mt. Marcy (NY) - June 8</label>
+                            </span>
+                        <span id="tfa_12" class="choices vertical required">
+                            <span class="oneChoice">
+                                <input type="checkbox" value="tfa_14" class="" id="tfa_14" name="tfa_14">
+                                <label class="label postField" id="tfa_14-L" for="tfa_14">Gannett Peak Climb (WY) - July 17-20</label>
+                            </span>
+                            <span class="oneChoice">
+                                <input type="checkbox" value="tfa_19" class="" id="tfa_19" name="tfa_19">
+                                <label class="label postField" id="tfa_19-L" for="tfa_19">
+                                    Grand Teton and Yellowstone National Parks Ride (WY, MT) - July 21-22
+                                </label>
+                            </span>
+                            <span class="oneChoice">
+                                <input type="checkbox" value="tfa_15" class="" id="tfa_15" name="tfa_15">
+                                <label class="label postField" id="tfa_15-L" for="tfa_15">Granite Peak Climb (MT) - July 23-24</label>
+                            </span>
+                            <span class="oneChoice">
+                                <input type="checkbox" value="tfa_16" class="" id="tfa_16" name="tfa_16">
+                                <label class="label postField" id="tfa_16-L" for="tfa_16">Mt. Whitney Climb (CA) - August 19-21</label>
+                            </span>
+                            <span class="oneChoice">
+                                <input type="checkbox" value="tfa_17" class="" id="tfa_17" name="tfa_17">
+                                <label class="label postField" id="tfa_17-L" for="tfa_17">Mt. Hood Ride and Climb (OR) - September 2-3</label>
+                            </span>
+                            <span class="oneChoice">
+                                <input type="checkbox" value="tfa_18" class="" id="tfa_18" name="tfa_18">
+                                <label class="label postField" id="tfa_18-L" for="tfa_18">Mt. Rainier Climb (WA) - September 4-7</label>
+                            </span>
+                        </span>
+                    </div>
+                </div>
+                <div class="htmlSection" id="tfa_26">
+                    <div class="htmlContent" id="tfa_26-HTML"> <b style="vertical-align: top; color: rgb(255, 0, 0);">Death Valley Ride (CA) - at capacity
+                            <br> <b style="vertical-align: top;">Grand Canyon Run (AZ) - at capacity</b>
+                            <br></b>
+                    </div>
+                </div>
+                <div id="tfa_1-D" class="oneField form-group col-xs-12">
+                    <label id="tfa_1-L" for="tfa_1" class="label preField ">First Name</label>
+                    <br>
+                    <div>
+                        <input type="text" id="tfa_1" name="tfa_1" value="" placeholder="" class="col-xs-12 form-control"></div>
+                </div>
+                <div id="tfa_4-D" class="oneField form-group col-xs-12">
+                    <label id="tfa_4-L" for="tfa_4" class="label preField ">Last Name</label>
+                    <br>
+                    <div>
+                        <input type="text" id="tfa_4" name="tfa_4" value="" placeholder="" class="col-xs-12 form-control"></div>
+                </div>
+                <div id="tfa_2-D" class="oneField form-group col-xs-12">
+                    <label id="tfa_2-L" for="tfa_2" class="label preField ">Email</label>
+                    <br>
+                    <div>
+                        <input type="text" id="tfa_2" name="tfa_2" value="" placeholder="" class="col-xs-12 form-control"></div>
+                </div>
+                <div id="tfa_3-D" class="oneField form-group col-xs-12">
+                    <label id="tfa_3-L" for="tfa_3" class="label preField ">Phone Number</label>
+                    <br>
+                    <div>
+                        <input type="text" id="tfa_3" name="tfa_3" value="" placeholder="" class="col-xs-12 form-control"></div>
+                </div>
+                <div id="tfa_5-D" class="oneField form-group col-xs-12">
+                    <label id="tfa_5-L" for="tfa_5" class="label preField col-xs-12" style="white-space: inherit;">
+                        Do you consider yourself an experienced outdoorsperson and/or cyclist with advanced skills in climbing and/or biking?
+                    </label>
+                    <br>
+                    <div style="clear: both;">
+                        <span id="tfa_5" class="choices vertical ">
+                            <span class="oneChoice">
+                                <input type="radio" value="tfa_6" class="" id="tfa_6" name="tfa_5">
+                                <label class="label postField" id="tfa_6-L" for="tfa_6">
+                                    Yes, I am an experienced outdoorsperson with advanced climbing and/or cyclist.
+                                </label>
+                            </span>
+                            <span class="oneChoice">
+                                <input type="radio" value="tfa_24" class="" id="tfa_24" name="tfa_5">
+                                <label class="label postField" id="tfa_24-L" for="tfa_24">I have some experience with climbing and/or cycling.</label>
+                            </span>
+                            <span class="oneChoice">
+                                <input type="radio" value="tfa_23" class="" id="tfa_23" name="tfa_5">
+                                <label class="label postField" id="tfa_23-L" for="tfa_23">I am a beginner climber and/or cyclist.</label>
+                            </span>
+                        </span>
+                    </div>
+                </div>
+                <div class="htmlSection" id="tfa_28">
+                    <div class="htmlContent" id="tfa_28-HTML">
+                        ______________________________________________________________________________________
+                    </div>
+                </div>
+                <div id="tfa_9-D" class="oneField form-group col-xs-12">
+                    <div>
+                        <span id="tfa_9" class="choices vertical ">
+                            <span class="oneChoice">
+                                <input type="checkbox" value="tfa_10" class="" id="tfa_10" name="tfa_10">
+                                <label class="label postField" id="tfa_10-L" for="tfa_10">
+
+                                    <!--[if gte mso 9]>
+                                    <![endif]-->
+
+                                    <!--[if gte mso 9]>
+                                    <![endif]-->
+                                    <!--[if gte mso 9]>
+                                    <![endif]-->
+
+                                    <!--[if gte mso 10]>
+
+                                    <![endif]-->
+
+                                    <!--StartFragment-->
+                                    <span>
+                                        I have read the description for the event(s) on the<a href="http://www2.michaeljfox.org/site/TR/Athletic/General?pg=complist&amp;fr_id=1440" style="color:#f77f00;"> Tour schedule page</a>, understand the risks involved, and have the skills needed to complete it.
+                                    </span>
+                                    <!--EndFragment--> </label>
+                            </span>
+                        </span>
+                    </div>
+                </div>
+                <div class="actions" id="tfa_0-A">
+                    <input type="submit" class="primaryAction" value="Submit"></div>
+                <div style="clear:both"></div>
+                <input type="hidden" value="354923" name="tfa_dbFormId" id="tfa_dbFormId">
+                <input type="hidden" value="" name="tfa_dbResponseId" id="tfa_dbResponseId">
+                <input type="hidden" value="93d2979ec05d2c8436f729cc3b892173" name="tfa_dbControl" id="tfa_dbControl">
+                <input type="hidden" value="16" name="tfa_dbVersionId" id="tfa_dbVersionId">
+                <input type="hidden" value="" name="tfa_switchedoff" id="tfa_switchedoff"></form>
+        </div>
+    </div>
+
+</div>
+
+<p>We will reach out to you shortly with more information about your application status and the event you've selected to participate in. In the meantime, share Tour de Fox with your friends and family:</p>
