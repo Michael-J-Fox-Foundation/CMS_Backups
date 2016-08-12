@@ -1,0 +1,66 @@
+<h1>Fox Investigation for New Discovery of Biomarkers</h1>
+<p>Launched in 2012, the Fox Investigation for New Discovery of Biomarkers, or BioFIND, is an observational clinical study to seek out and verify biomarkers of Parkinson's – disease indicators that are crucial to progress toward a cure. Born of a first-in-kind collaboration between The Michael J. Fox Foundation and the National Institute of Neurological Disorders and Stroke (NINDS), part of the National Institutes of Health, BioFIND is seeking volunteers with and without Parkinson's to participate in this critical research.</p>
+<h2>PLAY A PART IN BIOFIND</h2>
+<p>Participation in BioFIND requires only two visits to a clinical site in a two-week period. The visits will include a combination of clinical assessments, sample collection and written surveys. With the aim to complete recruitment as soon as possible, BioFIND needs volunteers now.</p>
+<h2>ARE YOU ELIGIBLE?</h2>
+<p>BioFIND is looking for…</p>
+<table style="margin-bottom: 10px;" class="studyDesignTable">
+<tbody>
+<tr>
+<td class="bold">Type</td>
+<td class="bold">Gender</td>
+<td class="bold">Age</td>
+<td class="bold">PD Status</td>
+</tr>
+<tr>
+<td>People with PD</td>
+<td>Males and Females</td>
+<td>55-93</td>
+<td>5-18 years since onset of motor symptoms</td>
+</tr>
+<tr>
+<td>Control Volunteers</td>
+<td>Males</td>
+<td>55-93</td>
+<td>No first-degree relatives with PD</td>
+</tr>
+<tr>
+<td>Control Volunteers</td>
+<td>Females</td>
+<td>66-93</td>
+<td>No first-degree relatives with PD</td>
+</tr>
+</tbody>
+</table>
+<h2>CONTACT A BIOFIND SITE:</h2>
+<p>Contact a BioFIND site near you to learn more about the study and determine if it is a good fit for you.</p>
+<div style="width: 45%; display: inline-block; vertical-align: top;">
+<p><b>Birmingham, Alabama</b> <br /><span>Jeff Worrell</span><br /><span>University of Alabama at Birmingham</span><br /><a href="mailto:jworrell@uab.edu" class="orange bold" target="_blank">jworrell@uab.edu</a><a href="mailto:Raszk001@umn.edu" class="orange bold"><br /></a><span>205-996-4034</span></p>
+<p><b>Boston, Massachusetts</b> <br />Ray James <br />Boston University Medical Center <br /><a href="mailto:rcjames@bu.edu" class="orange bold">rcjames@bu.edu</a></p>
+<p><b>Chicago, Illinois</b> <br />University of Chicago <br /><a href="mailto:move@uchicago.edu" class="orange bold">move@uchicago.edu</a><br />773-702-3038</p>
+<p><b>Chicago, Illinois</b> <br />Courtney Timms<br />Rush University Medical Center <br /><a href="mailto:jjaglin2@rush.edu" class="orange bold"></a><a href="mailto:Courtney_timms@rush.edu" class="orange bold">Courtney_timms@rush.edu</a><br />312-563-2698</p>
+</div>
+<div style="width: 45%; display: inline-block; vertical-align: top;">
+<p><b><b>Minneapolis, Minnesota</b> <br /></b>Christa Raszkowski, CCRP <br />University of Minnesota Medical Center <br /><a href="mailto:Raszk001@umn.edu" class="orange bold">Raszk001@umn.edu</a><a href="mailto:Raszk001@umn.edu" class="orange bold"><br /></a>612-624-7745</p>
+<p><b>New York, New York</b> <br />Christopher Liong <br />Columbia University Medical Center <br /><a href="mailto:cl3327@columbia.edu" class="orange bold">cl3327@columbia.edu</a> <br />212-305-4233</p>
+<p><b>New York, New York</b> <br />James Carter <br />Weill Medical College of Cornell University <br /><a href="mailto:jac3003@med.cornell.edu" class="orange bold">jac3003@med.cornell.edu</a> <br />212-746-2474</p>
+<p><b>Portland, Oregon</b> <br />Alicia Portillo<br />Oregon Health and Science University (OHSU) <br /><a href="mailto:portillo@ohsu.edu" class="orange bold">portillo@ohsu.edu</a><br />503-494-1382</p>
+<p></p>
+</div>
+<h2>Not Eligible? Spread the Word:</h2>
+<p>You can help BioFIND recruit volunteers by sharing this page with family, friends and your social networks.</p>
+<p><a href="javascript:void(0)" class="zocial icon facebook" onclick="share_prompt();">Share on Facebook</a> <a href="https://twitter.com/home?status=Spread%20the%20word:%20a%20%23Parkinsons%20disease%20study%20needs%20volunteers%20w/%20%26%20w/o%20%23Parkinsons%20at%20sites%20around%20the%20US:%20www.michaeljfox.org/biofindstudy" class="zocial icon twitter">Share on Twitter</a> <a href="mailto:?subject=Parkinson's Study Recruiting Volunteers With and Without Parkinson's&amp;body=Spread the word: An observational study to learn more about Parkinson's needs volunteers. Men ages 55-93 and women ages 66-93 may qualify. www.michaeljfox.org/biofindstudy" class="zocial icon email">Share via Email</a></p>
+<script type="text/javascript">// <![CDATA[
+function share_prompt() {
+    FB.ui(
+      {
+       method: "feed",
+       name: "Parkinson's Study Recruiting Volunteers With and Without Parkinson's",
+       caption: "www.michaeljfox.org",
+       description: "Spread the word: An observational study to learn more about Parkinson's needs volunteers. Men ages 55-93 and women ages 66-93 may qualify.",
+       link: "www.michaeljfox.org/biofindstudy",
+       picture: "https://www.michaeljfox.org/files/fb-beakers.jpg",
+      }
+    );
+  }
+// ]]></script>
