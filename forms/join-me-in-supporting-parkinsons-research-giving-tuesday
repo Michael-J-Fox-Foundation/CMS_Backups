@@ -1,0 +1,81 @@
+<p style="font-size: 20px;"><strong>Giving Tuesday celebrates giving back in whatever way you can. Watch the video to learn more, then say you'll join us this year.</strong></p>
+<p><iframe width="400" height="225" src="https://www.youtube.com/embed/9QKdgMdpcGY?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allowfullscreen=""></iframe></p>
+
+<!-- FORM: HEAD SECTION -->
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<script type="text/javascript" src="https://www.tfaforms.com/wForms/3.7/js/wforms.js"></script>
+<script type="text/javascript">wFORMS.behaviors.prefill.skip = false;</script>
+<script type="text/javascript" src="https://www.tfaforms.com/wForms/3.7/js/localization-en_US.js"></script>
+
+<!-- FORM: BODY SECTION -->
+<div class="wFormContainer"  >
+    <div class="">
+        <div id="tfa_0-WRPR" dir="ltr">
+            <div class="codesection" id="code-tfa_0"></div>
+            <form method="post" action="https://www.tfaforms.com/responses/processor" class="hintsBelow labelsAbove giving-tuesday" id="tfa_0">
+                <div id="tfa_4" class="">
+                    <div id="tfa_3-D" class="form-group htmlSection">
+                        <label id="tfa_3-L" for="tfa_3" class="col-xs-12">First Name</label>
+                        <div class="col-xs-12">
+                            <input type="text" id="tfa_3" name="tfa_3" value="" placeholder="" class="required form-control">
+                        </div>
+                    </div>
+                    <div id="tfa_2-D" class="form-group">
+                        <label id="tfa_2-L" for="tfa_2" class="col-xs-12 htmlSection">Last Name</label>
+                        <div class="col-xs-12">
+                            <input type="text" id="tfa_2" name="tfa_2" value="" placeholder="" class="required form-control">
+                        </div>
+                    </div>
+                </div>
+                <div id="tfa_6" class="">
+                    <div id="tfa_1-D" class="form-group">
+                        <label id="tfa_1-L" for="tfa_1" class="col-xs-12 htmlSection">Email</label>
+                        <div class="col-xs-12">
+                            <input type="email" id="tfa_1" name="tfa_1" value="" placeholder="" class="required form-control">
+                        </div>
+                    </div>
+                    <div id="tfa_5-D" class="form-group">
+                        <label id="tfa_5-L" for="tfa_5" class="col-xs-12 htmlSection">Zip Code</label>
+                        <div class="col-xs-12">
+                            <input type="text" id="tfa_5" name="tfa_5" value="" placeholder="" class="required form-control">
+                        </div>
+                    </div>
+                </div>
+                <div id="tfa_16-D" class="form-group">
+                    <label id="tfa_16-L" for="tfa_16" class="col-xs-12">Connection to Parkinson's (PD)?</label>
+                    <br>
+                    <div class="col-xs-12">
+                        <select id="tfa_16" name="tfa_16" class="required form-control">
+                            <option value="">Please select...</option>
+                            <option value="tfa_17" id="tfa_17" class="">I have PD</option>
+                            <option value="tfa_18" id="tfa_18" class="">Family Member has PD</option>
+                            <option value="tfa_19" id="tfa_19" class="">Family Member had PD</option>
+                            <option value="tfa_20" id="tfa_20" class="">Friend has PD</option>
+                            <option value="tfa_21" id="tfa_21" class="">Friend had PD</option>
+                            <option value="tfa_22" id="tfa_22" class="">I work with the PD Community</option>
+                            <option value="tfa_23" id="tfa_23" class="">Other</option>
+                        </select>
+                    </div>
+                </div>
+                <div class="htmlSection" id="tfa_15">
+                    <div class="htmlContent col-xs-12" id="tfa_15-HTML">
+                        *By joining, you opt in to receive emails from The Michael J. Fox Foundation. You can unsubscribe at any time.
+                    </div>
+                </div>
+                <input type="hidden" id="tfa_24" name="tfa_24" value="default_source" class="">
+                <input type="hidden" id="tfa_25" name="tfa_25" value="default_subsource" class="">
+                <div class="actions" id="tfa_0-A">
+                    <input type="submit" class="primaryAction" value="Submit"></div>
+                <div style="clear:both"></div>
+                <input type="hidden" value="350322" name="tfa_dbFormId" id="tfa_dbFormId">
+                <input type="hidden" value="" name="tfa_dbResponseId" id="tfa_dbResponseId">
+                <input type="hidden" value="a5862d0fd0f17d41a184bcc80ab3991f" name="tfa_dbControl" id="tfa_dbControl">
+                <input type="hidden" value="3" name="tfa_dbVersionId" id="tfa_dbVersionId">
+                <input type="hidden" value="" name="tfa_switchedoff" id="tfa_switchedoff"></form>
+        </div>
+    </div>
+</div>
+
+<p>Spread the word about Giving Tuesday.</p>
+<p>Share your support for the Foundation on your personal social channels.</p>
