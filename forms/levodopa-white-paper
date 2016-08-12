@@ -1,0 +1,256 @@
+<p>There's bad news and good news for the Parkinson's community: Parkinson's disease is on the rise, but so are better treatments.</p>
+<p>For almost 50 years, we've relied on levodopa (namely Sinemet -- carbidopa/levodopa) as the gold standard of symptomatic therapy of Parkinson's disease. This medication is safe, well-tolerated and effective for motor symptoms but comes with the potential side effect of motor fluctuations. Relatively few updates to this drug have occurred over the years. In early 2015, however, two new formulations were approved and several others are currently in mid-to-late stages of clinical testing.</p>
+<p><strong>Download this article, written by Rachel Dolhun, MD, to read the latest in levodopa therapy relevant to your patients and your practice.</strong></p>
+<p><strong>Read about:</strong></p>
+<ul>
+<li><strong>Benefits and side effects of current drugs</strong></li>
+<li><strong>Latest therapies -- Rytary and Duopa</strong></li>
+<li><strong>Drugs in development -- liquid levodopa and rescue medications</strong></li>
+</ul>
+
+<script>
+$( "h1" ).replaceWith("<h4 class='header'>Free Download: <br>Levodopa 2.0 &mdash; New Strategies to Even Out the Peaks and Valleys</h4>");
+$("#tfa_0-A").hide();
+</script>
+
+<style>
+.header{
+  font-size:2.0em;
+  text-align: center;
+}
+@media only screen and (max-width : 568px) {
+.form-content p, .form-content ul{
+display: none;
+}
+}
+</style>
+<div style="background-color:#f77f00;">
+    <!-- FORM: HEAD SECTION -->
+
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link href="https://www.tfaforms.com/form-builder/4.2.0/css/wforms-layout.css" rel="stylesheet" type="text/css" />
+    <!--[if IE 8]>
+    <link href="https://www.tfaforms.com/form-builder/4.2.0/css/wforms-layout-ie8.css" rel="stylesheet" type="text/css" />
+    <![endif]-->
+    <!--[if IE 7]>
+    <link href="https://www.tfaforms.com/form-builder/4.2.0/css/wforms-layout-ie7.css" rel="stylesheet" type="text/css" />
+    <![endif]-->
+    <!--[if IE 6]>
+    <link href="https://www.tfaforms.com/form-builder/4.2.0/css/wforms-layout-ie6.css" rel="stylesheet" type="text/css" />
+    <![endif]-->
+
+    <link href="https://www.tfaforms.com/themes/get/default" rel="stylesheet" type="text/css" />
+    <link href="https://www.tfaforms.com/form-builder/4.2.0/css/wforms-jsonly.css" rel="alternate stylesheet" title="This stylesheet activated by javascript" type="text/css" />
+    <script type="text/javascript" src="https://www.tfaforms.com/wForms/3.8/js/wforms.js"></script>
+    <script type="text/javascript">wFORMS.behaviors.prefill.skip = false;</script>
+    <script type="text/javascript" src="https://www.tfaforms.com/wForms/3.8/js/localization-en_US.js"></script>
+
+    <!-- FORM: BODY SECTION -->
+   <div>
+
+        <div class="">
+            <div class="wForm" id="tfa_0-WRPR" dir="ltr">
+                <div class="codesection" id="code-tfa_0"></div>
+                <form method="post" action="https://www.tfaforms.com/responses/processor" class="hintsBelow labelsAbove" id="tfa_0">
+                 <div class="col-xs-12" >
+                        <div>
+
+                            <h4 style="text-align: center; font-weight: bold; margin-top: 10px;">
+                                    To download the white paper, tell us a bit about yourself.
+                            </h4>
+                            <h4 style="text-align: center; font-weight: bold;">
+                               We offer educational and practical resources for your patients and your practice.
+                            </h4>
+                        </div>
+                    </div>
+                    <div id="tfa_1-D" class="oneField form-group col-xs-12">
+                        <label id="tfa_1-L" for="tfa_1" class="label preField reqMark">First Name</label>
+                        <br>
+                        <div class="inputWrapper">
+                            <input type="text" id="tfa_1" name="tfa_1" value="" placeholder="" class="col-xs-12 form-control required "></div>
+                    </div>
+                    <div id="tfa_2-D" class="oneField form-group col-xs-12">
+                        <label id="tfa_2-L" for="tfa_2" class="label preField reqMark">Last Name</label>
+                        <br>
+                        <div class="inputWrapper">
+                            <input type="text" id="tfa_2" name="tfa_2" value="" placeholder="" class="col-xs-12 form-control required "></div>
+                    </div>
+                    <div id="tfa_11-D" class="oneField form-group col-xs-12">
+                        <label id="tfa_11-L" for="tfa_11" class="label preField reqMark">Email</label>
+                        <br>
+                        <div class="inputWrapper">
+                            <input type="text" id="tfa_11" name="tfa_11" value="" placeholder="" class="validate-email col-xs-12 form-control required"></div>
+                    </div>
+                    <div id="tfa_12-D" class="oneField form-group col-xs-12">
+                        <label id="tfa_12-L" for="tfa_12" class="label preField reqMark">Zip/Postal Code</label>
+                        <br>
+                        <div class="inputWrapper">
+                            <input type="text" id="tfa_12" name="tfa_12" value="" placeholder="" class="col-xs-12 form-control required "></div>
+                    </div>
+                    <div id="tfa_16-D" class="oneField form-group col-xs-12">
+                        <label id="tfa_16-L" for="tfa_16" class="label preField reqMark">What is your role in PD research/care?</label>
+                        <br>
+                        <div class="">
+                            <span id="tfa_16" class="choices vertical required">
+                                <span class="oneChoice">
+                                    <input type="checkbox" value="tfa_17" class="" id="tfa_17" name="tfa_17">
+                                    <label class="label postField" id="tfa_17-L" for="tfa_17">Clinician/Researcher</label>
+                                </span>
+                                <span class="oneChoice">
+                                    <input type="checkbox" value="tfa_18" class="" id="tfa_18" name="tfa_18">
+                                    <label class="label postField" id="tfa_18-L" for="tfa_18">Community Physician</label>
+                                </span>
+                                <span class="oneChoice">
+                                    <input type="checkbox" value="tfa_19" class="" id="tfa_19" name="tfa_19">
+                                    <label class="label postField" id="tfa_19-L" for="tfa_19">Lab Scientist</label>
+                                </span>
+                                <span class="oneChoice">
+                                    <input type="checkbox" value="tfa_20" class="" id="tfa_20" name="tfa_20">
+                                    <label class="label postField" id="tfa_20-L" for="tfa_20">Research Coordinator/Executive</label>
+                                </span>
+                                <span class="oneChoice">
+                                    <input type="checkbox" value="tfa_21" class="" id="tfa_21" name="tfa_21">
+                                    <label class="label postField" id="tfa_21-L" for="tfa_21">PD Patient or Loved One</label>
+                                </span>
+                                <span class="oneChoice">
+                                    <input type="checkbox" value="tfa_22" class="" id="tfa_22" name="tfa_22">
+                                    <label class="label postField" id="tfa_22-L" for="tfa_22">Other</label>
+                                </span>
+                            </span>
+                        </div>
+                    </div>
+                    <div id="tfa_23-D" class="oneField form-group col-xs-12" style="padding-bottom: 60px;">
+                        <label id="tfa_23-L" for="tfa_23" class="label preField reqMark" style="width: 240px; min-width:0">Credentials (check all that apply)</label>
+                        <br>
+                        <div class="inputWrapper">
+                            <span id="tfa_23" class="choices vertical required">
+                                <span class="oneChoice">
+                                    <input type="checkbox" value="tfa_24" class="" id="tfa_24" name="tfa_24">
+                                    <label class="label postField" id="tfa_24-L" for="tfa_24">MD</label>
+                                </span>
+                                <span class="oneChoice">
+                                    <input type="checkbox" value="tfa_25" class="" id="tfa_25" name="tfa_25">
+                                    <label class="label postField" id="tfa_25-L" for="tfa_25">PhD</label>
+                                </span>
+                                <span class="oneChoice">
+                                    <input type="checkbox" value="tfa_26" class="" id="tfa_26" name="tfa_26">
+                                    <label class="label postField" id="tfa_26-L" for="tfa_26">DO</label>
+                                </span>
+                                <span class="oneChoice">
+                                    <input type="checkbox" value="tfa_27" class="" id="tfa_27" name="tfa_27" data-conditionals="#tfa_28">
+                                    <label class="label postField" id="tfa_27-L" for="tfa_27">Other</label>
+                                </span>
+                            </span>
+                        </div>
+                    </div>
+                    <div id="tfa_28-D" class="oneField form-group col-xs-12">
+                        <label id="tfa_28-L" for="tfa_28" class="label preField " style="width: 220pxpx; min-width:0">Other Credentials (please list all that apply)</label>
+                        <br>
+                        <div class="inputWrapper">
+                            <input type="text" id="tfa_28" name="tfa_28" value="" placeholder="" data-condition="`#tfa_27`" class=""></div>
+                    </div>
+                    <div id="tfa_13-D" class="oneField form-group col-xs-12">
+                        <label id="tfa_13-L" for="tfa_13" class="label preField ">Institution/Company</label>
+                        <br>
+                        <div class="inputWrapper">
+                            <input type="text" id="tfa_13" name="tfa_13" value="" placeholder="" class="col-xs-12 form-control"></div>
+                    </div>
+                    <div>
+                        <div>
+
+                            <p style="text-align:center;">
+                                You're opting in to receive emails from
+                            </p>
+                            <p style="text-align:center;">
+                                The Michael J. Fox Foundation.
+                            </p>
+                            <p style="text-align:center;">
+                                &nbsp;
+                            </p>
+                            <p style="text-align:center;">
+                                You can unsubscribe at any time.
+                            </p>
+                        </div>
+                    </div>
+                    <div class="button actions" id="tfa_0-A-2" style="margin: 0 auto; text-align: center;">
+                        <input type="submit" class="primaryAction" value="Download Now" style="color: white; background-color: black; float:none;">
+                        </div>
+                    <div id="tfa_15" class="col-xs-12">
+                        <div id="tfa_15-HTML">
+                            <p>&nbsp;</p>
+                    <p style="text-align:center;"><a style="color:black; font-size: .8em;" href="https://www.michaeljfox.org/files/MJFF_WhitePaper_Levodopa2015.pdf" target="_blank">No thanks, I'd just like to read the white paper.</a></p>
+                        </div>
+                    </div>
+                    <div style="clear:both"></div>
+                    <input type="hidden" id="tfa_14" name="tfa_14" value="White Paper" class="">
+                    <input type="hidden" id="tfa_15" name="tfa_15" value="Levodopa" class="">
+                    <input type="hidden" id="tfa_29" name="tfa_29" value="1" class="">
+<input type="hidden" id="tfa_33" name="tfa_33" value="digital_marketing_source" class=""><input type="hidden" id="tfa_34" name="tfa_34" value="digital_source_tracking_code" class=""><input type="hidden" id="tfa_35" name="tfa_35" value="web_form_name" class=""><input type="hidden" id="tfa_36" name="tfa_36" value="digital_source_referrer" class="">
+                    <div style="clear:both"></div>
+                    <input type="hidden" value="378288" name="tfa_dbFormId" id="tfa_dbFormId">
+                    <input type="hidden" value="" name="tfa_dbResponseId" id="tfa_dbResponseId">
+                    <input type="hidden" value="60436c1ed625896e332cd8ddcafd488d" name="tfa_dbControl" id="tfa_dbControl">
+                    <input type="hidden" value="2" name="tfa_dbVersionId" id="tfa_dbVersionId">
+                    <input type="hidden" value="" name="tfa_switchedoff" id="tfa_switchedoff"></form>
+            </div>
+        </div>
+    </div>
+</div>
+<style><!--
+/************************************************************************/
+/* 						Site Button Style								*/
+/************************************************************************/
+a.mjffButton, a.mjffButtonSm, input.mjffButton, input.mjffButtonSm {
+	margin-top: 10px;
+    background-color: #f77f00;
+    background: rgb(245,136,0);
+    background: -moz-linear-gradient(top,  rgba(245,136,0,1) 0%, rgba(240,117,0,1) 100%); /* FF3.6+ */
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(245,136,0,1)), color-stop(100%,rgba(240,117,0,1))); /* Chrome,Safari4+ */
+    background: -webkit-linear-gradient(top,  rgba(245,136,0,1) 0%,rgba(240,117,0,1) 100%); /* Chrome10+,Safari5.1+ */
+    background: -o-linear-gradient(top,  rgba(245,136,0,1) 0%,rgba(240,117,0,1) 100%); /* Opera 11.10+ */
+    background: -ms-linear-gradient(top,  rgba(245,136,0,1) 0%,rgba(240,117,0,1) 100%); /* IE10+ */
+    background: linear-gradient(to bottom,  rgba(245,136,0,1) 0%,rgba(240,117,0,1) 100%); /* W3C */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f58800', endColorstr='#f07500',GradientType=0 ); /* IE6-8 */
+    color: white;
+    vertical-align: middle;
+    font-size: 32px;
+    padding: 5px 10px 5px 10px;
+    font-family: 'GibsonRegular', Verdana, Arial, Helvetica, sans-serif;
+    box-shadow:2px 2px 2px rgba(0,0,0,.25);
+    -moz-box-shadow:2px 2px 2px rgba(0,0,0,.25);
+    -o-box-shadow:2px 2px 2px rgba(0,0,0,.25);
+    -webkit-box-shadow:2px 2px 2px rgba(0,0,0,.25);
+    text-shadow: 1px 1px 1px rgba(0,0,0,.25);
+    -webkit-font-smoothing: antialiased;
+    text-decoration:none;
+&#8203;}
+a.mjffButton:hover, input.mjffButton:hover, a.mjffButtonSm:hover {
+    box-shadow:2px 2px 2px rgba(0,0,0,.25), inset 0 0 10px rgba(255,255,255,.75);
+    -moz-box-shadow:2px 2px 2px rgba(0,0,0,.25);
+    -o-box-shadow:2px 2px 2px rgba(0,0,0,.25);
+    -webkit-box-shadow:2px 2px 2px rgba(0,0,0,.25),  inset 0 0 10px rgba(255,255,255,.75);
+    cursor:pointer;
+}
+a.mjffButton:active, input.mjffButton:active, a.mjffButtonSm:active {
+    position:relative;
+    top:2px;
+    box-shadow: inset 0 0 10px rgba(255,255,255,.75);
+    -moz-box-shadow:2px 2px 2px rgba(0,0,0,.25);
+    -o-box-shadow:2px 2px 2px rgba(0,0,0,.25);
+    -webkit-box-shadow:inset 0 0 10px rgba(255,255,255,.75);
+}
+
+a.mjffButtonSm {
+    font-size: 22px;
+}
+input.mjffButton{
+	padding:15px 30px;
+}
+--></style>
+<p>
+<script type="text/javascript">// <![CDATA[
+$( "h1" ).hide();
+// ]]></script>
+</p>
+<h3 style="text-align: center;">Thank you! You may now download the white paper.</h3>
+<p style="text-align: center;"><a href="https://www.michaeljfox.org/files/MJFF_WhitePaper_Levodopa2015.pdf" class="mjffButtonSm">Download White Paper</a></p>
