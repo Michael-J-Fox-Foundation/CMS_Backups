@@ -1,0 +1,2197 @@
+<p>Goal: A variety of assays to measure oligomeric (or aggregated) a-synuclein in biolfluids have been reported in the literature, although conflicting reports highlight the need for a more systematic assessment of their utility. The Michael J. Fox Foundation (MJFF) seeks to better understand the oligomeric synuclein landscape by gathering information about assays that have been tested in cerebral spinal fluid (CSF), blood, and other fluid matrices, as well as antibodies that could be utilized for new assay development. We therefore ask for your assistance in this due diligence effort in sharing information about oligomeric synuclein assay(s) and antibodies that you have utilized, including those that have have “worked” and just as importantly, those that have not. Some assays/antibodies may be chosen for additional investigation/funding opportunities and we thus welcome you to nominate candidates which you believe should be further examined in this context.</p>
+<p>Directions: Please fill out one of these Request For Information (RFI) forms for each assay or antibody that you are able to provide feedback on (including those which have yielded both positive and negative results). MJFF is interested in assays/antibodies developed by academic labs, pharmaceutical or biotech companies (for internal and external use), and those that are commercially available as kits through vendors. Please complete one of these forms per assay/antibody on or before Monday,February 29th, 2016.</p>
+<script>
+      $(document).ready(function(){
+        $(".supportInfo").hide();
+        $("#tfa_4").addClass("form-control");
+        $(".oneField").css('margin-bottom', '15px');
+        $("input[type=text]").addClass("col-xs-12 form-control");
+        $("#tfa_4").addClass("form-control");
+        $('input.primaryAction').css('float', 'left');
+        $('label.label.preField').css(',margin-left', '10px');
+ });
+</script>
+<style>
+.wForm .htmlSection {
+    overflow: auto;
+    border: 2px solid transparent;
+    padding: 0px !important;
+}
+</style>
+<!-- FORM: HEAD SECTION -->
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link href="https://www.tfaforms.com/form-builder/4.3.0/css/wforms-layout.css" rel="stylesheet" type="text/css" />
+<!--[if IE 8]>
+<link href="https://www.tfaforms.com/form-builder/4.3.0/css/wforms-layout-ie8.css" rel="stylesheet" type="text/css" />
+<![endif]-->
+<!--[if IE 7]>
+<link href="https://www.tfaforms.com/form-builder/4.3.0/css/wforms-layout-ie7.css" rel="stylesheet" type="text/css" />
+<![endif]-->
+<!--[if IE 6]>
+<link href="https://www.tfaforms.com/form-builder/4.3.0/css/wforms-layout-ie6.css" rel="stylesheet" type="text/css" />
+<![endif]-->
+
+<link href="https://www.tfaforms.com/themes/get/default" rel="stylesheet" type="text/css" />
+<link href="https://www.tfaforms.com/form-builder/4.3.0/css/wforms-jsonly.css" rel="alternate stylesheet" title="This stylesheet activated by javascript" type="text/css" />
+<script type="text/javascript" src="https://www.tfaforms.com/wForms/3.10/js/wforms.js"></script>
+<script type="text/javascript">wFORMS.behaviors.prefill.skip = false;</script>
+<script type="text/javascript" src="https://www.tfaforms.com/wForms/3.10/js/localization-en_US.js"></script>
+
+<!-- FORM: BODY SECTION -->
+<div class=""  >
+
+    <style type="text/css">
+
+    #tfa_1873,
+    *[id^="tfa_1873["]
+    {
+        width: 250px !important;
+    }
+        
+
+    #tfa_301,
+    *[id^="tfa_301["]
+    {
+        width: 260px !important;
+    }
+        
+
+    #tfa_302,
+    *[id^="tfa_302["]
+    {
+        width: 260px !important;
+    }
+        
+
+    #tfa_1880,
+    *[id^="tfa_1880["]
+    {
+        width: 260px !important;
+    }
+        
+
+    #tfa_1880-L,
+    *[id^="tfa_1880-L["]
+    {
+        width: 310px !important;
+    }
+        
+
+    #tfa_1882,
+    *[id^="tfa_1882["]
+    {
+        width: 380px !important;
+    }
+        
+
+    #tfa_1882-L,
+    *[id^="tfa_1882-L["]
+    {
+        width: 410px !important;
+    }
+        
+
+    #tfa_1884,
+    *[id^="tfa_1884["]
+    {
+        width: 310px !important;
+    }
+        
+
+    #tfa_1884-L,
+    *[id^="tfa_1884-L["]
+    {
+        width: 310px !important;
+    }
+        
+
+    #tfa_1886,
+    *[id^="tfa_1886["]
+    {
+        width: 310px !important;
+    }
+        
+
+    #tfa_1886-L,
+    *[id^="tfa_1886-L["]
+    {
+        width: 210px !important;
+    }
+        
+
+    #tfa_1888,
+    *[id^="tfa_1888["]
+    {
+        width: 310px !important;
+    }
+        
+
+    #tfa_1888-L,
+    *[id^="tfa_1888-L["]
+    {
+        width: 210px !important;
+    }
+        
+
+    #tfa_2179,
+    *[id^="tfa_2179["]
+    {
+        width: 30px !important;
+    }
+        
+
+    #tfa_2179-L,
+    *[id^="tfa_2179-L["]
+    {
+        width: 30px !important;
+    }
+        
+
+    #tfa_1891-L,
+    *[id^="tfa_1891-L["]
+    {
+        width: 60px !important;
+    }
+        
+
+    #tfa_1911,
+    *[id^="tfa_1911["]
+    {
+        width: 150px !important;
+    }
+        
+
+    #tfa_1911-L,
+    *[id^="tfa_1911-L["]
+    {
+        width: 150px !important;
+    }
+        
+
+    #tfa_1912,
+    *[id^="tfa_1912["]
+    {
+        width: 150px !important;
+    }
+        
+
+    #tfa_1912-L,
+    *[id^="tfa_1912-L["]
+    {
+        width: 150px !important;
+    }
+        
+
+    #tfa_1913-L,
+    *[id^="tfa_1913-L["]
+    {
+        width: 60px !important;
+    }
+        
+
+    #tfa_2181,
+    *[id^="tfa_2181["]
+    {
+        width: 30px !important;
+    }
+        
+
+    #tfa_2181-L,
+    *[id^="tfa_2181-L["]
+    {
+        width: 30px !important;
+    }
+        
+
+    #tfa_1909-L,
+    *[id^="tfa_1909-L["]
+    {
+        width: 60px !important;
+    }
+        
+
+    #tfa_1893,
+    *[id^="tfa_1893["]
+    {
+        width: 150px !important;
+    }
+        
+
+    #tfa_1893-L,
+    *[id^="tfa_1893-L["]
+    {
+        width: 150px !important;
+    }
+        
+
+    #tfa_1895,
+    *[id^="tfa_1895["]
+    {
+        width: 150px !important;
+    }
+        
+
+    #tfa_1895-L,
+    *[id^="tfa_1895-L["]
+    {
+        width: 150px !important;
+    }
+        
+
+    #tfa_1899-L,
+    *[id^="tfa_1899-L["]
+    {
+        width: 60px !important;
+    }
+        
+
+    #tfa_2183,
+    *[id^="tfa_2183["]
+    {
+        width: 30px !important;
+    }
+        
+
+    #tfa_2183-L,
+    *[id^="tfa_2183-L["]
+    {
+        width: 30px !important;
+    }
+        
+
+    #tfa_1925-L,
+    *[id^="tfa_1925-L["]
+    {
+        width: 60px !important;
+    }
+        
+
+    #tfa_1927,
+    *[id^="tfa_1927["]
+    {
+        width: 150px !important;
+    }
+        
+
+    #tfa_1927-L,
+    *[id^="tfa_1927-L["]
+    {
+        width: 150px !important;
+    }
+        
+
+    #tfa_1928,
+    *[id^="tfa_1928["]
+    {
+        width: 150px !important;
+    }
+        
+
+    #tfa_1928-L,
+    *[id^="tfa_1928-L["]
+    {
+        width: 150px !important;
+    }
+        
+
+    #tfa_1929-L,
+    *[id^="tfa_1929-L["]
+    {
+        width: 60px !important;
+    }
+        
+
+    #tfa_2185,
+    *[id^="tfa_2185["]
+    {
+        width: 30px !important;
+    }
+        
+
+    #tfa_2185-L,
+    *[id^="tfa_2185-L["]
+    {
+        width: 30px !important;
+    }
+        
+
+    #tfa_1941-L,
+    *[id^="tfa_1941-L["]
+    {
+        width: 60px !important;
+    }
+        
+
+    #tfa_1943,
+    *[id^="tfa_1943["]
+    {
+        width: 150px !important;
+    }
+        
+
+    #tfa_1943-L,
+    *[id^="tfa_1943-L["]
+    {
+        width: 150px !important;
+    }
+        
+
+    #tfa_1944,
+    *[id^="tfa_1944["]
+    {
+        width: 150px !important;
+    }
+        
+
+    #tfa_1944-L,
+    *[id^="tfa_1944-L["]
+    {
+        width: 150px !important;
+    }
+        
+
+    #tfa_1945-L,
+    *[id^="tfa_1945-L["]
+    {
+        width: 60px !important;
+    }
+        
+
+    #tfa_2187,
+    *[id^="tfa_2187["]
+    {
+        width: 30px !important;
+    }
+        
+
+    #tfa_2187-L,
+    *[id^="tfa_2187-L["]
+    {
+        width: 30px !important;
+    }
+        
+
+    #tfa_1957-L,
+    *[id^="tfa_1957-L["]
+    {
+        width: 60px !important;
+    }
+        
+
+    #tfa_1959,
+    *[id^="tfa_1959["]
+    {
+        width: 150px !important;
+    }
+        
+
+    #tfa_1959-L,
+    *[id^="tfa_1959-L["]
+    {
+        width: 150px !important;
+    }
+        
+
+    #tfa_1960,
+    *[id^="tfa_1960["]
+    {
+        width: 150px !important;
+    }
+        
+
+    #tfa_1960-L,
+    *[id^="tfa_1960-L["]
+    {
+        width: 150px !important;
+    }
+        
+
+    #tfa_1961-L,
+    *[id^="tfa_1961-L["]
+    {
+        width: 60px !important;
+    }
+        
+
+    #tfa_2189,
+    *[id^="tfa_2189["]
+    {
+        width: 30px !important;
+    }
+        
+
+    #tfa_2189-L,
+    *[id^="tfa_2189-L["]
+    {
+        width: 30px !important;
+    }
+        
+
+    #tfa_1973-L,
+    *[id^="tfa_1973-L["]
+    {
+        width: 60px !important;
+    }
+        
+
+    #tfa_1975,
+    *[id^="tfa_1975["]
+    {
+        width: 150px !important;
+    }
+        
+
+    #tfa_1975-L,
+    *[id^="tfa_1975-L["]
+    {
+        width: 150px !important;
+    }
+        
+
+    #tfa_1976,
+    *[id^="tfa_1976["]
+    {
+        width: 150px !important;
+    }
+        
+
+    #tfa_1976-L,
+    *[id^="tfa_1976-L["]
+    {
+        width: 150px !important;
+    }
+        
+
+    #tfa_1977-L,
+    *[id^="tfa_1977-L["]
+    {
+        width: 60px !important;
+    }
+        
+
+    #tfa_2013,
+    *[id^="tfa_2013["]
+    {
+        width: 120px !important;
+    }
+        
+
+    #tfa_2013-L,
+    *[id^="tfa_2013-L["]
+    {
+        width: 60px !important;
+    }
+        
+
+    #tfa_1989-L,
+    *[id^="tfa_1989-L["]
+    {
+        width: 60px !important;
+    }
+        
+
+    #tfa_1991,
+    *[id^="tfa_1991["]
+    {
+        width: 150px !important;
+    }
+        
+
+    #tfa_1991-L,
+    *[id^="tfa_1991-L["]
+    {
+        width: 150px !important;
+    }
+        
+
+    #tfa_1992,
+    *[id^="tfa_1992["]
+    {
+        width: 150px !important;
+    }
+        
+
+    #tfa_1992-L,
+    *[id^="tfa_1992-L["]
+    {
+        width: 150px !important;
+    }
+        
+
+    #tfa_1993-L,
+    *[id^="tfa_1993-L["]
+    {
+        width: 60px !important;
+    }
+        
+
+    #tfa_2014,
+    *[id^="tfa_2014["]
+    {
+        width: 530px !important;
+    }
+        
+
+    #tfa_2014-L,
+    *[id^="tfa_2014-L["]
+    {
+        width: 490px !important;
+    }
+        
+
+    #tfa_2016,
+    *[id^="tfa_2016["]
+    {
+        width: 530px !important;
+    }
+        
+
+    #tfa_2016-L,
+    *[id^="tfa_2016-L["]
+    {
+        width: 530px !important;
+    }
+        
+
+    #tfa_2018,
+    *[id^="tfa_2018["]
+    {
+        width: 550px !important;
+    }
+        
+
+    #tfa_2018-L,
+    *[id^="tfa_2018-L["]
+    {
+        width: 550px !important;
+    }
+        
+
+    #tfa_2020,
+    *[id^="tfa_2020["]
+    {
+        width: 610px !important;
+    }
+        
+
+    #tfa_2020-L,
+    *[id^="tfa_2020-L["]
+    {
+        width: 610px !important;
+    }
+        
+
+    #tfa_2022,
+    *[id^="tfa_2022["]
+    {
+        width: 610px !important;
+    }
+        
+
+    #tfa_2022-L,
+    *[id^="tfa_2022-L["]
+    {
+        width: 610px !important;
+    }
+        
+
+    #tfa_2024,
+    *[id^="tfa_2024["]
+    {
+        width: 260px !important;
+    }
+        
+
+    #tfa_2024-L,
+    *[id^="tfa_2024-L["]
+    {
+        width: 260px !important;
+    }
+        
+
+    #tfa_2026,
+    *[id^="tfa_2026["]
+    {
+        width: 260px !important;
+    }
+        
+
+    #tfa_2026-L,
+    *[id^="tfa_2026-L["]
+    {
+        width: 260px !important;
+    }
+        
+
+    #tfa_2029,
+    *[id^="tfa_2029["]
+    {
+        width: 260px !important;
+    }
+        
+
+    #tfa_2029-L,
+    *[id^="tfa_2029-L["]
+    {
+        width: 260px !important;
+    }
+        
+
+    #tfa_2031,
+    *[id^="tfa_2031["]
+    {
+        width: 260px !important;
+    }
+        
+
+    #tfa_2031-L,
+    *[id^="tfa_2031-L["]
+    {
+        width: 260px !important;
+    }
+        
+
+    #tfa_2041-L,
+    *[id^="tfa_2041-L["]
+    {
+        width: 260px !important;
+    }
+        
+
+    #tfa_2044,
+    *[id^="tfa_2044["]
+    {
+        width: 260px !important;
+    }
+        
+
+    #tfa_2044-L,
+    *[id^="tfa_2044-L["]
+    {
+        width: 260px !important;
+    }
+        
+
+    #tfa_2190,
+    *[id^="tfa_2190["]
+    {
+        width: 40px !important;
+    }
+        
+
+    #tfa_2190-L,
+    *[id^="tfa_2190-L["]
+    {
+        width: 40px !important;
+    }
+        
+
+    #tfa_2003-L,
+    *[id^="tfa_2003-L["]
+    {
+        width: 60px !important;
+    }
+        
+
+    #tfa_2005,
+    *[id^="tfa_2005["]
+    {
+        width: 150px !important;
+    }
+        
+
+    #tfa_2005-L,
+    *[id^="tfa_2005-L["]
+    {
+        width: 150px !important;
+    }
+        
+
+    #tfa_2006,
+    *[id^="tfa_2006["]
+    {
+        width: 150px !important;
+    }
+        
+
+    #tfa_2006-L,
+    *[id^="tfa_2006-L["]
+    {
+        width: 150px !important;
+    }
+        
+
+    #tfa_2007-L,
+    *[id^="tfa_2007-L["]
+    {
+        width: 60px !important;
+    }
+        
+
+    #tfa_2192,
+    *[id^="tfa_2192["]
+    {
+        width: 40px !important;
+    }
+        
+
+    #tfa_2192-L,
+    *[id^="tfa_2192-L["]
+    {
+        width: 40px !important;
+    }
+        
+
+    #tfa_2056-L,
+    *[id^="tfa_2056-L["]
+    {
+        width: 60px !important;
+    }
+        
+
+    #tfa_2058,
+    *[id^="tfa_2058["]
+    {
+        width: 150px !important;
+    }
+        
+
+    #tfa_2058-L,
+    *[id^="tfa_2058-L["]
+    {
+        width: 150px !important;
+    }
+        
+
+    #tfa_2059,
+    *[id^="tfa_2059["]
+    {
+        width: 150px !important;
+    }
+        
+
+    #tfa_2059-L,
+    *[id^="tfa_2059-L["]
+    {
+        width: 150px !important;
+    }
+        
+
+    #tfa_2060-L,
+    *[id^="tfa_2060-L["]
+    {
+        width: 60px !important;
+    }
+        
+
+    #tfa_2194,
+    *[id^="tfa_2194["]
+    {
+        width: 40px !important;
+    }
+        
+
+    #tfa_2194-L,
+    *[id^="tfa_2194-L["]
+    {
+        width: 40px !important;
+    }
+        
+
+    #tfa_2070-L,
+    *[id^="tfa_2070-L["]
+    {
+        width: 60px !important;
+    }
+        
+
+    #tfa_2072,
+    *[id^="tfa_2072["]
+    {
+        width: 150px !important;
+    }
+        
+
+    #tfa_2072-L,
+    *[id^="tfa_2072-L["]
+    {
+        width: 150px !important;
+    }
+        
+
+    #tfa_2073,
+    *[id^="tfa_2073["]
+    {
+        width: 150px !important;
+    }
+        
+
+    #tfa_2073-L,
+    *[id^="tfa_2073-L["]
+    {
+        width: 150px !important;
+    }
+        
+
+    #tfa_2074-L,
+    *[id^="tfa_2074-L["]
+    {
+        width: 60px !important;
+    }
+        
+
+    #tfa_2196,
+    *[id^="tfa_2196["]
+    {
+        width: 40px !important;
+    }
+        
+
+    #tfa_2196-L,
+    *[id^="tfa_2196-L["]
+    {
+        width: 40px !important;
+    }
+        
+
+    #tfa_2084-L,
+    *[id^="tfa_2084-L["]
+    {
+        width: 60px !important;
+    }
+        
+
+    #tfa_2086,
+    *[id^="tfa_2086["]
+    {
+        width: 150px !important;
+    }
+        
+
+    #tfa_2086-L,
+    *[id^="tfa_2086-L["]
+    {
+        width: 150px !important;
+    }
+        
+
+    #tfa_2087,
+    *[id^="tfa_2087["]
+    {
+        width: 150px !important;
+    }
+        
+
+    #tfa_2087-L,
+    *[id^="tfa_2087-L["]
+    {
+        width: 150px !important;
+    }
+        
+
+    #tfa_2088-L,
+    *[id^="tfa_2088-L["]
+    {
+        width: 60px !important;
+    }
+        
+
+    #tfa_2198,
+    *[id^="tfa_2198["]
+    {
+        width: 40px !important;
+    }
+        
+
+    #tfa_2198-L,
+    *[id^="tfa_2198-L["]
+    {
+        width: 40px !important;
+    }
+        
+
+    #tfa_2098-L,
+    *[id^="tfa_2098-L["]
+    {
+        width: 60px !important;
+    }
+        
+
+    #tfa_2100,
+    *[id^="tfa_2100["]
+    {
+        width: 150px !important;
+    }
+        
+
+    #tfa_2100-L,
+    *[id^="tfa_2100-L["]
+    {
+        width: 150px !important;
+    }
+        
+
+    #tfa_2101,
+    *[id^="tfa_2101["]
+    {
+        width: 150px !important;
+    }
+        
+
+    #tfa_2101-L,
+    *[id^="tfa_2101-L["]
+    {
+        width: 150px !important;
+    }
+        
+
+    #tfa_2102-L,
+    *[id^="tfa_2102-L["]
+    {
+        width: 60px !important;
+    }
+        
+
+    #tfa_2200,
+    *[id^="tfa_2200["]
+    {
+        width: 40px !important;
+    }
+        
+
+    #tfa_2200-L,
+    *[id^="tfa_2200-L["]
+    {
+        width: 40px !important;
+    }
+        
+
+    #tfa_2112-L,
+    *[id^="tfa_2112-L["]
+    {
+        width: 60px !important;
+    }
+        
+
+    #tfa_2114,
+    *[id^="tfa_2114["]
+    {
+        width: 150px !important;
+    }
+        
+
+    #tfa_2114-L,
+    *[id^="tfa_2114-L["]
+    {
+        width: 150px !important;
+    }
+        
+
+    #tfa_2115,
+    *[id^="tfa_2115["]
+    {
+        width: 150px !important;
+    }
+        
+
+    #tfa_2115-L,
+    *[id^="tfa_2115-L["]
+    {
+        width: 150px !important;
+    }
+        
+
+    #tfa_2116-L,
+    *[id^="tfa_2116-L["]
+    {
+        width: 60px !important;
+    }
+        
+
+    #tfa_2202,
+    *[id^="tfa_2202["]
+    {
+        width: 40px !important;
+    }
+        
+
+    #tfa_2202-L,
+    *[id^="tfa_2202-L["]
+    {
+        width: 40px !important;
+    }
+        
+
+    #tfa_2126-L,
+    *[id^="tfa_2126-L["]
+    {
+        width: 60px !important;
+    }
+        
+
+    #tfa_2128,
+    *[id^="tfa_2128["]
+    {
+        width: 150px !important;
+    }
+        
+
+    #tfa_2128-L,
+    *[id^="tfa_2128-L["]
+    {
+        width: 150px !important;
+    }
+        
+
+    #tfa_2129,
+    *[id^="tfa_2129["]
+    {
+        width: 150px !important;
+    }
+        
+
+    #tfa_2129-L,
+    *[id^="tfa_2129-L["]
+    {
+        width: 150px !important;
+    }
+        
+
+    #tfa_2130-L,
+    *[id^="tfa_2130-L["]
+    {
+        width: 60px !important;
+    }
+        
+
+    #tfa_2204,
+    *[id^="tfa_2204["]
+    {
+        width: 40px !important;
+    }
+        
+
+    #tfa_2204-L,
+    *[id^="tfa_2204-L["]
+    {
+        width: 40px !important;
+    }
+        
+
+    #tfa_2140-L,
+    *[id^="tfa_2140-L["]
+    {
+        width: 60px !important;
+    }
+        
+
+    #tfa_2142,
+    *[id^="tfa_2142["]
+    {
+        width: 150px !important;
+    }
+        
+
+    #tfa_2142-L,
+    *[id^="tfa_2142-L["]
+    {
+        width: 150px !important;
+    }
+        
+
+    #tfa_2143,
+    *[id^="tfa_2143["]
+    {
+        width: 150px !important;
+    }
+        
+
+    #tfa_2143-L,
+    *[id^="tfa_2143-L["]
+    {
+        width: 150px !important;
+    }
+        
+
+    #tfa_2144-L,
+    *[id^="tfa_2144-L["]
+    {
+        width: 60px !important;
+    }
+        
+
+    #tfa_2206,
+    *[id^="tfa_2206["]
+    {
+        width: 40px !important;
+    }
+        
+
+    #tfa_2206-L,
+    *[id^="tfa_2206-L["]
+    {
+        width: 40px !important;
+    }
+        
+
+    #tfa_2154-L,
+    *[id^="tfa_2154-L["]
+    {
+        width: 60px !important;
+    }
+        
+
+    #tfa_2156,
+    *[id^="tfa_2156["]
+    {
+        width: 150px !important;
+    }
+        
+
+    #tfa_2156-L,
+    *[id^="tfa_2156-L["]
+    {
+        width: 150px !important;
+    }
+        
+
+    #tfa_2157,
+    *[id^="tfa_2157["]
+    {
+        width: 150px !important;
+    }
+        
+
+    #tfa_2157-L,
+    *[id^="tfa_2157-L["]
+    {
+        width: 150px !important;
+    }
+        
+
+    #tfa_2158-L,
+    *[id^="tfa_2158-L["]
+    {
+        width: 60px !important;
+    }
+        
+
+    #tfa_2176,
+    *[id^="tfa_2176["]
+    {
+        width: 560px !important;
+    }
+        
+
+    #tfa_2176-L,
+    *[id^="tfa_2176-L["]
+    {
+        width: 560px !important;
+    }
+        
+
+    #tfa_2178,
+    *[id^="tfa_2178["]
+    {
+        width: 560px !important;
+    }
+        
+
+    #tfa_2178-L,
+    *[id^="tfa_2178-L["]
+    {
+        width: 550px !important;
+    }
+        
+    #tfa_2014,
+    *[id^="tfa_2014["]
+    {
+        height: 150px
+    }
+        
+    #tfa_2016,
+    *[id^="tfa_2016["]
+    {
+        height: 100px
+    }
+        
+    #tfa_2018,
+    *[id^="tfa_2018["]
+    {
+        height: 130px
+    }
+        
+    #tfa_2176,
+    *[id^="tfa_2176["]
+    {
+        height: 120px
+    }
+        
+    #tfa_2178,
+    *[id^="tfa_2178["]
+    {
+        height: 110px
+    }
+        </style>
+    <div class="">
+        <div class="wForm" id="tfa_0-WRPR" dir="ltr">
+            <div class="codesection" id="code-tfa_0"></div>
+            <form method="post" action="https://www.tfaforms.com/responses/processor" class="hintsBelow labelsAbove" id="tfa_0">
+                <div class="saveAndResume">
+                    <div class="oneField form-group col-xs-12">
+                        <span class="oneChoice">
+                            <input type="checkbox" id="tfa_saveForLater" name="tfa_saveForLater" value="1" data-conditionals="#saveAndResumeFieldset" autocomplete="off">
+                            <label for="tfa_saveForLater" class="postField">Save my progress and resume later</label>
+                        </span>
+                        |<br />
+                        <a href="http://www.tfaforms.com/forms/resume/410264" onclick="return confirm('Are you sure you want to resume a previous response? Any information you just entered on this page will be discarded.');">Resume a previously saved form</a>
+                    </div>
+                </div>
+                <div class="saveAndResume" id="saveAndResumeFieldset" data-condition="`#tfa_saveForLater`">
+                    <fieldset>
+                        <legend>Resume Later</legend>
+                        <p class="instructions">
+                            In order to be able to resume this form later, please enter your email and choose a password.
+                        </p>
+                        <div class="oneField">
+                            <label class="preField" for="tfa_resumeEmail">Your Email:</label>
+                            <input type="text" value="" name="tfa_resumeEmail" id="tfa_resumeEmail"></div>
+                        <div class="oneField">
+                            <label class="preField" for="tfa_resumePassword">A Password:</label>
+                            <input type="password" value="" name="tfa_resumePassword" id="tfa_resumePassword"></div>
+                        <div class="oneField">
+                            <label class="preField" for="tfa_confirmPassword">Confirm Password:</label>
+                            <input type="password" value="" name="tfa_confirmPassword" id="tfa_confirmPassword"></div>
+                        <div class="actions">
+                            <script type="text/javascript">wFORMS.behaviors.validation.passwordStrength = "low";</script>
+                            <input type="button" class="primaryAction" id="tfa_resumeLater" name="tfa_resumeLater" value="Save"></div>
+                    </fieldset>
+                </div>
+
+                <div id="tfa_147" class="section column group">
+                    <div id="tfa_297" class="section inline group">
+                        <div id="tfa_298-D" class="oneField form-group col-xs-12     ">
+                            <label id="tfa_298-L" for="tfa_298" class="label preField reqMark">First Name</label>
+                            <br>
+                            <div class="">
+                                <input type="text" id="tfa_298" name="tfa_298" value="" placeholder="" title="First Name" class="required"></div>
+                        </div>
+                        <div id="tfa_300-D" class="oneField form-group col-xs-12     ">
+                            <label id="tfa_300-L" for="tfa_300" class="label preField reqMark">Last Name</label>
+                            <br>
+                            <div class="">
+                                <input type="text" id="tfa_300" name="tfa_300" value="" placeholder="" title="Last Name" class="required"></div>
+                        </div>
+                    </div>
+                </div>
+                <div id="tfa_199" class="section column group">
+                    <div id="tfa_1874" class="section inline group">
+                        <div id="tfa_1873-D" class="oneField form-group col-xs-12     ">
+                            <label id="tfa_1873-L" for="tfa_1873" class="label preField reqMark">Email</label>
+                            <br>
+                            <div class="">
+                                <input type="text" id="tfa_1873" name="tfa_1873" value="" placeholder="" title="Email" class="validate-email required"></div>
+                        </div>
+                        <div id="tfa_301-D" class="oneField form-group col-xs-12     ">
+                            <label id="tfa_301-L" for="tfa_301" class="label preField reqMark">Institution</label>
+                            <br>
+                            <div class="">
+                                <input type="text" id="tfa_301" name="tfa_301" value="" placeholder="" title="Institution" class="required"></div>
+                        </div>
+                    </div>
+                    <div id="tfa_1879" class="section inline group">
+                        <div id="tfa_302-D" class="oneField form-group col-xs-12     ">
+                            <label id="tfa_302-L" for="tfa_302" class="label preField ">Assay Name</label>
+                            <br>
+                            <div class="">
+                                <input type="text" id="tfa_302" name="tfa_302" value="" placeholder="" title="Assay Name" class=""></div>
+                        </div>
+                        <div id="tfa_1875-D" class="oneField form-group col-xs-12     ">
+                            <div class="">
+                                <span id="tfa_1875" class="choices vertical ">
+                                    <span class="oneChoice">
+                                        <input type="checkbox" value="tfa_1876" class="" id="tfa_1876" name="tfa_1876">
+                                        <label class="label postField" id="tfa_1876-L" for="tfa_1876">Singleplex</label>
+                                    </span>
+                                    <span class="oneChoice">
+                                        <input type="checkbox" value="tfa_1878" class="" id="tfa_1878" name="tfa_1878">
+                                        <label class="label postField" id="tfa_1878-L" for="tfa_1878">Multiplex</label>
+                                    </span>
+                                </span>
+                            </div>
+                        </div>
+                        <div id="tfa_1880-D" class="oneField form-group col-xs-12     ">
+                            <label id="tfa_1880-L" for="tfa_1880" class="label preField ">Manufacturer &amp; Catalogue # or Originating lab</label>
+                            <br>
+                            <div class="">
+                                <input type="text" id="tfa_1880" name="tfa_1880" value="" placeholder="" title="Manufacturer &amp; Catalogue # or Originating lab" class=""></div>
+                        </div>
+                        <div id="tfa_1882-D" class="oneField form-group col-xs-12     ">
+                            <label id="tfa_1882-L" for="tfa_1882" class="label preField ">Format/Platform (ex. colorimetric ELISA, MSD, Luminex, etc)</label>
+                            <br>
+                            <div class="">
+                                <input type="text" id="tfa_1882" name="tfa_1882" value="" placeholder="" title="Format/Platform (ex. colorimetric ELISA, MSD, Luminex,, etc)" class=""></div>
+                        </div>
+                        <div id="tfa_1884-D" class="oneField form-group col-xs-12     ">
+                            <label id="tfa_1884-L" for="tfa_1884" class="label preField ">Capture antibody</label>
+                            <br>
+                            <div class="">
+                                <input type="text" id="tfa_1884" name="tfa_1884" value="" placeholder="" title="Capture antibody" class=""></div>
+                        </div>
+                        <div id="tfa_1886-D" class="oneField form-group col-xs-12     ">
+                            <label id="tfa_1886-L" for="tfa_1886" class="label preField ">Detection antibody</label>
+                            <br>
+                            <div class="">
+                                <input type="text" id="tfa_1886" name="tfa_1886" value="" placeholder="" title="Detection antibody" class=""></div>
+                        </div>
+                        <div id="tfa_1888-D" class="oneField form-group col-xs-12     ">
+                            <label id="tfa_1888-L" for="tfa_1888" class="label preField ">Protein standard utilized</label>
+                            <br>
+                            <div class="">
+                                <input type="text" id="tfa_1888" name="tfa_1888" value="" placeholder="" title="Protein standard utilized" class=""></div>
+                        </div>
+                    </div>
+                    <div class="htmlSection" id="tfa_1889">
+                        <div class="htmlContent" id="tfa_1889-HTML">
+                            Please indicate which biofluids(s) you have tested the assay on by checking the appropriate box(es) below. Please also
+indicate how the assay performed in your hands by filling in the assay characteristics below. If you have attempted the
+assay in a particular matrix, but were unable to detect oligomeric synuclein, please indicate that by checking the “not
+detected” box for that biolfluid.
+                        </div>
+                    </div>
+                </div>
+                <div id="tfa_220" class="section column empty group">
+                    <table class="columnLayout"></table>
+                </div>
+                <div id="tfa_1890" class="section group">
+                    <div id="tfa_1896" class="section inline group">
+                        <div id="tfa_225" class="section group">
+                            <div class="htmlSection" id="tfa_226">
+                                <div class="htmlContent" id="tfa_226-HTML">
+                                    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+                                </div>
+                            </div>
+                        </div>
+                        <div id="tfa_1908" class="section inline group">
+                            <div class="htmlSection" id="tfa_2233">
+                                <h3 class="htmlContent" id="tfa_2233-HTML">CSF</h3>
+                            </div>
+                            <input type="hidden" id="tfa_2179" name="tfa_2179" value="CSF" class="">
+                            <div id="tfa_1891-D" class="oneField form-group col-xs-12     ">
+                                <div class="">
+                                    <span id="tfa_1891" class="choices vertical ">
+                                        <span class="oneChoice">
+                                            <input type="checkbox" value="tfa_1892" class="" id="tfa_1892" name="tfa_1892">
+                                            <label class="label postField" id="tfa_1892-L" for="tfa_1892">Assessed</label>
+                                        </span>
+                                    </span>
+                                </div>
+                            </div>
+                            <div id="tfa_1911-D" class="oneField form-group col-xs-12     ">
+                                <label id="tfa_1911-L" for="tfa_1911" class="label preField ">Standard range</label>
+                                <br>
+                                <div class="">
+                                    <input type="text" id="tfa_1911" name="tfa_1911" value="" placeholder="" title="Standard range" class=""></div>
+                            </div>
+                            <div id="tfa_1912-D" class="oneField form-group col-xs-12     ">
+                                <label id="tfa_1912-L" for="tfa_1912" class="label preField ">LLOD:</label>
+                                <br>
+                                <div class="">
+                                    <input type="text" id="tfa_1912" name="tfa_1912" value="" placeholder="" title="LLOD:" class=""></div>
+                            </div>
+                            <div id="tfa_1913-D" class="oneField form-group col-xs-12     ">
+                                <div class="">
+                                    <span id="tfa_1913" class="choices vertical ">
+                                        <span class="oneChoice">
+                                            <input type="checkbox" value="tfa_1914" class="" id="tfa_1914" name="tfa_1914">
+                                            <label class="label postField" id="tfa_1914-L" for="tfa_1914">Not Detected</label>
+                                        </span>
+                                    </span>
+                                </div>
+                            </div>
+                        </div>
+                        <p class="h-divider">&nbsp;</p>
+                        <div class="htmlSection" id="tfa_2229">
+                            <h3 class="htmlContent" id="tfa_2229-HTML">Whole blood</h3>
+                        </div>
+                        <input type="hidden" id="tfa_2181" name="tfa_2181" value="whole blood" class="">
+                        <div id="tfa_1909-D" class="oneField form-group col-xs-12     ">
+                            <div class="">
+                                <span id="tfa_1909" class="choices vertical ">
+                                    <span class="oneChoice">
+                                        <input type="checkbox" value="tfa_1910" class="" id="tfa_1910" name="tfa_1910">
+                                        <label class="label postField" id="tfa_1910-L" for="tfa_1910">Assessed</label>
+                                    </span>
+                                </span>
+                            </div>
+                        </div>
+                        <div id="tfa_1893-D" class="oneField form-group col-xs-12     ">
+                            <label id="tfa_1893-L" for="tfa_1893" class="label preField ">Standard range</label>
+                            <br>
+                            <div class="">
+                                <input type="text" id="tfa_1893" name="tfa_1893" value="" placeholder="" title="Standard range" class=""></div>
+                        </div>
+                        <div id="tfa_1895-D" class="oneField form-group col-xs-12     ">
+                            <label id="tfa_1895-L" for="tfa_1895" class="label preField ">LLOD:</label>
+                            <br>
+                            <div class="">
+                                <input type="text" id="tfa_1895" name="tfa_1895" value="" placeholder="" title="LLOD:" class=""></div>
+                        </div>
+                        <div id="tfa_1899-D" class="oneField form-group col-xs-12     ">
+                            <div class="">
+                                <span id="tfa_1899" class="choices vertical ">
+                                    <span class="oneChoice">
+                                        <input type="checkbox" value="tfa_1900" class="" id="tfa_1900" name="tfa_1900">
+                                        <label class="label postField" id="tfa_1900-L" for="tfa_1900">Not Detected</label>
+                                    </span>
+                                </span>
+                            </div>
+                        </div>
+                    </div>
+                    <p class="h-divider">&nbsp;</p>
+                    <div class="htmlSection" id="tfa_2231">
+                        <h3 class="htmlContent" id="tfa_2231-HTML">Serum</h3>
+                    </div>
+                    <div id="tfa_1924" class="section inline group">
+                        <input type="hidden" id="tfa_2183" name="tfa_2183" value="serum" class="">
+                        <div id="tfa_1925-D" class="oneField form-group col-xs-12     ">
+                            <div class="">
+                                <span id="tfa_1925" class="choices vertical ">
+                                    <span class="oneChoice">
+                                        <input type="checkbox" value="tfa_1926" class="" id="tfa_1926" name="tfa_1926">
+                                        <label class="label postField" id="tfa_1926-L" for="tfa_1926">Assessed</label>
+                                    </span>
+                                </span>
+                            </div>
+                        </div>
+                        <div id="tfa_1927-D" class="oneField form-group col-xs-12     ">
+                            <label id="tfa_1927-L" for="tfa_1927" class="label preField ">Standard range</label>
+                            <br>
+                            <div class="">
+                                <input type="text" id="tfa_1927" name="tfa_1927" value="" placeholder="" title="Standard range" class=""></div>
+                        </div>
+                        <div id="tfa_1928-D" class="oneField form-group col-xs-12     ">
+                            <label id="tfa_1928-L" for="tfa_1928" class="label preField ">LLOD:</label>
+                            <br>
+                            <div class="">
+                                <input type="text" id="tfa_1928" name="tfa_1928" value="" placeholder="" title="LLOD:" class=""></div>
+                        </div>
+                        <div id="tfa_1929-D" class="oneField form-group col-xs-12     ">
+                            <div class="">
+                                <span id="tfa_1929" class="choices vertical ">
+                                    <span class="oneChoice">
+                                        <input type="checkbox" value="tfa_1930" class="" id="tfa_1930" name="tfa_1930">
+                                        <label class="label postField" id="tfa_1930-L" for="tfa_1930">Not Detected</label>
+                                    </span>
+                                </span>
+                            </div>
+                        </div>
+                    </div>
+                    <p class="h-divider">&nbsp;</p>
+                    <div id="tfa_1940" class="section inline group">
+                        <div class="htmlSection" id="tfa_2225">
+                            <h3 class="htmlContent" id="tfa_2225-HTML">Plasma</h3>
+                        </div>
+                        <input type="hidden" id="tfa_2185" name="tfa_2185" value="plasma" class="">
+                        <div id="tfa_1941-D" class="oneField form-group col-xs-12     ">
+                            <div class="">
+                                <span id="tfa_1941" class="choices vertical ">
+                                    <span class="oneChoice">
+                                        <input type="checkbox" value="tfa_1942" class="" id="tfa_1942" name="tfa_1942">
+                                        <label class="label postField" id="tfa_1942-L" for="tfa_1942">Assessed</label>
+                                    </span>
+                                </span>
+                            </div>
+                        </div>
+                        <div id="tfa_1943-D" class="oneField form-group col-xs-12     ">
+                            <label id="tfa_1943-L" for="tfa_1943" class="label preField ">Standard range</label>
+                            <br>
+                            <div class="">
+                                <input type="text" id="tfa_1943" name="tfa_1943" value="" placeholder="" title="Standard range" class=""></div>
+                        </div>
+                        <div id="tfa_1944-D" class="oneField form-group col-xs-12     ">
+                            <label id="tfa_1944-L" for="tfa_1944" class="label preField ">LLOD:</label>
+                            <br>
+                            <div class="">
+                                <input type="text" id="tfa_1944" name="tfa_1944" value="" placeholder="" title="LLOD:" class=""></div>
+                        </div>
+                        <div id="tfa_1945-D" class="oneField form-group col-xs-12     ">
+                            <div class="">
+                                <span id="tfa_1945" class="choices vertical ">
+                                    <span class="oneChoice">
+                                        <input type="checkbox" value="tfa_1946" class="" id="tfa_1946" name="tfa_1946">
+                                        <label class="label postField" id="tfa_1946-L" for="tfa_1946">Not Detected</label>
+                                    </span>
+                                </span>
+                            </div>
+                        </div>
+                    </div>
+                    <p class="h-divider">&nbsp;</p>
+                    <div class="htmlSection" id="tfa_2227">
+                        <h3 class="htmlContent" id="tfa_2227-HTML">Saliva</h3>
+                    </div>
+                    <div id="tfa_1956" class="section inline group">
+                        <input type="hidden" id="tfa_2187" name="tfa_2187" value="saliva" class="">
+                        <div id="tfa_1957-D" class="oneField form-group col-xs-12     ">
+                            <div class="">
+                                <span id="tfa_1957" class="choices vertical ">
+                                    <span class="oneChoice">
+                                        <input type="checkbox" value="tfa_1958" class="" id="tfa_1958" name="tfa_1958">
+                                        <label class="label postField" id="tfa_1958-L" for="tfa_1958">Assessed</label>
+                                    </span>
+                                </span>
+                            </div>
+                        </div>
+                        <div id="tfa_1959-D" class="oneField form-group col-xs-12     ">
+                            <label id="tfa_1959-L" for="tfa_1959" class="label preField ">Standard range</label>
+                            <br>
+                            <div class="">
+                                <input type="text" id="tfa_1959" name="tfa_1959" value="" placeholder="" title="Standard range" class=""></div>
+                        </div>
+                        <div id="tfa_1960-D" class="oneField form-group col-xs-12     ">
+                            <label id="tfa_1960-L" for="tfa_1960" class="label preField ">LLOD:</label>
+                            <br>
+                            <div class="">
+                                <input type="text" id="tfa_1960" name="tfa_1960" value="" placeholder="" title="LLOD:" class=""></div>
+                        </div>
+                        <div id="tfa_1961-D" class="oneField form-group col-xs-12     ">
+                            <div class="">
+                                <span id="tfa_1961" class="choices vertical ">
+                                    <span class="oneChoice">
+                                        <input type="checkbox" value="tfa_1962" class="" id="tfa_1962" name="tfa_1962">
+                                        <label class="label postField" id="tfa_1962-L" for="tfa_1962">Not Detected</label>
+                                    </span>
+                                </span>
+                            </div>
+                        </div>
+                    </div>
+                    <p class="h-divider">&nbsp;</p>
+                    <div class="htmlSection" id="tfa_2223">
+                        <h3 class="htmlContent" id="tfa_2223-HTML">Urine</h3>
+                    </div>
+                    <div id="tfa_1972" class="section inline group">
+                        <input type="hidden" id="tfa_2189" name="tfa_2189" value="urine" class="">
+                        <div id="tfa_1973-D" class="oneField form-group col-xs-12     ">
+                            <div class="">
+                                <span id="tfa_1973" class="choices vertical ">
+                                    <span class="oneChoice">
+                                        <input type="checkbox" value="tfa_1974" class="" id="tfa_1974" name="tfa_1974">
+                                        <label class="label postField" id="tfa_1974-L" for="tfa_1974">Assessed</label>
+                                    </span>
+                                </span>
+                            </div>
+                        </div>
+                        <div id="tfa_1975-D" class="oneField form-group col-xs-12     ">
+                            <label id="tfa_1975-L" for="tfa_1975" class="label preField ">Standard range</label>
+                            <br>
+                            <div class="">
+                                <input type="text" id="tfa_1975" name="tfa_1975" value="" placeholder="" title="Standard range" class=""></div>
+                        </div>
+                        <div id="tfa_1976-D" class="oneField form-group col-xs-12     ">
+                            <label id="tfa_1976-L" for="tfa_1976" class="label preField ">LLOD:</label>
+                            <br>
+                            <div class="">
+                                <input type="text" id="tfa_1976" name="tfa_1976" value="" placeholder="" title="LLOD:" class=""></div>
+                        </div>
+                        <div id="tfa_1977-D" class="oneField form-group col-xs-12     ">
+                            <div class="">
+                                <span id="tfa_1977" class="choices vertical ">
+                                    <span class="oneChoice">
+                                        <input type="checkbox" value="tfa_1978" class="" id="tfa_1978" name="tfa_1978">
+                                        <label class="label postField" id="tfa_1978-L" for="tfa_1978">Not Detected</label>
+                                    </span>
+                                </span>
+                            </div>
+                        </div>
+                    </div>
+                    <p class="h-divider-thick">&nbsp;</p>
+                    <div id="tfa_1988" class="section inline group">
+                        <div id="tfa_2013-D" class="oneField form-group col-xs-12   labelsAbove  ">
+                            <label id="tfa_2013-L" for="tfa_2013" class="label preField ">other:</label>
+                            <br>
+                            <div class="">
+                                <input type="text" id="tfa_2013" name="tfa_2013" value="" placeholder="" title="other:" class=""></div>
+                        </div>
+                        <div id="tfa_1989-D" class="oneField form-group col-xs-12     ">
+                            <div class="">
+                                <span id="tfa_1989" class="choices vertical ">
+                                    <span class="oneChoice">
+                                        <input type="checkbox" value="tfa_1990" class="" id="tfa_1990" name="tfa_1990">
+                                        <label class="label postField" id="tfa_1990-L" for="tfa_1990">Assessed</label>
+                                    </span>
+                                </span>
+                            </div>
+                        </div>
+                        <div id="tfa_1991-D" class="oneField form-group col-xs-12     ">
+                            <label id="tfa_1991-L" for="tfa_1991" class="label preField ">Standard range</label>
+                            <br>
+                            <div class="">
+                                <input type="text" id="tfa_1991" name="tfa_1991" value="" placeholder="" title="Standard range" class=""></div>
+                        </div>
+                        <div id="tfa_1992-D" class="oneField form-group col-xs-12     ">
+                            <label id="tfa_1992-L" for="tfa_1992" class="label preField ">LLOD:</label>
+                            <br>
+                            <div class="">
+                                <input type="text" id="tfa_1992" name="tfa_1992" value="" placeholder="" title="LLOD:" class=""></div>
+                        </div>
+                        <div id="tfa_1993-D" class="oneField form-group col-xs-12     ">
+                            <div class="">
+                                <span id="tfa_1993" class="choices vertical ">
+                                    <span class="oneChoice">
+                                        <input type="checkbox" value="tfa_1994" class="" id="tfa_1994" name="tfa_1994">
+                                        <label class="label postField" id="tfa_1994-L" for="tfa_1994">Not Detected</label>
+                                    </span>
+                                </span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div id="tfa_2014-D" class="oneField form-group col-xs-12     ">
+                    <label id="tfa_2014-L" for="tfa_2014" class="label preField ">
+                        Are there any special considerations applicable
+                        <br>to successful use of the assay?</label>
+                    <br>
+                    <div class="">
+                        <textarea id="tfa_2014" name="tfa_2014" title="Are there any special considerations applicable to successful use of the assay?" class=""></textarea>
+                    </div>
+                </div>
+                <div id="tfa_2016-D" class="oneField form-group col-xs-12     ">
+                    <label id="tfa_2016-L" for="tfa_2016" class="label preField ">
+                        If you have published on this assay, or know of publications
+                        <br>utilizing this assay, please provide the reference here.</label>
+                    <br>
+                    <div class="">
+                        <textarea id="tfa_2016" name="tfa_2016" title="If you have published on this assay, or know of publications utilizing this assay, please provide the reference here." class=""></textarea>
+                    </div>
+                </div>
+                <div id="tfa_2018-D" class="oneField form-group col-xs-12     ">
+                    <label id="tfa_2018-L" for="tfa_2018" class="label preField ">
+                        Have you tested the assay in Parkinson’s and control samples?
+                        <br>
+                        If so, please summarize the results/performance
+characteristics here
+                        <br>
+                        (including %CV, sensitivity, specificity, etc. if applicable)
+                    </label>
+                    <br>
+                    <div class="">
+                        <textarea id="tfa_2018" name="tfa_2018" title="Have you tested the assay in Parkinson’s and control samples? If so, please summarize the results/performance characteristics here (including %CV, sensitivity, specificity, etc. if applicable)" class=""></textarea>
+                    </div>
+                </div>
+                <div class="htmlSection" id="tfa_2019">
+                    <div class="htmlContent" id="tfa_2019-HTML">Please fill in the following (Antibodies)</div>
+                </div>
+                <div id="tfa_2020-D" class="oneField form-group col-xs-12     ">
+                    <label id="tfa_2020-L" for="tfa_2020" class="label preField ">Antibody/Clone Name</label>
+                    <br>
+                    <div class="">
+                        <input type="text" id="tfa_2020" name="tfa_2020" value="" placeholder="" title="Antibody/Clone Name" class=""></div>
+                </div>
+                <div id="tfa_2022-D" class="oneField form-group col-xs-12     ">
+                    <label id="tfa_2022-L" for="tfa_2022" class="label preField ">Manufacturer &amp; Catalogue #/Originating lab</label>
+                    <br>
+                    <div class="">
+                        <input type="text" id="tfa_2022" name="tfa_2022" value="" placeholder="" title="Manufacturer &amp; Catalogue #/Originating lab" class=""></div>
+                </div>
+                <div id="tfa_2027" class="section inline group">
+                    <div id="tfa_2024-D" class="oneField form-group col-xs-12     ">
+                        <label id="tfa_2024-L" for="tfa_2024" class="label preField ">Host species</label>
+                        <br>
+                        <div class="">
+                            <input type="text" id="tfa_2024" name="tfa_2024" value="" placeholder="" title="Host species" class=""></div>
+                    </div>
+                    <div id="tfa_2026-D" class="oneField form-group col-xs-12     ">
+                        <label id="tfa_2026-L" for="tfa_2026" class="label preField ">Reacts with (human, mouse, rat, etc)</label>
+                        <br>
+                        <div class="">
+                            <input type="text" id="tfa_2026" name="tfa_2026" value="" placeholder="" title="Reacts with (human, mouse, rat, etc)" class=""></div>
+                    </div>
+                </div>
+                <div id="tfa_2032" class="section inline group">
+                    <div id="tfa_2029-D" class="oneField form-group col-xs-12     ">
+                        <label id="tfa_2029-L" for="tfa_2029" class="label preField ">Avidity</label>
+                        <br>
+                        <div class="">
+                            <input type="text" id="tfa_2029" name="tfa_2029" value="" placeholder="" title="Avidity" class=""></div>
+                    </div>
+                    <div id="tfa_2031-D" class="oneField form-group col-xs-12     ">
+                        <label id="tfa_2031-L" for="tfa_2031" class="label preField ">Concentration</label>
+                        <br>
+                        <div class="">
+                            <input type="text" id="tfa_2031" name="tfa_2031" value="" placeholder="" title="Concentration" class=""></div>
+                    </div>
+                </div>
+                <div class="htmlSection" id="tfa_2033">
+                    <div class="htmlContent" id="tfa_2033-HTML">Production method/purification:</div>
+                </div>
+                <div id="tfa_2034" class="section column group">
+                    <div id="tfa_2035-D" class="oneField     ">
+                        <label id="tfa_2035-L" for="tfa_2035" class="label preField ">
+                            Does the antibody also detect other beta pleated sheet structures?&nbsp;&nbsp;
+                        </label>
+                        <br>
+                        <div class="inputWrapper">
+                            <table id="tfa_2035" class="choices columns5 ">
+                                <tr>
+                                    <td>
+                                        <span class="oneChoice">
+                                            <input type="checkbox" value="tfa_2036" class="" id="tfa_2036" name="tfa_2036">
+                                            <label class="label postField" id="tfa_2036-L" for="tfa_2036">A-beta</label>
+                                        </span>
+                                    </td>
+                                    <td>
+                                        <span class="oneChoice">
+                                            <input type="checkbox" value="tfa_2037" class="" id="tfa_2037" name="tfa_2037">
+                                            <label class="label postField" id="tfa_2037-L" for="tfa_2037">Tau</label>
+                                        </span>
+                                    </td>
+                                    <td>
+                                        <span class="oneChoice">
+                                            <input type="checkbox" value="tfa_2038" class="" id="tfa_2038" name="tfa_2038">
+                                            <label class="label postField" id="tfa_2038-L" for="tfa_2038">PrP</label>
+                                        </span>
+                                    </td>
+                                    <td>
+                                        <span class="oneChoice">
+                                            <input type="checkbox" value="tfa_2039" class="" id="tfa_2039" name="tfa_2039">
+                                            <label class="label postField" id="tfa_2039-L" for="tfa_2039">TDP-43</label>
+                                        </span>
+                                    </td>
+                                    <td>
+                                        <span class="oneChoice">
+                                            <input type="checkbox" value="tfa_2040" class="" id="tfa_2040" name="tfa_2040">
+                                            <label class="label postField" id="tfa_2040-L" for="tfa_2040">Other</label>
+                                        </span>
+                                    </td>
+                                </tr>
+                            </table>
+                        </div>
+                    </div>
+                    <div id="tfa_2045" class="section inline group">
+                        <div id="tfa_2041-D" class="oneField form-group col-xs-12     ">
+                            <div class="">
+                                <span id="tfa_2041" class="choices vertical ">
+                                    <span class="oneChoice">
+                                        <input type="checkbox" value="tfa_2042" class="" id="tfa_2042" name="tfa_2042">
+                                        <label class="label postField" id="tfa_2042-L" for="tfa_2042">Polyclonal</label>
+                                    </span>
+                                    <span class="oneChoice">
+                                        <input type="checkbox" value="tfa_2043" class="" id="tfa_2043" name="tfa_2043">
+                                        <label class="label postField" id="tfa_2043-L" for="tfa_2043">Monoclonal</label>
+                                    </span>
+                                </span>
+                            </div>
+                        </div>
+                        <div id="tfa_2044-D" class="oneField form-group col-xs-12     ">
+                            <label id="tfa_2044-L" for="tfa_2044" class="label preField ">Immunogen</label>
+                            <br>
+                            <div class="">
+                                <input type="text" id="tfa_2044" name="tfa_2044" value="" placeholder="" title="Immunogen" class=""></div>
+                        </div>
+                    </div>
+                    <div class="htmlSection" id="tfa_2047">
+                        <div class="htmlContent" id="tfa_2047-HTML">
+                            Please indicate which biofluids(s) you have tested the assay on by checking the appropriate box(es) below. Please also
+indicate how the assay performed in your hands by filling in the assay characteristics below. If you have attempted the
+assay in a particular matrix, but were unable to detect oligomeric synuclein, please indicate that by checking the “not
+detected” box for that biolfluid.
+                        </div>
+                    </div>
+                    <div id="tfa_2002" class="section inline group">
+                        <div class="htmlSection" id="tfa_2222">
+                            <h3 class="htmlContent" id="tfa_2222-HTML">ELISA</h3>
+                        </div>
+                        <input type="hidden" id="tfa_2190" name="tfa_2190" value="ELISA" class="">
+                        <div id="tfa_2003-D" class="oneField form-group col-xs-12     ">
+                            <div class="">
+                                <span id="tfa_2003" class="choices vertical ">
+                                    <span class="oneChoice">
+                                        <input type="checkbox" value="tfa_2004" class="" id="tfa_2004" name="tfa_2004">
+                                        <label class="label postField" id="tfa_2004-L" for="tfa_2004">Assessed</label>
+                                    </span>
+                                </span>
+                            </div>
+                        </div>
+                        <div id="tfa_2005-D" class="oneField form-group col-xs-12     ">
+                            <label id="tfa_2005-L" for="tfa_2005" class="label preField ">Standard range</label>
+                            <br>
+                            <div class="">
+                                <input type="text" id="tfa_2005" name="tfa_2005" value="" placeholder="" title="Standard range" class=""></div>
+                        </div>
+                        <div id="tfa_2006-D" class="oneField form-group col-xs-12     ">
+                            <label id="tfa_2006-L" for="tfa_2006" class="label preField ">LLOD:</label>
+                            <br>
+                            <div class="">
+                                <input type="text" id="tfa_2006" name="tfa_2006" value="" placeholder="" title="LLOD:" class=""></div>
+                        </div>
+                        <div id="tfa_2007-D" class="oneField form-group col-xs-12     ">
+                            <div class="">
+                                <span id="tfa_2007" class="choices vertical ">
+                                    <span class="oneChoice">
+                                        <input type="checkbox" value="tfa_2008" class="" id="tfa_2008" name="tfa_2008">
+                                        <label class="label postField" id="tfa_2008-L" for="tfa_2008">Not Detected</label>
+                                    </span>
+                                </span>
+                            </div>
+                        </div>
+                    </div>
+                    <p class="h-divider">&nbsp;</p>
+                    <div id="tfa_2055" class="section inline group">
+                        <div class="htmlSection" id="tfa_2220">
+                            <h3 class="htmlContent" id="tfa_2220-HTML">Western</h3>
+                        </div>
+                        <input type="hidden" id="tfa_2192" name="tfa_2192" value="Western" class="">
+                        <div id="tfa_2056-D" class="oneField form-group col-xs-12     ">
+                            <div class="">
+                                <span id="tfa_2056" class="choices vertical ">
+                                    <span class="oneChoice">
+                                        <input type="checkbox" value="tfa_2057" class="" id="tfa_2057" name="tfa_2057">
+                                        <label class="label postField" id="tfa_2057-L" for="tfa_2057">Assessed</label>
+                                    </span>
+                                </span>
+                            </div>
+                        </div>
+                        <div id="tfa_2058-D" class="oneField form-group col-xs-12     ">
+                            <label id="tfa_2058-L" for="tfa_2058" class="label preField ">Standard range</label>
+                            <br>
+                            <div class="">
+                                <input type="text" id="tfa_2058" name="tfa_2058" value="" placeholder="" title="Standard range" class=""></div>
+                        </div>
+                        <div id="tfa_2059-D" class="oneField form-group col-xs-12     ">
+                            <label id="tfa_2059-L" for="tfa_2059" class="label preField ">LLOD:</label>
+                            <br>
+                            <div class="">
+                                <input type="text" id="tfa_2059" name="tfa_2059" value="" placeholder="" title="LLOD:" class=""></div>
+                        </div>
+                        <div id="tfa_2060-D" class="oneField form-group col-xs-12     ">
+                            <div class="">
+                                <span id="tfa_2060" class="choices vertical ">
+                                    <span class="oneChoice">
+                                        <input type="checkbox" value="tfa_2061" class="" id="tfa_2061" name="tfa_2061">
+                                        <label class="label postField" id="tfa_2061-L" for="tfa_2061">Not Detected</label>
+                                    </span>
+                                </span>
+                            </div>
+                        </div>
+                    </div>
+                    <p class="h-divider">&nbsp;</p>
+                    <div id="tfa_2069" class="section inline group">
+                        <div class="htmlSection" id="tfa_2218">
+                            <h3 class="htmlContent" id="tfa_2218-HTML">IP</h3>
+                        </div>
+                        <input type="hidden" id="tfa_2194" name="tfa_2194" value="IP" class="">
+                        <div id="tfa_2070-D" class="oneField form-group col-xs-12     ">
+                            <div class="">
+                                <span id="tfa_2070" class="choices vertical ">
+                                    <span class="oneChoice">
+                                        <input type="checkbox" value="tfa_2071" class="" id="tfa_2071" name="tfa_2071">
+                                        <label class="label postField" id="tfa_2071-L" for="tfa_2071">Assessed</label>
+                                    </span>
+                                </span>
+                            </div>
+                        </div>
+                        <div id="tfa_2072-D" class="oneField form-group col-xs-12     ">
+                            <label id="tfa_2072-L" for="tfa_2072" class="label preField ">Standard range</label>
+                            <br>
+                            <div class="">
+                                <input type="text" id="tfa_2072" name="tfa_2072" value="" placeholder="" title="Standard range" class=""></div>
+                        </div>
+                        <div id="tfa_2073-D" class="oneField form-group col-xs-12     ">
+                            <label id="tfa_2073-L" for="tfa_2073" class="label preField ">LLOD:</label>
+                            <br>
+                            <div class="">
+                                <input type="text" id="tfa_2073" name="tfa_2073" value="" placeholder="" title="LLOD:" class=""></div>
+                        </div>
+                        <div id="tfa_2074-D" class="oneField form-group col-xs-12     ">
+                            <div class="">
+                                <span id="tfa_2074" class="choices vertical ">
+                                    <span class="oneChoice">
+                                        <input type="checkbox" value="tfa_2075" class="" id="tfa_2075" name="tfa_2075">
+                                        <label class="label postField" id="tfa_2075-L" for="tfa_2075">Not Detected</label>
+                                    </span>
+                                </span>
+                            </div>
+                        </div>
+                    </div>
+                    <p class="h-divider">&nbsp;</p>
+                    <div id="tfa_2083" class="section inline group">
+                        <div class="htmlSection" id="tfa_2216">
+                            <h3 class="htmlContent" id="tfa_2216-HTML">IHC</h3>
+                        </div>
+                        <input type="hidden" id="tfa_2196" name="tfa_2196" value="IHC" class="">
+                        <div id="tfa_2084-D" class="oneField form-group col-xs-12     ">
+                            <div class="">
+                                <span id="tfa_2084" class="choices vertical ">
+                                    <span class="oneChoice">
+                                        <input type="checkbox" value="tfa_2085" class="" id="tfa_2085" name="tfa_2085">
+                                        <label class="label postField" id="tfa_2085-L" for="tfa_2085">Assessed</label>
+                                    </span>
+                                </span>
+                            </div>
+                        </div>
+                        <div id="tfa_2086-D" class="oneField form-group col-xs-12     ">
+                            <label id="tfa_2086-L" for="tfa_2086" class="label preField ">Standard range</label>
+                            <br>
+                            <div class="">
+                                <input type="text" id="tfa_2086" name="tfa_2086" value="" placeholder="" title="Standard range" class=""></div>
+                        </div>
+                        <div id="tfa_2087-D" class="oneField form-group col-xs-12     ">
+                            <label id="tfa_2087-L" for="tfa_2087" class="label preField ">LLOD:</label>
+                            <br>
+                            <div class="">
+                                <input type="text" id="tfa_2087" name="tfa_2087" value="" placeholder="" title="LLOD:" class=""></div>
+                        </div>
+                        <div id="tfa_2088-D" class="oneField form-group col-xs-12     ">
+                            <div class="">
+                                <span id="tfa_2088" class="choices vertical ">
+                                    <span class="oneChoice">
+                                        <input type="checkbox" value="tfa_2089" class="" id="tfa_2089" name="tfa_2089">
+                                        <label class="label postField" id="tfa_2089-L" for="tfa_2089">Not Detected</label>
+                                    </span>
+                                </span>
+                            </div>
+                        </div>
+                    </div>
+                    <p class="h-divider">&nbsp;</p>
+                    <div id="tfa_2097" class="section inline group">
+                        <div class="htmlSection" id="tfa_2214">
+                            <h3 class="htmlContent" id="tfa_2214-HTML">IF</h3>
+                        </div>
+                        <input type="hidden" id="tfa_2198" name="tfa_2198" value="IF" class="">
+                        <div id="tfa_2098-D" class="oneField form-group col-xs-12     ">
+                            <div class="">
+                                <span id="tfa_2098" class="choices vertical ">
+                                    <span class="oneChoice">
+                                        <input type="checkbox" value="tfa_2099" class="" id="tfa_2099" name="tfa_2099">
+                                        <label class="label postField" id="tfa_2099-L" for="tfa_2099">Assessed</label>
+                                    </span>
+                                </span>
+                            </div>
+                        </div>
+                        <div id="tfa_2100-D" class="oneField form-group col-xs-12     ">
+                            <label id="tfa_2100-L" for="tfa_2100" class="label preField ">Standard range</label>
+                            <br>
+                            <div class="">
+                                <input type="text" id="tfa_2100" name="tfa_2100" value="" placeholder="" title="Standard range" class=""></div>
+                        </div>
+                        <div id="tfa_2101-D" class="oneField form-group col-xs-12     ">
+                            <label id="tfa_2101-L" for="tfa_2101" class="label preField ">LLOD:</label>
+                            <br>
+                            <div class="">
+                                <input type="text" id="tfa_2101" name="tfa_2101" value="" placeholder="" title="LLOD:" class=""></div>
+                        </div>
+                        <div id="tfa_2102-D" class="oneField form-group col-xs-12     ">
+                            <div class="">
+                                <span id="tfa_2102" class="choices vertical ">
+                                    <span class="oneChoice">
+                                        <input type="checkbox" value="tfa_2103" class="" id="tfa_2103" name="tfa_2103">
+                                        <label class="label postField" id="tfa_2103-L" for="tfa_2103">Not Detected</label>
+                                    </span>
+                                </span>
+                            </div>
+                        </div>
+                    </div>
+                    <p class="h-divider">&nbsp;</p>
+                    <div id="tfa_2111" class="section inline group">
+                        <div class="htmlSection" id="tfa_2212">
+                            <h3 class="htmlContent" id="tfa_2212-HTML">Flow-Cyt</h3>
+                        </div>
+                        <input type="hidden" id="tfa_2200" name="tfa_2200" value="Flow-Cyt" class="">
+                        <div id="tfa_2112-D" class="oneField form-group col-xs-12     ">
+                            <div class="">
+                                <span id="tfa_2112" class="choices vertical ">
+                                    <span class="oneChoice">
+                                        <input type="checkbox" value="tfa_2113" class="" id="tfa_2113" name="tfa_2113">
+                                        <label class="label postField" id="tfa_2113-L" for="tfa_2113">Assessed</label>
+                                    </span>
+                                </span>
+                            </div>
+                        </div>
+                        <div id="tfa_2114-D" class="oneField form-group col-xs-12     ">
+                            <label id="tfa_2114-L" for="tfa_2114" class="label preField ">Standard range</label>
+                            <br>
+                            <div class="">
+                                <input type="text" id="tfa_2114" name="tfa_2114" value="" placeholder="" title="Standard range" class=""></div>
+                        </div>
+                        <div id="tfa_2115-D" class="oneField form-group col-xs-12     ">
+                            <label id="tfa_2115-L" for="tfa_2115" class="label preField ">LLOD:</label>
+                            <br>
+                            <div class="">
+                                <input type="text" id="tfa_2115" name="tfa_2115" value="" placeholder="" title="LLOD:" class=""></div>
+                        </div>
+                        <div id="tfa_2116-D" class="oneField form-group col-xs-12     ">
+                            <div class="">
+                                <span id="tfa_2116" class="choices vertical ">
+                                    <span class="oneChoice">
+                                        <input type="checkbox" value="tfa_2117" class="" id="tfa_2117" name="tfa_2117">
+                                        <label class="label postField" id="tfa_2117-L" for="tfa_2117">Not Detected</label>
+                                    </span>
+                                </span>
+                            </div>
+                        </div>
+                    </div>
+                    <p class="h-divider">&nbsp;</p>
+                    <div id="tfa_2125" class="section inline group">
+                        <div class="htmlSection" id="tfa_2210">
+                            <h3 class="htmlContent" id="tfa_2210-HTML">ICC</h3>
+                        </div>
+                        <input type="hidden" id="tfa_2202" name="tfa_2202" value="ICC" class="">
+                        <div id="tfa_2126-D" class="oneField form-group col-xs-12     ">
+                            <div class="">
+                                <span id="tfa_2126" class="choices vertical ">
+                                    <span class="oneChoice">
+                                        <input type="checkbox" value="tfa_2127" class="" id="tfa_2127" name="tfa_2127">
+                                        <label class="label postField" id="tfa_2127-L" for="tfa_2127">Assessed</label>
+                                    </span>
+                                </span>
+                            </div>
+                        </div>
+                        <div id="tfa_2128-D" class="oneField form-group col-xs-12     ">
+                            <label id="tfa_2128-L" for="tfa_2128" class="label preField ">Standard range</label>
+                            <br>
+                            <div class="">
+                                <input type="text" id="tfa_2128" name="tfa_2128" value="" placeholder="" title="Standard range" class=""></div>
+                        </div>
+                        <div id="tfa_2129-D" class="oneField form-group col-xs-12     ">
+                            <label id="tfa_2129-L" for="tfa_2129" class="label preField ">LLOD:</label>
+                            <br>
+                            <div class="">
+                                <input type="text" id="tfa_2129" name="tfa_2129" value="" placeholder="" title="LLOD:" class=""></div>
+                        </div>
+                        <div id="tfa_2130-D" class="oneField form-group col-xs-12     ">
+                            <div class="">
+                                <span id="tfa_2130" class="choices vertical ">
+                                    <span class="oneChoice">
+                                        <input type="checkbox" value="tfa_2131" class="" id="tfa_2131" name="tfa_2131">
+                                        <label class="label postField" id="tfa_2131-L" for="tfa_2131">Not Detected</label>
+                                    </span>
+                                </span>
+                            </div>
+                        </div>
+                    </div>
+                    <p class="h-divider">&nbsp;</p>
+                    <div id="tfa_2153" class="section inline group">
+                        <div id="tfa_2139" class="section inline group">
+                            <div class="htmlSection" id="tfa_2208">
+                                <h3 class="htmlContent" id="tfa_2208-HTML">FACS</h3>
+                            </div>
+                            <input type="hidden" id="tfa_2204" name="tfa_2204" value="FACS" class="">
+                            <div id="tfa_2140-D" class="oneField form-group col-xs-12     ">
+                                <div class="">
+                                    <span id="tfa_2140" class="choices vertical ">
+                                        <span class="oneChoice">
+                                            <input type="checkbox" value="tfa_2141" class="" id="tfa_2141" name="tfa_2141">
+                                            <label class="label postField" id="tfa_2141-L" for="tfa_2141">Assessed</label>
+                                        </span>
+                                    </span>
+                                </div>
+                            </div>
+                            <div id="tfa_2142-D" class="oneField form-group col-xs-12     ">
+                                <label id="tfa_2142-L" for="tfa_2142" class="label preField ">Standard range</label>
+                                <br>
+                                <div class="">
+                                    <input type="text" id="tfa_2142" name="tfa_2142" value="" placeholder="" title="Standard range" class=""></div>
+                            </div>
+                            <div id="tfa_2143-D" class="oneField form-group col-xs-12     ">
+                                <label id="tfa_2143-L" for="tfa_2143" class="label preField ">LLOD:</label>
+                                <br>
+                                <div class="">
+                                    <input type="text" id="tfa_2143" name="tfa_2143" value="" placeholder="" title="LLOD:" class=""></div>
+                            </div>
+                            <div id="tfa_2144-D" class="oneField form-group col-xs-12     ">
+                                <div class="">
+                                    <span id="tfa_2144" class="choices vertical ">
+                                        <span class="oneChoice">
+                                            <input type="checkbox" value="tfa_2145" class="" id="tfa_2145" name="tfa_2145">
+                                            <label class="label postField" id="tfa_2145-L" for="tfa_2145">Not Detected</label>
+                                        </span>
+                                    </span>
+                                </div>
+                            </div>
+                        </div>
+                        <p class="h-divider">&nbsp;</p>
+                        <div class="htmlSection" id="tfa_2175">
+                            <h3 class="htmlContent" id="tfa_2175-HTML">Dot Blot</h3>
+                        </div>
+                        <input type="hidden" id="tfa_2206" name="tfa_2206" value="Dot Blot" class="">
+                        <div id="tfa_2154-D" class="oneField form-group col-xs-12     ">
+                            <div class="">
+                                <span id="tfa_2154" class="choices vertical ">
+                                    <span class="oneChoice">
+                                        <input type="checkbox" value="tfa_2155" class="" id="tfa_2155" name="tfa_2155">
+                                        <label class="label postField" id="tfa_2155-L" for="tfa_2155">Assessed</label>
+                                    </span>
+                                </span>
+                            </div>
+                        </div>
+                        <div id="tfa_2156-D" class="oneField form-group col-xs-12     ">
+                            <label id="tfa_2156-L" for="tfa_2156" class="label preField ">Standard range</label>
+                            <br>
+                            <div class="">
+                                <input type="text" id="tfa_2156" name="tfa_2156" value="" placeholder="" title="Standard range" class=""></div>
+                        </div>
+                        <div id="tfa_2157-D" class="oneField form-group col-xs-12     ">
+                            <label id="tfa_2157-L" for="tfa_2157" class="label preField ">LLOD:</label>
+                            <br>
+                            <div class="">
+                                <input type="text" id="tfa_2157" name="tfa_2157" value="" placeholder="" title="LLOD:" class=""></div>
+                        </div>
+                        <div id="tfa_2158-D" class="oneField form-group col-xs-12     ">
+                            <div class="">
+                                <span id="tfa_2158" class="choices vertical ">
+                                    <span class="oneChoice">
+                                        <input type="checkbox" value="tfa_2159" class="" id="tfa_2159" name="tfa_2159">
+                                        <label class="label postField" id="tfa_2159-L" for="tfa_2159">Not Detected</label>
+                                    </span>
+                                </span>
+                            </div>
+                        </div>
+                    </div>
+                    <div id="tfa_2234" class="section inline group">
+                        <div id="tfa_2176-D" class="oneField form-group col-xs-12     ">
+                            <label id="tfa_2176-L" for="tfa_2176" class="label preField " width="100">
+                                If you have published on this antibody, or know of other publications
+                                <br>utilizing it, please provide the reference.</label>
+                            <br>
+                            <div class="">
+                                <textarea id="tfa_2176" name="tfa_2176" title="If you have published on this antibody, or know of other publications<br>utilizing it, please provide the reference." class=""></textarea>
+                            </div>
+                        </div>
+                        <div id="tfa_2178-D" class="oneField form-group col-xs-12     ">
+                            <label id="tfa_2178-L" for="tfa_2178" class="label preField ">
+                                Have you assessed the antibody in Parkinson’s compared
+                                <br>
+                                to control samples?
+                                <br>If so, please summarize the results here.</label>
+                            <br>
+                            <div class="">
+                                <textarea id="tfa_2178" name="tfa_2178" title="Have you assessed the antibody in Parkinson’s compared to control samples? If so, please summarize the results here." class=""></textarea>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="actions" id="tfa_0-A">
+                        <input type="submit" class="primaryAction" value="Submit"></div>
+                    <div style="clear:both"></div>
+                    <input type="hidden" value="410264" name="tfa_dbFormId" id="tfa_dbFormId">
+                    <input type="hidden" value="" name="tfa_dbResponseId" id="tfa_dbResponseId">
+                    <input type="hidden" value="3d7708a5027037e6411f540149ba5333" name="tfa_dbControl" id="tfa_dbControl">
+                    <input type="hidden" value="42" name="tfa_dbVersionId" id="tfa_dbVersionId">
+                    <input type="hidden" value="" name="tfa_switchedoff" id="tfa_switchedoff">
+                    <div class="saveAndResume">
+                        <div class="oneField form-group col-xs-12 ">
+                            <a href="#" id="tfa_saveForLaterLink">Save my progress and resume later</a><br />
+                            |
+                            <a href="http://www.tfaforms.com/forms/resume/410264" onclick="return confirm('Are you sure you want to resume a previous response? Any information you just entered on this page will be discarded.');">Resume a previously saved form</a>
+                        </div>
+                    </div>
+                </form>
+            </div>
+        </div>
+
+        <p class="supportInfo" >
+            <a href="https://www.tfaforms.com/forms/help/410264" target="new" style="font-size: 0.7em;">Need assistance with this form?</a>
+
+        </p>
+
+    </div>
